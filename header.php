@@ -7,7 +7,7 @@
 </head>
 <header>
 		<figure>
-			<img class="logo" src="images/logo.png">
+			<a href="http://www.uiberoamericana.cl/"><img class="logo" src="images/logo.png"></a>
 		</figure>
 		<nav>
 		  <ul>	
