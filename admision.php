@@ -6,6 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 </head>
 <body>
-	
+	<p>hola</p>
 </body>
 </html>
