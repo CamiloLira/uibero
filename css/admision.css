@@ -47,12 +47,13 @@ body {
 /*CSS HEADER*/
 
 header {
-	background-color: #104395;
-	border-bottom: 9px solid #8af2ff;
-	color: white;
-	height: 141px;
-	font-size: .9em;
-	width: 100%;
+    background-color: #104395;
+    border-bottom: 9px solid #8af2ff;
+    color: white;
+    height: 141px;
+    letter-spacing: 0.5em;
+    font-size: .8em;
+    width: 100%;
 
 }
 
