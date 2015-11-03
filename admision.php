@@ -14,7 +14,7 @@
 	<div class="container-slider">
 		
 	</div>
-<<<<<<< HEAD
+
 	<!-- cierre Container Slider -->
 	<!-- barra facultadades -->
 		<figure>
@@ -24,20 +24,32 @@
 	<div class="facultades">
 		
 		<!-- facultad educacion hexagono-->
+	
 		<div class="facultad-educacion">
 			<img src="images/rojo.png">
 			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
 				Y EDUCACIÓN</p><a/>
-			<div class="mover-carreras-facultad">
-				<p class="texto-facultades">Pedagogía en Ingles</p>
-				<p class="texto-facultades">Pedagogía en Matemáticas y Fisica</p>
+			<div class="mover-carreras">
+				<p class="carreras-facultades">Pedagogía en Ingles</p>
+				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
 			</div>
 		</div>
+	
+		<div class="facultad-ingeneria">
+			<img src="images/morado.png">
+			<a href=""><p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
+				DE LA INGENERIA Y ADMINISTRACIÓN</p><a/>
+			<div class="mover-carreras">
+				<p class="carreras-facultades">Pedagogía en Ingles</p>
+				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+			</div>
+		</div>
+
 
 		
 			
 	</div>
-=======
+
     	<!-- formulario -->
     <div id="formulario"><form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
 	<div class="row">

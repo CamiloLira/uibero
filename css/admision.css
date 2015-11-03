@@ -113,8 +113,8 @@ header nav ul li  {
 .facultades{
 	height: 613px;
 	width: 100%;
-	display: inline-block;
 }
+
 
 .barrafacultades{
 	position: relative;
@@ -124,9 +124,13 @@ header nav ul li  {
 
 .facultad-educacion{
 	width: 183px;
-	height: 684px;
+	height: 387px;
 }
 
+.facultad-ingeneria{
+	width: 183px;
+	height: 387px;
+}
 
 
 /*CSS de Textos*/
@@ -138,6 +142,9 @@ header nav ul li  {
 
 .carreras-facultades{
 	color: #08245a;
+	font-size: 0.5em;
+	line-height: 20px;
+	text-align: center;
 }
 
 
