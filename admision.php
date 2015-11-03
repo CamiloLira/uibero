@@ -103,7 +103,7 @@
 							</figure>
 
 							<div class="aqui-estamos">
-								<p class="blanco">AQUÍ ESTAMOS</p>
+								<p class="blanco">Aquí estamos</p>
 							</div>
 
 						</div>
