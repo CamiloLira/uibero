@@ -66,12 +66,18 @@ header nav ul li  {
 
 .bienvenidos{
 	height:263px;
-	font-size: 50em;
 	width: 100%;
+}
+.bienvenidos p {
+	letter-spacing: 0.8em;
+	line-height: 4em;
+	font-size:1.2em;
+	text-align: center
 }
 .admicionbarra {
 	position: relative;
 	left: 13%;
+	top:-26px;
 }
 
 
