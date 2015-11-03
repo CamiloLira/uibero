@@ -41,7 +41,7 @@
 
 
 body {
-	background-color:#08245a;
+	background-color:;
 
 	margin: 0 auto;
 	max-width: 1036px;
@@ -56,13 +56,14 @@ a {
 /*CSS HEADER*/
 
 header {
-    background-color: #104395;
+       background-color: #104395;
     border-bottom: 9px solid #8af2ff;
     color: white;
     height: 141px;
     letter-spacing: 0.5em;
     font-size: .7em;
-    width: 100%;
+    width: 97%;
+    margin: 0 auto;
 
 }
 
@@ -127,17 +128,18 @@ header nav ul li  {
 }
 
 .facultad-educacion{
-	width: 183px;
-	height: 387px;
-	display: inline-block;
-	position: relative;
+    width: 183px;
+    height: 387px;
+    display: inline-block;
+    position: relative;
     top: -100px;
+    left: 2%;
 
 }
 
 .facultad-ingeneria{
 	display: inline-block;
-	margin-left: 16px;
+	margin-left: 32px;
 	width: 183px;
 	height: 387px;
 	    position: relative;
@@ -148,7 +150,7 @@ header nav ul li  {
 
 .facultad-juridica{
 	display: inline-block;
-	margin-left: 16px;
+	margin-left: 15px;
 	width: 183px;
 	height: 387px;
 	    position: relative;
@@ -159,7 +161,7 @@ header nav ul li  {
 
 .facultad-salud{
 	display: inline-block;
-	margin-left: 16px;
+	margin-left: 15px;
 	width: 183px;
 	height: 387px;
 	    position: relative;
@@ -236,10 +238,12 @@ header nav ul li  {
 
 /*mapa*/
 .mapa{
-	width: 100%;
-	height: 363px;
-	position: relative;
-	top:183px;
+ width: 97%;
+    height: 363px;
+    position: relative;
+    top: 183px;
+    left: 1.9%;
+
 }
 
 #content {
