@@ -2,6 +2,7 @@
 <!-- header -->
 <?php include("header.php"); ?>
 <body>
+<div id="content">
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
@@ -133,6 +134,6 @@
 							?>
 						</div><!-- formulario -->
 						>>>>>>> origin/master
-
+</div>
 					</body>
 					<?php include("footer.php"); ?>

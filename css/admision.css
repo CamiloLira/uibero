@@ -41,7 +41,7 @@
 
 
 body {
-	background: url('../images/margen_footer.png')  white;
+
 	margin: 0 auto;
 	max-width: 1036px;
 	font-family:'KeepCalm-Medium', Helvetica, Arial;
@@ -197,7 +197,10 @@ header nav ul li  {
 }
 
 
-
+#content {
+		background: url('../images/margen_footer.png') ;
+		width:1036px;
+		height:3107px;}
 /*CSS Facultades*/
 
 
