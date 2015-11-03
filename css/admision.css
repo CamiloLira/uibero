@@ -41,6 +41,7 @@
 
 
 body {
+	background-color:#08245a;
 
 	margin: 0 auto;
 	max-width: 1036px;
@@ -198,7 +199,8 @@ header nav ul li  {
 
 
 #content {
-		background: url('../images/margen_footer.png') ;
+	background-color:#FFF;
+		background: url('../images/margen_footer.png') white;
 		width:1036px;
 		height:3107px;}
 /*CSS Facultades*/
