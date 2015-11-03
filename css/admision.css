@@ -39,6 +39,7 @@ body {
 
 header {
 	background-color: #104395;
+	border-bottom: 9px solid #8af2ff;
 	color: white;
 	height: 141px;
 	width: 100%;
