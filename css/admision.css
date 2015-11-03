@@ -37,6 +37,7 @@
 }
 
 body {
+	background-image: url("images/margen_footer.png");
 	background: white;
 	margin: 0 auto;
 	max-width: 1036px;
