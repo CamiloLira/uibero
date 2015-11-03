@@ -109,14 +109,41 @@ header nav ul li  {
 
 }
 
+.facultades{
+	height: 613px;
+	width: 100%;
+	display: inline-block;
+}
+
+.barrafacultades{
+	position: relative;
+	left: 5%;
+	top: 13px;
+}
+
+.facultad-educacion{
+	width: 183px;
+	height: 684px;
+}
 
 
 
 /*CSS de Textos*/
+.titulos-facultad{
+	font-size: 0.6em;
+	text-align: center;
+	
+}
 
-/*CSS Home*/
+.carreras-facultades{
+	color: #08245a;
+}
+
+
 
 /*CSS Facultades*/
+
+
 
 /*CSS Contacto*/
 
