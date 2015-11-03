@@ -64,6 +64,15 @@ header nav ul li  {
 
 /*CSS HOME*/
 
+.bienvenidos{
+	height:263px;
+	width: 100%;
+}
+.admicionbarra {
+	position: relative;
+	left: 13%;
+}
+
 
 /*CSS de Textos*/
 
