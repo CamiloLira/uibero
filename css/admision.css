@@ -4,6 +4,26 @@
 	padding: 0;
 }
 
+/*colores*/
+
+.azul {
+	color:#08245a;
+}
+.rojo {
+	color:#ff6161;
+}
+.morado {
+	color:#ff63eb;
+}
+.amarillo {
+	color: #f2ff64;
+}
+.verde {
+	color: #61ff65}
+.celeste {
+	color: #8af2ff;
+}
+
 body {
 	margin: 0 auto;
 	max-width: 1036px;
