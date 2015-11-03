@@ -109,6 +109,12 @@
 						</div>
 
 
+						<!-- Mapa-->
+						<div class="mapa">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.9905520013385!2d-70.66050934966383!3d-33.44955268067973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c507c923a539%3A0x918f2a283bee97fb!2sUniversidad+Iberoamericana+de+Ciencias+y+Tecnolog%C3%ADa!5e0!3m2!1ses-419!2scl!4v1446573728995" width="100%" height="363" frameborder="0" style="border:0" allowfullscreen></iframe>
+						</div>
+
+
 						<!-- formulario -->
 						<div id="formulario">
 							<?php

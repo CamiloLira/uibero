@@ -234,6 +234,14 @@ header nav ul li  {
 	font-size: 1.2em;
 }
 
+/*mapa*/
+.mapa{
+	width: 100%;
+	height: 363px;
+	position: relative;
+	top:183px;
+}
+
 #content {
 	background-color:#FFF;
 		background: url('../images/margen_footer.png') white;
