@@ -7,7 +7,7 @@
 </head>
 <header>
 		<figure>
-			<img class="logo" src="">
+			<img class="logo" src="images/logo.png">
 		</figure>
 		<nav>
 		  <ul>	

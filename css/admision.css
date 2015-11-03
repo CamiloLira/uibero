@@ -52,13 +52,26 @@ header {
     color: white;
     height: 141px;
     letter-spacing: 0.5em;
-    font-size: .8em;
+    font-size: .7em;
     width: 100%;
 
 }
 
+header nav ul {
+	position: absolute;	
+	left: 57%;
+	top: 105px;
+}
 header nav ul li  {
 	display: inline-block;
+	padding: 0 14px;
+
+}
+
+.logo{
+	position: absolute;
+	top: 31px;
+	left: 1%;
 }
 
 
