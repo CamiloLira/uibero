@@ -43,6 +43,9 @@ body {
 	font-size: 16px;
 }
 
+a {
+	text-decoration: none;
+}
 
 /*CSS HEADER*/
 
@@ -55,6 +58,10 @@ header {
     font-size: .7em;
     width: 100%;
 
+}
+
+header a:hover{
+	color: #8af2ff;
 }
 
 header nav ul {

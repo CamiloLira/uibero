@@ -11,9 +11,9 @@
 		</figure>
 		<nav>
 		  <ul>	
-			<li>Facultades</li>
-			<li>Requisitos</li>
-			<li>Contacto</li>
+			<li><a class="blanco" href="facultades.php">Facultades</a></li>
+			<li><a class="blanco" href="requisitos.php">Requisitos</a></li>
+			<li><a class="blanco" href="contacto.php">Contacto</a></li>
 		  </ul>
 		</nav>
 	</header>
