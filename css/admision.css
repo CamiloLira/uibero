@@ -9,6 +9,10 @@
 .azul {
 	color:#08245a;
 }
+
+.blanco{
+	color: white;
+}
 .rojo {
 	color:#ff6161;
 }
@@ -35,6 +39,7 @@ body {
 
 header {
 	background-color: #104395;
+	color: white;
 	height: 141px;
 	width: 100%;
 
