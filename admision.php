@@ -41,8 +41,13 @@
 			<a href=""><p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
 				DE LA INGENERIA Y ADMINISTRACIÓN</p><a/>
 			<div class="mover-carreras">
-				<p class="carreras-facultades">Pedagogía en Ingles</p>
-				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+				<p class="carreras-facultades">Administración Pública</p>
+				<p class="carreras-facultades">Contador Auditor</p>
+				<p class="carreras-facultades">Ingeniera Comercial</p>
+				<p class="carreras-facultades">Ingenieria Civil Electronica</p>
+				<p class="carreras-facultades">Ingeneria de Ejecución en Industria Alimentaria</p>
+				<p class="carreras-facultades">Ingeneria de Ejecución Electrónica</p>
+
 			</div>
 		</div>
 
@@ -52,8 +57,8 @@
 			<a href=""><p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
 				JURÍDICAS Y SOCIALES</p><a/>
 			<div class="mover-carreras">
-				<p class="carreras-facultades">Pedagogía en Ingles</p>
-				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+				<p class="carreras-facultades">Derecho</p>
+				<p class="carreras-facultades">Trabajo Social</p>
 			</div>
 		</div>
 
@@ -63,8 +68,12 @@
 			<a href=""><p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
 				DE LA SALUD</p><a/>
 			<div class="mover-carreras">
-				<p class="carreras-facultades">Pedagogía en Ingles</p>
-				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+				<p class="carreras-facultades">Enfermeria</p>
+				<p class="carreras-facultades">Fonoaudiología</p>
+				<p class="carreras-facultades">Kinesiología</p>
+				<p class="carreras-facultades">Nutrición y Dietética</p>
+				<p class="carreras-facultades">Obstetricia y Puericultura</p>
+				<p class="carreras-facultades">Tecnología Médica</p>
 			</div>
 		</div>
 
@@ -74,8 +83,10 @@
 			<a href=""><p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
 				RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p><a/>
 			<div class="mover-carreras">
-				<p class="carreras-facultades">Pedagogía en Ingles</p>
-				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+				<p class="carreras-facultades">Biotecnología</p>
+				<p class="carreras-facultades">Agronomia</p>
+				<p class="carreras-facultades">Veterinaria</p>
+				<p class="carreras-facultades">Ingeniería de Ejecución de Viticultura y Enología</p>
 			</div>
 		</div>
 
