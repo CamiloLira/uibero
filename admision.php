@@ -35,6 +35,7 @@
 			</div>
 		</div>
 	
+	<!-- facultad ingeneria hexagono-->
 		<div class="facultad-ingeneria">
 			<img src="images/morado.png">
 			<a href=""><p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
@@ -45,8 +46,17 @@
 			</div>
 		</div>
 
+			<!-- facultad ingeneria hexagono-->
+		<div class="facultad-juridica">
+			<img src="images/amarillo.png">
+			<a href=""><p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
+				JURÍDICAS Y SOCIALES</p><a/>
+			<div class="mover-carreras">
+				<p class="carreras-facultades">Pedagogía en Ingles</p>
+				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+			</div>
+		</div>
 
-		
 			
 	</div>
 
