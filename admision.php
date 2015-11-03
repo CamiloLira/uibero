@@ -6,6 +6,17 @@
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 </head>
 <body>
-	<p>hola</p>
+	<header>
+		<figure>
+			<img class="logo" src="">
+		</figure>
+		<nav>
+		  <ul>	
+			<li>Facultades</li>
+			<li>Requisitos</li>
+			<li>Contacto</li>
+		  </ul>
+		</nav>
+	</header>
 </body>
 </html>
