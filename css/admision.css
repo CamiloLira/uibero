@@ -4,6 +4,14 @@
 	padding: 0;
 }
 
+@font-face {
+	 font-family: 'KeepCalm-Medium';
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: url('font/KeepCalm-Medium.ttf');
+}
+
 /*colores*/
 
 .azul {
@@ -31,6 +39,7 @@
 body {
 	margin: 0 auto;
 	max-width: 1280px;
+	font-family: 'KeepCalm-Medium';
 	font-size: 16px;
 }
 
