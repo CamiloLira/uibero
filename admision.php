@@ -93,7 +93,20 @@
 						</div>
 
 						<!-- redes sociales-->
+						<div class="social-media">
+							<figure>
+								<img class="barra-estudio" src="images/yoestudio.png">
+							</figure>
 
+							<figure>
+								<img class="redes" src="images/redes.png" width="550px">
+							</figure>
+
+							<div class="aqui-estamos">
+								<p class="blanco">AQUÍ ESTAMOS</p>
+							</div>
+
+						</div>
 
 
 						<!-- formulario -->
