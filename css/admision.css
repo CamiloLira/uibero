@@ -148,6 +148,22 @@ header nav ul li  {
 
 }
 
+.facultad-salud{
+	display: inline-block;
+	margin-left: 16px;
+	width: 183px;
+	height: 387px;
+
+}
+
+.facultad-natural{
+	display: inline-block;
+	margin-left: 16px;
+	width: 183px;
+	height: 387px;
+
+}
+
 
 /*CSS de Textos*/
 .titulos-facultad{

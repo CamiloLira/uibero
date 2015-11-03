@@ -57,6 +57,28 @@
 			</div>
 		</div>
 
+			<!-- facultad salud hexagono-->
+		<div class="facultad-salud">
+			<img src="images/celeste.png">
+			<a href=""><p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
+				DE LA SALUD</p><a/>
+			<div class="mover-carreras">
+				<p class="carreras-facultades">Pedagogía en Ingles</p>
+				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+			</div>
+		</div>
+
+			<!-- facultad natural hexagono-->
+		<div class="facultad-natural">
+			<img src="images/verde.png">
+			<a href=""><p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
+				RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p><a/>
+			<div class="mover-carreras">
+				<p class="carreras-facultades">Pedagogía en Ingles</p>
+				<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+			</div>
+		</div>
+
 			
 	</div>
 
