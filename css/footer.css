@@ -34,3 +34,22 @@ border-right: 13px solid #08245a;
      border-bottom: 200px solid #08245a;
 }
 	Tringulo css */
+
+
+/* imagen acreditacion*/
+footer{
+
+}
+.acreditacion{
+     position: relative;
+    top: 272px;
+    left: -63%;
+}
+
+ .logo-footer{
+    position: relative;
+    top: -72px;
+    left: 31.7%;
+ }
+
+
