@@ -130,21 +130,28 @@
 
 
 						<!-- formulario -->
-						<div id="formulario">
+						<div id="contacto">
 							<?php
 							$action=$_REQUEST['action'];
 							if ($action=="")    /* display the contact form */
 							{
 								?>
+                                <div id="formulario">
+                                <h2>contacto</h2>
 								<form  action="" method="POST" enctype="multipart/form-data">
-									<input type="hidden" name="action" value="submit">
-									Your name:<br>
-									<input name="name" type="text" value="" size="30"/><br>
-									Your email:<br>
-									<input name="email" type="text" value="" size="30"/><br>
-									Your message:<br>
-									<textarea name="message" rows="7" cols="30"></textarea><br>
-									<input type="submit" value="Send email"/>
+							<input type="hidden" name="action" value="submit">
+									<li>
+                                    
+									<input name="name" type="text" value="Nombre" size="30"/></li>
+                                   
+                                    <li>
+                                    
+									<input name="telefono" type="text" value="Telefono" size="30"/></li>
+									
+									<li><input name="email" type="text" value="email" size="30"/></li>
+									
+									<li><textarea name="message" rows="7" cols="30" ></textarea></li> <br/>
+								<input class="submit" type="submit" value="Send email"/>
 								</form>
 								<?php
 							} 
@@ -153,19 +160,20 @@
 								$name=$_REQUEST['name'];
 								$email=$_REQUEST['email'];
 								$message=$_REQUEST['message'];
-								if (($name=="")||($email=="")||($message==""))
+								$telefono=$_REQUEST['telefono'];
+								if (($name=="")||($email=="")||($message=="")) 
 								{
 									echo "All fields are required, please fill <a href=\"\">the form</a> again.";
 								}
 								else{        
 									$from="From: $name<$email>\r\nReturn-path: $email";
 									$subject="Message sent using your contact form";
-									/*escribir email al que llegaran los formularios*/ mail("youremail@yoursite.com", $subject, $message, $from);
+									/*escribir email al que llegaran los formularios*/ mail("youremail@yoursite.com", $subject, $message, $from,$name,$telefono,$email);
 									echo "Email sent!";
 								}
 							}  
 							?>
-						</div><!-- formulario -->
+						</div></div><!-- formulario -->
 					
 <!-- div para los bordes --></div></div>
 					</body>

@@ -1,14 +1,47 @@
 @charset "UTF-8";
 
 /* CSS Document */
+@font-face {
+	 font-family: 'KeepCalm-Medium';
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: url('font/KeepCalm-Medium.ttf');
+}
 
-#formulario {
+#contacto {
+	 font-family: 'KeepCalm-Medium';
+	 margin-bottom:20px;
 	margin-top:250px;
 	width:100%;
 	background-color:#f2f2f2;
 	height:362px;
 	}
+#formulario {
+	margin-right:-140px;
+	width:80%;
+	float:right;}
 	
 #formulario input {
+	font-family:'KeepCalm-Medium', Helvetica, Arial;
+	width:200px;
 	height:40px;}
+#formulario textarea {
+	width:650px;
+	height:170px;}
 	
+#formulario li {
+	list-style:none;
+	padding:10px;
+	float:left;}
+.submit {
+font-family:'KeepCalm-Medium', Helvetica, Arial;	color:#FFF;
+	font-size:14px;
+	width:20px;
+	background-color:#555a78;}
+#formulario h2{
+		color:#08245a;
+	margin-top:10px;
+	text-align:center;
+	margin-left:-160px;
+	font-family:'KeepCalm-Medium', Helvetica, Arial;}
