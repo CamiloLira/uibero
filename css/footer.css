@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+#prefooter {
+	
+	height:270px;
+	width:100%;
+	padding:2px;
+	background-image:url(../images/prefooter.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	}
+
+#footersimple {
+	margin-top:-20px;
+	padding:15px;
+	width:100%;
+	height:118px;
+	background-color:#08245a;}
+.bordes2 {
+
+border-left: 12px solid #08245a;
+border-right: 13px solid #08245a;
+		}
+	
+	
+	/*Tringulo css 
+	.triangulo_inf {
+		
+		
+ width: 0;
+     height: 0;
+     border-right: 525px solid transparent;
+     border-top: 100px solid transparent;
+     border-left: 525px solid transparent;
+     border-bottom: 200px solid #08245a;
+}
+	Tringulo css */
