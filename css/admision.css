@@ -11,9 +11,10 @@
   Cabin, Cabin Regular o Cabin-Regular */
   src: url('font/KeepCalm-Medium.ttf');
 }
-
+/*TEXTOS*/
 /*colores*/
 
+.gris {color:#bbbbbb;}
 .azul {
 	color:#08245a;
 }
@@ -27,6 +28,9 @@
 .morado {
 	color:#ff63eb;
 }
+.rosado {
+	color:#FF61eb;
+}
 .amarillo {
 	color: #f2ff64;
 }
@@ -38,6 +42,26 @@
 .celeste {
 	color: #8af2ff;
 }
+
+/*hover*/
+.salud:hover{
+	color:#8af2ff;
+}
+.natural:hover{
+	color: #61ff65
+}
+.juridica:hover{
+color:#b1c006	
+}
+.ingenieria:hover{
+color:#ff63eb;
+}
+.educacion:hover{
+color:#ff6161;	
+}
+
+/* centrar*/
+.centrar {text-align:center;}
 
 
 body {
@@ -229,7 +253,7 @@ header nav ul li  {
 
 }
 
-.aqui-estamos p {
+.aqui-estamos h2 {
 	text-align: center;
 	letter-spacing: 0.5em;
 	line-height: 70px;
@@ -268,7 +292,42 @@ width:1035px;
 	
 	}
 		
-/*CSS Facultades*/
+/*CSS contacto*/
+
+.info-contacto{
+	width: 30%;
+	color:#555a78;
+}
+.info-contacto p {
+    font-size: 0.5em;
+}
+.manten-contacto{
+	 position: relative;
+    top: 10px;
+    left: 3%;
+}
+
+h6 {
+	    position: relative;
+    top: 50px;
+    left: 3%;
+}
+
+
+.info-direccion{
+    position: relative;
+    top: 54px;
+    left: 3%;
+}
+
+.numeros{
+	
+	    position: relative;
+    top: 67px;
+    left: 3%;
+    line-height: 16px;
+}
+
 
 
 

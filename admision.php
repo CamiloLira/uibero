@@ -22,7 +22,7 @@
 	<div class="ws_bullets"><div>
 		<a href="#" title="Nuevo Laboratorio"><span><img src="data1/tooltips/sin_ttulo1.jpg" alt="Comunidad Universitaria"/>1</span></a>
 		<a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo12.jpg" alt="Nuevos docentes"/>2</span></a>
-        <a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo13.jpg" alt="Nuevos docentes"/>2</span></a>
+        <a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo12.jpg" alt="Nuevos docentes"/>2</span></a>
 	</div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
 	<div class="ws_shadow"></div>
 	</div>	
@@ -36,7 +36,7 @@
 		<img class="barrafacultades" src="images/nuestras.png">
 	</figure>
 	<!-- facultades -->
-	<div class="facultades">
+	<div id="facultad" class="facultades">
 		
 		<!-- facultad educacion hexagono-->
 
@@ -45,8 +45,8 @@
 			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
 				Y EDUCACIÓN</p><a/>
 				<div class="mover-carreras">
-					<p class="carreras-facultades">Pedagogía en Ingles</p>
-					<p class="carreras-facultades">Pedagogía en Matemáticas y Fisica</p>
+					<p class="carreras-facultades educacion">Pedagogía en Ingles</p>
+					<p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p>
 				</div>
 			</div>
 
@@ -54,14 +54,14 @@
 			<div class="facultad-ingeneria">
 				<img src="images/morado.png">
 				<a href=""><p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
-					DE LA INGENERIA Y ADMINISTRACIÓN</p><a/>
+					DE LA INGENIERIA Y ADMINISTRACIÓN</p><a/>
 					<div class="mover-carreras">
-						<p class="carreras-facultades">Administración Pública</p>
-						<p class="carreras-facultades">Contador Auditor</p>
-						<p class="carreras-facultades">Ingeniera Comercial</p>
-						<p class="carreras-facultades">Ingenieria Civil Electronica</p>
-						<p class="carreras-facultades">Ingeneria de Ejecución en Industria Alimentaria</p>
-						<p class="carreras-facultades">Ingeneria de Ejecución Electrónica</p>
+						<a href="#"><p class="carreras-facultades ingenieria">Administración Pública</p><a/>
+						<a href="#"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
+						<a href="#"><p class="carreras-facultades ingenieria">Ingeniera Comercial</p><a/>
+						<a href="#"><p class="carreras-facultades ingenieria">Ingenieria Civil Electronica</p><a/>
+						<a href="#"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución en Industria Alimentaria</p><a/>
+						<a href="#"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución Electrónica</p><a/>
 
 					</div>
 				</div>
@@ -69,39 +69,39 @@
 				<!-- facultad ingeneria hexagono-->
 				<div class="facultad-juridica">
 					<img src="images/amarillo.png">
-					<a href=""><p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
-						JURÍDICAS Y SOCIALES</p><a/>
+					<p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
+						JURÍDICAS Y SOCIALES</p>
 						<div class="mover-carreras">
-							<p class="carreras-facultades">Derecho</p>
-							<p class="carreras-facultades">Trabajo Social</p>
+							<a href=""><p class="carreras-facultades juridica">Derecho</p><a/>
+							<a href=""><p class="carreras-facultades juridica">Trabajo Social</p><a/>
 						</div>
 					</div>
 
 					<!-- facultad salud hexagono-->
 					<div class="facultad-salud">
 						<img src="images/celeste.png">
-						<a href=""><p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
-							DE LA SALUD</p><a/>
+						<p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
+							DE LA SALUD</p>
 							<div class="mover-carreras">
-								<p class="carreras-facultades">Enfermeria</p>
-								<p class="carreras-facultades">Fonoaudiología</p>
-								<p class="carreras-facultades">Kinesiología</p>
-								<p class="carreras-facultades">Nutrición y Dietética</p>
-								<p class="carreras-facultades">Obstetricia y Puericultura</p>
-								<p class="carreras-facultades">Tecnología Médica</p>
+								<a href="#"><p class="carreras-facultades salud">Enfermeria</p></a>
+								<a href="#"><p class="carreras-facultades salud">Fonoaudiología</p></a>
+								<a href="#"><p class="carreras-facultades salud">Kinesiología</p></a>
+								<a href="#"><p class="carreras-facultades salud">Nutrición y Dietética</p></a>
+								<a href="#"><p class="carreras-facultades salud">Obstetricia y Puericultura</p></a>
+								<a href="#"><p class="carreras-facultades salud">Tecnología Médica</p></a>
 							</div>
 						</div>
 
 						<!-- facultad natural hexagono-->
 						<div class="facultad-natural">
 							<img src="images/verde.png">
-							<a href=""><p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
-								RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p><a/>
+							<p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
+								RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p>
 								<div class="mover-carreras">
-									<p class="carreras-facultades">Biotecnología</p>
-									<p class="carreras-facultades">Agronomia</p>
-									<p class="carreras-facultades">Veterinaria</p>
-									<p class="carreras-facultades">Ingeniería de Ejecución de Viticultura y Enología</p>
+									<p class="carreras-facultades natural">Biotecnología</p>
+									<p class="carreras-facultades natural">Agronomia</p>
+									<p class="carreras-facultades natural">Veterinaria</p>
+									<p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p>
 								</div>
 							</div>	
 						</div>
@@ -117,7 +117,7 @@
 							</figure>
 
 							<div class="aqui-estamos">
-								<p class="blanco">Aquí estamos</p>
+								<h2 class="blanco">Aquí estamos</h2>
 							</div>
 
 						</div>
@@ -131,27 +131,36 @@
 
 						<!-- formulario -->
 						<div id="contacto">
+
+							<div class="info-contacto">
+								<h2 class="manten-contacto ">Mantente en Contacto</h2>
+								<h6>Dirección:</h6>
+								<p class="info-direccion gris">Lorem impsum 690 , Ñuñoa, Santiago de Chile </p>
+								<p class="gris numeros">+56 9 412314114</p>
+								<p class="gris numeros">+56 9 412314114</p>
+								<p class="gris numeros">+56 9 412314114</p>
+							</div>
 							<?php
 							$action=$_REQUEST['action'];
 							if ($action=="")    /* display the contact form */
 							{
 								?>
                                 <div id="formulario">
-                                <h2>contacto</h2>
+                                <h2>Contacto</h2>
 								<form  action="" method="POST" enctype="multipart/form-data">
 							<input type="hidden" name="action" value="submit">
 									<li>
                                     
-									<input name="name" type="text" value="Nombre" size="30"/></li>
+									<input name="name" type="text" value=" Nombre" size="30"/></li>
                                    
                                     <li>
                                     
-									<input name="telefono" type="text" value="Telefono" size="30"/></li>
+									<input name="telefono" type="text" value=" Telefono" size="30"/></li>
 									
-									<li><input name="email" type="text" value="email" size="30"/></li>
+									<li><input name="email" type="text" value=" Email" size="30"/></li>
 									
 									<li><textarea name="message" rows="7" cols="30" ></textarea></li> <br/>
-								<input class="submit" type="submit" value="Send email"/>
+								<input class="submit" type="submit" value="Enviar"/>
 								</form>
 								<?php
 							} 
@@ -169,11 +178,13 @@
 									$from="From: $name<$email>\r\nReturn-path: $email";
 									$subject="Message sent using your contact form";
 									/*escribir email al que llegaran los formularios*/ mail("youremail@yoursite.com", $subject, $message, $from,$name,$telefono,$email);
-									echo "Email sent!";
+									echo "Email Enviado!";
 								}
 							}  
 							?>
-						</div></div><!-- formulario -->
+						</div>
+					</div>
+						<!-- formulario -->
 					
 <!-- div para los bordes --></div></div>
 					</body>

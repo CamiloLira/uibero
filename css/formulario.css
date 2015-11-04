@@ -18,9 +18,13 @@
 	height:362px;
 	}
 #formulario {
-	margin-right:-140px;
-	width:80%;
-	float:right;}
+	    /* margin-right: -12%; */
+    /* margin-top: -49px; */
+    width: 80%;
+    /* float: right; */
+    position: relative;
+    top: -98px;
+    left: 33%;}
 	
 #formulario input {
 	font-family:'KeepCalm-Medium', Helvetica, Arial;
@@ -40,7 +44,7 @@ font-family:'KeepCalm-Medium', Helvetica, Arial;	color:#FFF;
 	width:20px;
 	background-color:#555a78;}
 #formulario h2{
-		color:#08245a;
+		color:#555a78;
 	margin-top:10px;
 	text-align:center;
 	margin-left:-160px;
