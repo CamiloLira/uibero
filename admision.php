@@ -3,6 +3,7 @@
 <?php include("header.php"); ?>
 <body>
 
+		<!-- Containenidos -->
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
@@ -45,16 +46,16 @@
 			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
 				Y EDUCACIÓN</p><a/>
 				<div class="mover-carreras">
-					<p class="carreras-facultades educacion">Pedagogía en Ingles</p>
-					<p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p>
+					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Ingles</p></a>
+					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p></a>
 				</div>
 			</div>
 
 			<!-- facultad ingeneria hexagono-->
 			<div class="facultad-ingeneria">
 				<img src="images/morado.png">
-				<a href=""><p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
-					DE LA INGENIERIA Y ADMINISTRACIÓN</p><a/>
+				<p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
+					DE LA INGENIERIA Y ADMINISTRACIÓN</p>
 					<div class="mover-carreras">
 						<a href="#"><p class="carreras-facultades ingenieria">Administración Pública</p><a/>
 						<a href="#"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
@@ -98,10 +99,11 @@
 							<p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
 								RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p>
 								<div class="mover-carreras">
-									<p class="carreras-facultades natural">Biotecnología</p>
-									<p class="carreras-facultades natural">Agronomia</p>
-									<p class="carreras-facultades natural">Veterinaria</p>
-									<p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p>
+									<a href="#"><p class="carreras-facultades natural">Biotecnología</p></a>
+									<a href="#"><p class="carreras-facultades natural">Agronomia</p></a>
+									<a href="#"><p class="carreras-facultades natural">Veterinaria</p></a>
+									<a href="#"><p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p></a>
+
 								</div>
 							</div>	
 						</div>
@@ -177,7 +179,7 @@
 								else{        
 									$from="From: $name<$email>\r\nReturn-path: $email";
 									$subject="Message sent using your contact form";
-									/*escribir email al que llegaran los formularios*/ mail("youremail@yoursite.com", $subject, $message, $from,$name,$telefono,$email);
+									/*escribir email al que llegaran los formularios*/ mail("c.liramunizaga@gmail.com", $subject, $message, $from, $name, $telefono, $email);
 									echo "Email Enviado!";
 								}
 							}  

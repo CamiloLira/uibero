@@ -1,0 +1,60 @@
+/* viñetas de educacion*/
+
+.vineta-educacion{
+	position: relative;
+    left: 5%;
+}
+
+/*FACULTAD INGLES*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
+
+/*texto en las viñetas*/
+
+.titulo-facultad-educacion{
+    position: relative;
+    top: -56px;
+    left: 3%;
+    font-size: 18px;
+    /* text-align: center; */
+    letter-spacing: 4px;
+}
+
+/*texto titutlo facultades*/
+
+.seccion-uno h1{
+	font-size: 50px;
+letter-spacing: 5px;
+	
+}
+
+.seccion-uno{
+    border-style: solid;
+    border-color: red;
+    width: 90%;
+    height: 732px;
+    position: relative;
+    left: 5%;
+    top: 45px;
+}
+
+.introduccion{
+	border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 59%;
+    height: 550px;
+   
+
+}
+
+.ingles-introduccion{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 16px;
+    overflow: hidden;
+    text-align: left;
+    width: 93%;
+    position: relative;
+    top: 71px;
+
+
+}
+
+/*FACULTAD INGLES*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
