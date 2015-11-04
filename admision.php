@@ -16,11 +16,13 @@
 		<div id="wowslider-container1">
 	<div class="ws_images"><ul>
 		<li><a href="#"><img src="data1/images/sin_ttulo1.jpg" alt="wowslider.com" title="Comunidad Universitaria" id="wows1_0"/></a></li>
+        <li><a href="#"><img src="data1/images/sin_ttulo13.jpg" alt="wowslider.com" title="Campus" id="wows1_0"/></a></li>
 		<li><img src="data1/images/sin_ttulo12.jpg" alt="Nuevos docentes" title="Nuevos docentes" id="wows1_1"/></li>
 	</ul></div>
 	<div class="ws_bullets"><div>
 		<a href="#" title="Nuevo Laboratorio"><span><img src="data1/tooltips/sin_ttulo1.jpg" alt="Comunidad Universitaria"/>1</span></a>
 		<a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo12.jpg" alt="Nuevos docentes"/>2</span></a>
+        <a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo13.jpg" alt="Nuevos docentes"/>2</span></a>
 	</div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
 	<div class="ws_shadow"></div>
 	</div>	
