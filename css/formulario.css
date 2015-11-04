@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+#formulario {
+	margin-top:250px;
+	width:100%;
+	background-color:#f2f2f2;
+	height:362px;
+	}
+	
+#formulario input {
+	height:40px;}

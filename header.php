@@ -4,7 +4,13 @@
 	<meta charset="UTF-8">
 	<title>Admisión IberoAmericana</title>
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
+    	<link rel="stylesheet" type="text/css" href="css/formulario.css">
+        <link rel="stylesheet" type="text/css" href="css/slidecss">
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
 </head>
+<!-- div para los bordes --><div id="content">
+
 <header>
 		<figure>
 			<a href="http://www.uiberoamericana.cl/"><img class="logo" src="images/logo.png"></a>
@@ -17,3 +23,4 @@
 		  </ul>
 		</nav>
 	</header>
+    

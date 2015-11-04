@@ -62,7 +62,7 @@ header {
     height: 141px;
     letter-spacing: 0.5em;
     font-size: .7em;
-    width: 97%;
+    width: 100%;
     margin: 0 auto;
 
 }
@@ -108,7 +108,7 @@ header nav ul li  {
 }
 
 .container-slider {
-    background-color: red;
+    background-color: white;
     margin: 0 auto;
     width: 90%;
     height: 448px;
@@ -247,10 +247,17 @@ header nav ul li  {
 }
 
 #content {
+
 	background-color:#FFF;
-		background: url('../images/margen_footer.png') white;
-		width:1036px;
-		height:3107px;}
+border-radius: 0px 0px 0px 0px;
+-moz-border-radius: 0px 0px 0px 0px;
+-webkit-border-radius: 0px 0px 0px 0px;
+border-left: 7px double #08245a;
+border-right: 7px double #08245a;
+		width:1030px;
+		min-height:1000px;
+		height:100%;}
+		
 /*CSS Facultades*/
 
 
