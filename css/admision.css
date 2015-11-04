@@ -257,6 +257,16 @@ border-right: 7px double #08245a;
 		width:1030px;
 		min-height:1000px;
 		height:100%;}
+.bordes{
+
+border-left: 10px solid #08245a;
+border-right: 20px solid #08245a;
+
+width:1035px;
+		min-height:1000px;
+		height:100%;
+	
+	}
 		
 /*CSS Facultades*/
 
