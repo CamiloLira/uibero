@@ -88,5 +88,5 @@ Los egresados de nuestra universidad pueden desempeñarse en la generación de n
 <!-- div para los bordes -->
 <div></div>
 	
-	</body>
-									
+<?php include("footer.php"); ?>
+								</body>

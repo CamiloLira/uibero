@@ -25,7 +25,7 @@
 		<div class="introduccion-educacion">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
-			<p class="ingles-introduccion gris-oscuro">
+			<p class="educacion-introduccion gris-oscuro">
 				Contamos con un staff académico altamente especializado 
 				lo que nos permite formar docentes con un dominio competente
 				 del inglés, preparados didáctica y pedagógicamente para crear
@@ -91,6 +91,6 @@
 					
 <!-- div para los bordes -->
 <div></div>
-	
-	</body>
-									
+<?php include("footer.php"); ?>
+								</body>
+				

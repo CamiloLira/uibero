@@ -89,5 +89,7 @@
 <!-- div para los bordes -->
 <div></div>
 	
-	</body>
+	<?php include("footer.php"); ?>
+								</body>
+
 									

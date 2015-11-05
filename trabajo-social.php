@@ -91,5 +91,7 @@ El trabajador social formado por la Universidad Iberoamericana, por su amplia fo
 <!-- div para los bordes -->
 <div></div>
 	
-	</body>
+<?php include("footer.php"); ?>
+								</body>
+
 									

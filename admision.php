@@ -88,7 +88,7 @@
 						<p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
 							DE LA SALUD</p>
 							<div class="mover-carreras-uno">
-								<a href="#"><p class="carreras-facultades salud">Enfermeria</p></a>
+								<a href="enfermeria.php" target="_blank"><p class="carreras-facultades salud">Enfermeria</p></a>
 								<a href="#"><p class="carreras-facultades salud">Fonoaudiología</p></a>
 								<a href="#"><p class="carreras-facultades salud">Kinesiología</p></a>
 								<a href="#"><p class="carreras-facultades salud">Nutrición y Dietética</p></a>
@@ -201,3 +201,4 @@
 										
 										
 									<?php include("footer.php"); ?>
+								</body>

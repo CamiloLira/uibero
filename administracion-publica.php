@@ -41,8 +41,8 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 		</div>
 		
 		<div class="informacion-directora-fingenieria">
-			<img class="acredita-fingenieria" src="images/3acredita.png">
-			<img src="http://lorempixel.com/310/190/">
+			<img class="acredita-fingenieria" >
+						<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Mg. Georg Spee Gaona</p>
 			<p class="gris">E-mail: george.spee@uibero.cl</p>
@@ -92,5 +92,6 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 <!-- div para los bordes -->
 <div></div>
 	
-	</body>
-									
+	
+			<?php include("footer.php"); ?>						
+</body>

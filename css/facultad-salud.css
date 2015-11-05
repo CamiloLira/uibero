@@ -1,0 +1,374 @@
+
+/*ENFERMERIA mover informacion infogeneral enfermeria */
+.mover-informacion-enfermeria{
+   
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -479px;
+    left: 70%;
+    text-align: right;
+}
+
+.salud-introduccion-enfermeria{
+    
+       letter-spacing: 2px;
+    line-height: 20px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.info-general-salud-enfermeria{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -257px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-salud-enfermeria h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-salud-enfermeria p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+
+}
+
+
+/*FONOAUDIOLOGIA mover informacion general*/
+
+.info-general-salud-fonoaudiologia{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -284px;
+    left: 70%;
+    text-align: right;
+
+}
+.info-general-salud-fonoaudiologia h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-salud-fonoaudiologia p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.salud-introduccion-fonoaudiologia{
+    letter-spacing: 2px;
+    line-height: 29px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+}
+
+/*KINESIOLOGIA mover informacion general*/
+
+.info-general-salud-kinesiologia{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -259px;
+    left: 70%;
+    text-align: right;
+
+}
+.info-general-salud-kinesiologia h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-salud-kinesiologia p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.salud-introduccion-kinesiologia{
+    letter-spacing: 2px;
+    line-height: 20px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+}
+
+
+/*obstetricia mover informacion general*/
+
+.salud-introduccion-obstetricia{
+        letter-spacing: 2px;
+    line-height: 25px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+}
+
+
+
+.info-general-salud-obstetricia{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -197px;
+    left: 70%;
+    text-align: right;
+
+}
+.info-general-salud-obstetricia h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-salud-obstetricia p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.descarga-malla-salud-obstetricia{
+        letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 160px;
+}
+
+
+/* NUTRICION*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* viñetas de salud*/
+
+
+.vineta-salud{
+	position: relative;
+    left: 5%;
+}
+
+/*FACULTAD ingles*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
+
+/*texto en las viñetas*/
+
+.titulo-facultad-salud{
+    position: relative;
+    top: -56px;
+    left: 3%;
+    font-size: 18px;
+    /* text-align: center; */
+    letter-spacing: 4px;
+}
+
+/*texto titutlo facultades*/
+
+.seccion-uno-salud h1{
+	font-size: 48px;
+letter-spacing: 6px;
+	
+}
+
+.seccion-uno-salud .introduccion-salud h4{
+    font-size: 18px;
+    position: relative;
+    top: 68px;
+    letter-spacing: 4px;
+}
+
+.seccion-uno-salud{
+	
+
+   
+    width: 90%;
+    position: relative;
+    left: 5%;
+    top: 45px;
+    height: 557px;
+}
+
+.introduccion-salud{
+		border-right: solid 6px #8af2ff;;
+	
+	
+    width: 59%;
+    height: 100%;
+
+}
+
+.salud-introduccion{
+	
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.informacion-directora-salud{
+    position: relative;
+  
+    width: 33%;
+    top: -101%;
+    left: 67%;
+}
+
+.acredita-salud{
+    position: relative;
+    left:35%;
+}
+.director-carrera-salud{
+font-size: 17px;
+    letter-spacing: 4px;
+    line-height: 96px;
+    text-align: right;
+}
+
+.informacion-directora-salud p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
+/*Perfil-egresado-salud*/
+
+    .perfil-egresado-salud{
+		padding:30px 0 30px 0;
+		border-top:solid 6px #8af2ff;
+		border-bottom:solid 6px #8af2ff;
+    
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 109px;
+    left: 5%;
+}
+
+.perfil-egresado-salud h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-salud p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*seccion dos ingles*/
+
+/*campo ingles*/
+
+.seccion-dos-salud{
+
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 193px;
+    left: 5%;
+    overflow: hidden;
+
+}
+
+.campo-salud{
+	border-right: solid 6px #8af2ff;;
+    width: 59%;
+    
+    height: 100%;
+    display: inline-block;
+}
+
+.descarga-malla-salud {
+   letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 71px;
+
+}
+.campo-salud h4{
+  font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.campo-salud p{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+}
+
+/*info general ingles*/
+
+.info-general-salud{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -224px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-salud h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-salud p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+
+
+/*FACULTAD ingles*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/

@@ -8,6 +8,7 @@
 
 
     	<link rel="stylesheet" type="text/css" href="css/facultad-educacion.css">
+    	<link rel="stylesheet" type="text/css" href="css/facultad-salud.css">
 
     	<link rel="stylesheet" type="text/css" href="css/facultad.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-juridica.css">
