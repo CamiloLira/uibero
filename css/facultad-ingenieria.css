@@ -1,0 +1,342 @@
+/* viñetas de educacion*/
+
+
+.vineta-educacion{
+	position: relative;
+    left: 5%;
+}
+
+/*FACULTAD comercial*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
+
+/*texto en las viñetas*/
+
+.titulo-facultad-educacion{
+    position: relative;
+    top: -56px;
+    left: 3%;
+    font-size: 18px;
+    /* text-align: center; */
+    letter-spacing: 4px;
+}
+
+/*texto titutlo facultades*/
+
+.seccion-uno-fingenieria h1{
+	font-size: 48px;
+letter-spacing: 6px;
+	
+}
+
+.seccion-uno-fingenieria .introduccion-fingenieria h4{
+    font-size: 18px;
+    position: relative;
+    top: 68px;
+    letter-spacing: 4px;
+}
+
+.seccion-uno-fingenieria{
+	
+
+   
+    width: 90%;
+    position: relative;
+    left: 5%;
+    top: 45px;
+    height: 557px;
+}
+
+.introduccion-fingenieria{
+		border-right: solid 6px #ff63eb;
+	
+	
+    width: 59%;
+    height: 100%;
+
+}
+
+.fingenieria-introduccion{
+	
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.informacion-directora-fingenieria{
+    position: relative;
+  
+    width: 33%;
+    top: -101%;
+    left: 67%;
+}
+
+.acredita-fingenieria{
+    position: relative;
+    left:35%;
+}
+.director-carrera-fingenieria{
+font-size: 17px;
+    letter-spacing: 4px;
+    line-height: 96px;
+    text-align: right;
+}
+
+.informacion-directora-fingenieria p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
+/*Perfil-egresado-fingenieria*/
+
+    .perfil-egresado-fingenieria{
+		padding:30px 0 30px 0;
+		border-top:solid 6px #ff63eb;
+		border-bottom:solid 6px #ff63eb;
+    
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 109px;
+    left: 5%;
+}
+
+.perfil-egresado-fingenieria h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*seccion dos comercial*/
+
+/*campo comercial*/
+
+.seccion-dos-fingenieria{
+
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 193px;
+    left: 5%;
+    overflow: hidden;
+
+}
+
+.campo-fingenieria{
+	border-right: solid 6px #ff63eb;
+    width: 59%;
+    
+    height: 100%;
+    display: inline-block;
+}
+
+.descarga-malla-fingenieria {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 11px;
+
+}
+.campo-fingenieria h4{
+  font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.campo-fingenieria p{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+}
+
+/*info general comercial*/
+
+.info-general-fingenieria{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -310px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fingenieria h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fingenieria p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+/*info general ing civil*/
+
+.info-general-fingenieriacivil{
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -194px;
+    left: 70%;
+    text-align: right;
+}
+.info-general-fingenieriacivil h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fingenieriacivil p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+.descarga-malla-fingenieriacivil {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 71px;
+
+}
+
+/*administracion publica*/
+
+
+.fingenieria-introduccion-admpublica{
+    
+       letter-spacing: 2px;
+    line-height: 22px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.info-general-fingenieria-admpublica{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -344px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fingenieria-admpublica h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fingenieria-admpublica p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.descarga-malla-fingenieria-admpublica {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 56px;
+
+}
+
+/* Contador auditor*/
+
+
+
+
+.info-general-fingenieria-contador{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -227px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fingenieria-contador h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fingenieria-contador p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.descarga-malla-fingenieria-contador {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 71px;
+
+}
+
+
+/* ejecucion electronica*/
+
+
+.descarga-malla-fingenieria-ejecucioncivil {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 80px;
+
+}
+
+/*industria alimentaria*/
+
+
+.info-general-fingenieria-alimentaria{
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -406px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fingenieria-alimentaria h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fingenieria-alimentaria p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.descarga-malla-fingenieria-alimentaria {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 71px;
+
+}
+
+
+
+
+
+/*FACULTAD comercial*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/

@@ -1,4 +1,3 @@
- target="_blank"
 <!-- header -->
 <?php include("header.php"); ?>
 <body>

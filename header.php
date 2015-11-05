@@ -7,12 +7,11 @@
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 
 
-    	<link rel="stylesheet" type="text/css" href="css/facultad-ingles.css">
+    	<link rel="stylesheet" type="text/css" href="css/facultad-educacion.css">
 
     	<link rel="stylesheet" type="text/css" href="css/facultad.css">
-    	<link rel="stylesheet" type="text/css" href="css/facultad-derecho.css">
-    	 <link rel="stylesheet" type="text/css" href="css/facultad-ingenieriacomercial.css">
-    	  <link rel="stylesheet" type="text/css" href="css/facultad-matematica.css">
+    	<link rel="stylesheet" type="text/css" href="css/facultad-juridica.css">
+    	 <link rel="stylesheet" type="text/css" href="css/facultad-ingenieria.css">
         <link rel="stylesheet" type="text/css" href="css/facultatsocial.css">
     	<link rel="stylesheet" type="text/css" href="css/formulario.css">
         <link rel="stylesheet" type="text/css" href="css/footer.css">

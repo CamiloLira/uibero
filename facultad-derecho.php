@@ -20,9 +20,9 @@
 	
 <!-- caja seccion 1  -->
 
-	<div class="seccion-uno-derecho">
+	<div class="seccion-uno-fjuridica">
 		<h1 class="gris-oscuro">Derecho</h1>
-		<div class="introduccion-derecho">
+		<div class="introduccion-fjuridica">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">
 				La carrera de Derecho en la Universidad Iberoamericana 
@@ -36,10 +36,10 @@ Nuestros egresados serán profesionales comprometidos con la sociedad, que abord
 			</p>
 		</div>
 		
-		<div class="informacion-directora-derecho">
-			<!--<img class="acredita-derecho" src="images/3acredita.png">-->
+		<div class="informacion-directora-fjuridica">
+			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
 			<img src="http://lorempixel.com/310/190/">
-			<h4 class="director-carrera-derecho gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Prof. Tatiana Cortés Ovando</p>
 			<p class="gris">E-mail: tatiana.cortes@uibero.cl</p>
 			<p class="gris">Teléfono: +56 2 23899082.</p>
@@ -48,7 +48,7 @@ Nuestros egresados serán profesionales comprometidos con la sociedad, que abord
 
 	</div>
 
-	<div class="perfil-egresado-derecho">
+	<div class="perfil-egresado-fjuridica">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
@@ -59,18 +59,18 @@ Será además, un profesional comprometido con los valores humanistas cristianos
 
 <!-- cajaseccion 2 -->
 
- <div class="seccion-dos-derecho">
-  	<div class="campo-derecho">
+ <div class="seccion-dos-fjuridica">
+  	<div class="campo-fjuridica">
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">El licenciado en Ciencias Jurídicas y Sociales se podrá desempeñar tanto en el ámbito público como privado, Tribunales de Justicia, Ministerio Público, Defensoría Laboral y Penal. También podrá incursionar en la Investigación Jurídica, Docencia y en el Ámbito Internacional.
 La empleabilidad de la carrera de Derecho es de un 77,8% en el primer año tras la titulación y de un 86,9% en el segundo, de acuerdo a datos del Mineduc.
 		</p>
-		<a href="" class="amarillooscuro descarga-malla-derecho">DESCARGA TU MALLA<a/>
+		<a href="" class="amarillooscuro descarga-malla-fjuridica">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->
-  		<div class="info-general-derecho">
+  		<div class="info-general-fjuridica">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>

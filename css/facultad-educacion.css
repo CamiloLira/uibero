@@ -21,20 +21,20 @@
 
 /*texto titutlo facultades*/
 
-.seccion-uno-ingles h1{
+.seccion-uno-educacion h1{
 	font-size: 48px;
 letter-spacing: 6px;
 	
 }
 
-.seccion-uno-ingles .introduccion-ingles h4{
+.seccion-uno-educacion .introduccion-educacion h4{
     font-size: 18px;
     position: relative;
     top: 68px;
     letter-spacing: 4px;
 }
 
-.seccion-uno-ingles{
+.seccion-uno-educacion{
 	
 
    
@@ -45,7 +45,7 @@ letter-spacing: 6px;
     height: 557px;
 }
 
-.introduccion-ingles{
+.introduccion-educacion{
 		border-right: solid 6px #ff6161;;
 	
 	
@@ -54,7 +54,7 @@ letter-spacing: 6px;
 
 }
 
-.ingles-introduccion{
+.educacion-introduccion{
 	
        letter-spacing: 2px;
     line-height: 30px;
@@ -66,7 +66,7 @@ letter-spacing: 6px;
 
 }
 
-.informacion-directora-ingles{
+.informacion-directora-educacion{
     position: relative;
   
     width: 33%;
@@ -74,18 +74,18 @@ letter-spacing: 6px;
     left: 67%;
 }
 
-.acredita-ingles{
+.acredita-educacion{
     position: relative;
     left:35%;
 }
-.director-carrera-ingles{
+.director-carrera-educacion{
 font-size: 17px;
     letter-spacing: 4px;
     line-height: 96px;
     text-align: right;
 }
 
-.informacion-directora-ingles p {
+.informacion-directora-educacion p {
     text-align: right;
     font-size: 11px;
     letter-spacing: 2px;
@@ -94,9 +94,9 @@ font-size: 17px;
     line-height: 16px;
 }
 
-/*Perfil-egresado-ingles*/
+/*Perfil-egresado-educacion*/
 
-    .perfil-egresado-ingles{
+    .perfil-egresado-educacion{
 		padding:30px 0 30px 0;
 		border-top:solid 6px #ff6161;;
 		border-bottom:solid 6px #ff6161;;
@@ -108,12 +108,12 @@ font-size: 17px;
     left: 5%;
 }
 
-.perfil-egresado-ingles h4{
+.perfil-egresado-educacion h4{
      font-size: 18px;
     letter-spacing: 4px;
 }
 
-.perfil-egresado-ingles p {
+.perfil-egresado-educacion p {
     line-height: 26px;
     font-size: 12.5px;
     letter-spacing: 2px;
@@ -124,7 +124,7 @@ font-size: 17px;
 
 /*campo ingles*/
 
-.seccion-dos-ingles{
+.seccion-dos-educacion{
 
     width: 90%;
     height: 100%;
@@ -135,7 +135,7 @@ font-size: 17px;
 
 }
 
-.campo-ingles{
+.campo-educacion{
 	border-right: solid 6px #ff6161;;
     width: 59%;
     
@@ -143,7 +143,7 @@ font-size: 17px;
     display: inline-block;
 }
 
-.descarga-malla-ingles {
+.descarga-malla-educacion {
    letter-spacing: 6px;
     font-size: 31px;
     /* line-height: 5px; */
@@ -151,12 +151,12 @@ font-size: 17px;
     top: 71px;
 
 }
-.campo-ingles h4{
+.campo-educacion h4{
   font-size: 18px;
     letter-spacing: 4px;
 }
 
-.campo-ingles p{
+.campo-educacion p{
        letter-spacing: 2px;
     line-height: 30px;
     font-size: 12.9px;
@@ -167,7 +167,7 @@ font-size: 17px;
 
 /*info general ingles*/
 
-.info-general-ingles{
+.info-general-educacion{
    
     width: 30%;
         height: 100%;
@@ -177,11 +177,11 @@ font-size: 17px;
     text-align: right;
 }
 
-.info-general-ingles h4{
+.info-general-educacion h4{
       font-size: 18px;
     letter-spacing: 4px;
 }
-.info-general-ingles p {
+.info-general-educacion p {
  font-size: 12.9px;
     line-height: 27px;
     letter-spacing: 2px;

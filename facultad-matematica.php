@@ -20,22 +20,21 @@
 	
 <!-- caja seccion 1  -->
 
-	<div class="seccion-uno-matematica">
+	<div class="seccion-uno-educacion">
 		<h1 class="gris-oscuro">Pedagogía en Matemática y Física</h1>
-		<div class="introduccion-matematica">
+		<div class="introduccion-educacion">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
-			<p class="matematica-introduccion gris-oscuro">
+			<p class="educacion-introduccion gris-oscuro">
 				La carrera de Pedagogía en Matemática y Física en la Universidad Iberoamericana de Ciencias y Tecnología está orientada a formar educadores con sólidos conocimientos conceptuales, disciplinares, didácticos y pedagógicos, que procuran el desarrollo integral de sus alumnos. 
 La formación ofrecida por la universidad tiene un fuerte componente práctico gracias a contar con un Centro de Experimentación, Investigación y Prácticas Pedagógicas propio.
-
 			</p>
 		</div>
 		
-		<div class="informacion-directora-matematica">
-			<img class="acredita-matematica" src="images/3acredita.png">
+		<div class="informacion-directora-educacion">
+			<img class="acredita-educacion" src="images/3acredita.png">
 			<img src="http://lorempixel.com/310/190/">
-			<h4 class="director-carrera-matematica gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-educacion gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Laura Millán Huidobro</p>
 			<p class="gris">E-mail: laura.millan@uibero.cl</p>
 			<p class="gris">Teléfono: +56 2 2389 9107</p>
@@ -44,7 +43,7 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 
 	</div>
 
-	<div class="perfil-egresado-matematica">
+	<div class="perfil-egresado-educacion">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">Profesional capacitado en la didáctica de las ciencias experimentales, así como en sus fundamentos teóricos orientando a lograr un aprendizaje de calidad en sus alumnos. Pueden desempeñarse en el ámbito educacional y con un alto nivel de empleabilidad en establecimientos de enseñanza Gral. Básica y Media, Universidades, Institutos Profesionales y Centros de Formación Técnica.
@@ -53,17 +52,17 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 
 <!-- cajaseccion 2 -->
 
- <div class="seccion-dos-matematica">
-  	<div class="campo-matematica">
+ <div class="seccion-dos-educacion">
+  	<div class="campo-educacion">
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">La empleabilidad de la carrera de Pedagogía en Matemática y Física (Pedagogía en Matemáticas y Computación) es de un 94% en el primer año tras la titulación y de un 93,7% en el segundo, según datos del Ministerio de Educación. 
 		</p>
-		<a href="" class="rojo descarga-malla-matematica">DESCARGA TU MALLA<a/>
+		<a href="" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general matematica-->
-  		<div class="info-general-matematica">
+  		<div class="info-general-educacion">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>

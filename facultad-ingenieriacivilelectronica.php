@@ -21,17 +21,16 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-fingenieria">
-		<h1 class="gris-oscuro">Ingeniería Comercial</h1>
+		<h1 class="gris-oscuro">Ingeniería Civil Electrónica</h1>
 		<div class="introduccion-fingenieria">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="fingenieria-introduccion gris-oscuro">
-				¿Te gusta innovar, emprender y 
-				liderar equipos de trabajo? Entonces ven e infó
-				rmate de la carrera de Ingeniería Comercial que imparte la Univ
-				ersidad Iberoamericana. Aquí podrás acceder a una carrera con orientación p
-				ráctica en negocios, donde aprenderás sobre finanzas, marketing y recursos humanos. 
-				 Country Day College”, ubicado en la comuna de Peñalolén y 
-				 además mantiene convenios  con los Liceos Emblemáticos de la comuna de Santiago.
+				La Ingeniería Civil Electrónica que imparte la Universidad 
+				Iberoamericana de Ciencias y Tecnología, es una carrera que está pensada 
+				para aquellos trabajadores que quieran perfeccionar sus conocimientos, después 
+				de sus jornadas laborales. Para ello, se imparte en horario vespertino y tiene 
+				un fuerte componente práctico que se desarrolla en tres ciclos: Ciencias Básicas 
+				(matemática y física), Ciencias de Especialidad y Menciones en Telecomunicaciones e Informática o Automatización y Robótica. Además, cuenta con docentes con una amplia y destacada experiencia laboral y académica.
 			</p>
 		</div>
 		
@@ -39,9 +38,9 @@
 			<img class="acredita-fingenieria" src="images/3acredita.png">
 			<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Directora de Carrera </h4>
-			<p class="gris">Mg. Georg Spee Gaona</p>
-			<p class="gris">E-mail: george.spee@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 23899082.</p>
+			<p class="gris">Ing. José Miguel Santibáñez A.</p>
+			<p class="gris">E-mail: jose.santibanez@uibero.cl</p>
+			<p class="gris">Teléfono: +56 2 2389 9032</p>
 
 		</div>
 
@@ -51,10 +50,7 @@
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	Es un profesional que está capacitado para liderar empresas y 
-	 	organizaciones, ya que su formación está orientada a la administración y 
-	 	gestión de empresas. Posee conocimientos en marketing, finanzas, recursos humanos, 
-	 	economía y tecnologías de la información.
+	 	El egresado de esta carrera es un profesional analítico, innovador y con sólidos conocimientos en las Ciencias Básicas, por lo que puede desarrollarse en docencia, investigación y desarrollo de proyectos. Asimismo está capacitado para generar, supervisar y ejecutar proyectos en Telecomunicaciones e Informática o Automatización y Robótica.
 	 </p>
 	</div>
 
@@ -64,27 +60,26 @@
   	<div class="campo-fingenieria">
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
-  		<p class="gris-oscuro">De acuerdo a datos del Mineduc, la empleabilidad de la carrera de
-  		 Ingeniería Comercial es de un 92% en el primer año tras la titulación, y de un 94,8% en el segundo.
-El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de emprendimiento y competencias
- para desempeñarse en marketing, finanzas, recursos humanos, economía y tecnologías de la información.
+  		<p class="gris-oscuro">De acuerdo a datos del Mineduc, los egresados de Ingeniería 
+  			Civil Electrónica se caracterizan por tener una empleabilidad de 93% tras el primer
+  			 año de titulación, y de 96% en el segundo.
 		</p>
-		<a href="" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
+		<a href="" class="morado descarga-malla-fingenieriacivil">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->
-  		<div class="info-general-fingenieria">
+  		<div class="info-general-fingenieriacivil">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>
-					<p class="gris-oscuro">Ingeniero Comercial  </p>
+					<p class="gris-oscuro">Ingeniero Civil Electrónico.</p>
 					<p class="gris-oscuro">Grado Académico</p>
 					<p class="gris-oscuro">Licenciado en Ciencias en </p>
-					<p class="gris-oscuro">la Administración de Empresas.</p>
+					<p class="gris-oscuro">Ciencias de la Ingeniería.</p>
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>
-					<p class="gris-oscuro">Régimen: Diurno</p>
+					<p class="gris-oscuro">Régimen: Vespertino</p>
   		</div>
 
  </div>

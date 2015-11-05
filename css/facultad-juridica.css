@@ -21,20 +21,20 @@
 
 /*texto titutlo facultades*/
 
-.seccion-uno-derecho h1{
+.seccion-uno-fjuridica h1{
 	font-size: 48px;
 letter-spacing: 6px;
 	
 }
 
-.seccion-uno-derecho .introduccion-derecho h4{
+.seccion-uno-fjuridica .introduccion-fjuridica h4{
     font-size: 18px;
     position: relative;
     top: 68px;
     letter-spacing: 4px;
 }
 
-.seccion-uno-derecho{
+.seccion-uno-fjuridica{
 	
 
    
@@ -45,8 +45,8 @@ letter-spacing: 6px;
     top:5px;
 }
 
-.introduccion-derecho{
-		border-right: solid 6px #ff6161;;
+.introduccion-fjuridica{
+		border-right: solid 6px #b1c006;;
 	   
     width: 59%;
     height: 100%;
@@ -65,7 +65,7 @@ letter-spacing: 6px;
 
 }
 
-.informacion-directora-derecho{
+.informacion-directora-fjuridica{
     position: relative;
   
     width: 33%;
@@ -73,18 +73,18 @@ letter-spacing: 6px;
     left: 67%;
 }
 
-.acredita-derecho{
+.acredita-fjuridica{
     position: relative;
     left:35%;
 }
-.director-carrera-derecho{
+.director-carrera-fjuridica{
 font-size: 17px;
     letter-spacing: 4px;
     line-height: 96px;
     text-align: right;
 }
 
-.informacion-directora-derecho p {
+.informacion-directora-fjuridica p {
     text-align: right;
     font-size: 11px;
     letter-spacing: 2px;
@@ -93,12 +93,12 @@ font-size: 17px;
     line-height: 16px;
 }
 
-/*Perfil-egresado-derecho*/
+/*Perfil-egresado-fjuridica*/
 
-    .perfil-egresado-derecho{
+    .perfil-egresado-fjuridica{
 		padding:30px 0 30px 0;
-		border-top:solid 6px #ff6161;;
-		border-bottom:solid 6px #ff6161;;
+		border-top:solid 6px #b1c006;;
+		border-bottom:solid 6px #b1c006;;
     
     width: 90%;
     height: 100%;
@@ -107,12 +107,12 @@ font-size: 17px;
     left: 5%;
 }
 
-.perfil-egresado-derecho h4{
+.perfil-egresado-fjuridica h4{
      font-size: 18px;
     letter-spacing: 4px;
 }
 
-.perfil-egresado-derecho p {
+.perfil-egresado-fjuridica p {
     line-height: 26px;
     font-size: 12.5px;
     letter-spacing: 2px;
@@ -123,7 +123,7 @@ font-size: 17px;
 
 /*campo derecho*/
 
-.seccion-dos-derecho{
+.seccion-dos-fjuridica{
 
     width: 90%;
     height: 100%;
@@ -134,15 +134,15 @@ font-size: 17px;
 
 }
 
-.campo-derecho{
-	border-right: solid 6px #ff6161;;
+.campo-fjuridica{
+	border-right: solid 6px #b1c006;;
     width: 59%;
     
     height: 100%;
     display: inline-block;
 }
 
-.descarga-malla-derecho {
+.descarga-malla-fjuridica {
    letter-spacing: 6px;
     font-size: 31px;
     /* line-height: 5px; */
@@ -150,12 +150,12 @@ font-size: 17px;
     top: 71px;
 
 }
-.campo-derecho h4{
+.campo-fjuridica h4{
   font-size: 18px;
     letter-spacing: 4px;
 }
 
-.campo-derecho p{
+.campo-fjuridica p{
        letter-spacing: 2px;
     line-height: 30px;
     font-size: 12.9px;
@@ -166,7 +166,7 @@ font-size: 17px;
 
 /*info general derecho*/
 
-.info-general-derecho{
+.info-general-fjuridica{
    
     width: 30%;
         height: 100%;
@@ -176,11 +176,11 @@ font-size: 17px;
     text-align: right;
 }
 
-.info-general-derecho h4{
+.info-general-fjuridica h4{
       font-size: 18px;
     letter-spacing: 4px;
 }
-.info-general-derecho p {
+.info-general-fjuridica p {
  font-size: 12.9px;
     line-height: 27px;
     letter-spacing: 2px;
