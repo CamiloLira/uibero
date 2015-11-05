@@ -41,15 +41,15 @@ footer{
 
 }
 .acreditacion{
-     position: relative;
-    top: 272px;
-    left: -63%;
+    position: absolute;
+    top: 459%;
+    left: 13%;
 }
 
  .logo-footer{
-    position: relative;
-    top: -72px;
-    left: 31.7%;
+    position: absolute;
+    top: 418%;
+    left: 36.3%;
  }
 
 

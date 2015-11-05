@@ -21,9 +21,16 @@
 /*texto titutlo facultades*/
 
 .seccion-uno h1{
-	font-size: 50px;
-letter-spacing: 5px;
+	font-size: 48px;
+letter-spacing: 6px;
 	
+}
+
+.seccion-uno .introduccion h4{
+    font-size: 18px;
+    position: relative;
+    top: 68px;
+    letter-spacing: 4px;
 }
 
 .seccion-uno{
@@ -40,19 +47,17 @@ letter-spacing: 5px;
 	border: 2px solid rgba(215, 40, 40, 0.5);
     width: 59%;
     height: 550px;
-   
 
 }
 
 .ingles-introduccion{
        letter-spacing: 2px;
     line-height: 30px;
-    font-size: 16px;
-    overflow: hidden;
+    font-size: 12.9px;
     text-align: left;
     width: 93%;
     position: relative;
-    top: 71px;
+    top: 95px;
 
 
 }
