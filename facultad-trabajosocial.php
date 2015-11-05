@@ -25,7 +25,7 @@
     <p class="texto">La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sello distintivo, que es la formación personalizada de sus estudiantes: un estilo enfocado en formar profesionales críticos y responsables en el marco de la intervención social. Junto con ello, a los alumnos se les realiza una preparación teórica y práctica para una pronta vinculación con la realidad laboral.</p>
   </div>
  
- <div id="ladoderecho">
+ <div class="ladoderecho">
  <div id="foto"><img src="http://lorempixel.com/310/190/"/></div>
  <div id="textopie">Director de Carrera<br>
    Mg. Edmundo Mercado Cabrera<br>
@@ -46,10 +46,22 @@
   <p> De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Sociales es de un 78,5% en el primer año tras la titilación, y de un 87,7% en el segundo.
     El trabajador social formado por la Universidad Iberoamericana, por su amplia formación en Ciencias Sociales y Jurídicas, está capacitado para desempeñarse en organismos del Poder Judicial, municipios, organizaciones de gobierno, instituciones previsionales y ONGs. </p>
 </div>
+<div class="ladoderecho">Información general
+
+Título Profesional 
+Trabajador Social.
+Grado Académico
+Licenciado en Trabajo Social.
+Duración
+8 semestres.
+
+Régimen: : Vespertino..
+
+</div>
 </div>	
 	
 <!-- div para los bordes -->
 <div></div>
 	
-	</body>
+<?php include("footer.php"); ?>
 									

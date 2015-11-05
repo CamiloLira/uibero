@@ -35,8 +35,9 @@ letter-spacing: 6px;
 }
 
 .seccion-uno-comercial{
-    border-style: solid;
-    border-color: red;
+	
+
+   
     width: 90%;
     position: relative;
     left: 5%;
@@ -45,13 +46,16 @@ letter-spacing: 6px;
 }
 
 .introduccion-comercial{
-	border: 2px solid rgba(215, 40, 40, 0.5);
+		border-right: solid 6px #f2ff61;
+	
+	
     width: 59%;
     height: 100%;
 
 }
 
 .comercial-introduccion{
+	
        letter-spacing: 2px;
     line-height: 30px;
     font-size: 12.9px;
@@ -64,7 +68,7 @@ letter-spacing: 6px;
 
 .informacion-directora-comercial{
     position: relative;
-    border: 2px solid rgba(215, 40, 40, 0.5);
+  
     width: 33%;
     top: -101%;
     left: 67%;
@@ -93,7 +97,10 @@ font-size: 17px;
 /*Perfil-egresado-comercial*/
 
     .perfil-egresado-comercial{
-       border: 2px solid rgba(215, 40, 40, 0.5);
+		padding:30px 0 30px 0;
+		border-top:solid 6px #f2ff61;
+		border-bottom:solid 6px #f2ff61;
+    
     width: 90%;
     height: 100%;
     position: relative;
@@ -118,7 +125,7 @@ font-size: 17px;
 /*campo comercial*/
 
 .seccion-dos-comercial{
-    border: 2px solid rgba(215, 40, 40, 0.5);
+
     width: 90%;
     height: 100%;
     position: relative;
@@ -129,8 +136,9 @@ font-size: 17px;
 }
 
 .campo-comercial{
+	border-right: solid 6px #f2ff61;
     width: 59%;
-    border: 2px solid rgba(215, 40, 40, 0.5);
+    
     height: 100%;
     display: inline-block;
 }
@@ -160,11 +168,11 @@ font-size: 17px;
 /*info general comercial*/
 
 .info-general-comercial{
-    border: 2px solid rgba(215, 40, 40, 0.5);
+   
     width: 30%;
         height: 100%;
     position: relative;
-    top: -325px;
+    top: -310px;
     left: 70%;
     text-align: right;
 }

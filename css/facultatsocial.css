@@ -26,21 +26,22 @@
 	border-right: solid 6px #f2ff61;
 	margin-top: 100px;
 	padding: 0 20px 0 0;
-	width: 35%;
+	width: 550px;
 	height: 447px;
 	font-size: 14px;
 	
 }
 .texto {
+	width:550px;
 	margin-top:10px;}
 
-#ladoderecho {
+.ladoderecho {
 	margin-right:55px;
 	margin-top:80px;
 	float:right;
 	height: 447px;
 	
-	width:30%;}
+	width:200px;}
 #foto {
 	float:right;
 
@@ -70,4 +71,5 @@
 	height:100%;
 	padding:30px;
 	width:90%;
+	
 	}
