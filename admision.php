@@ -50,8 +50,8 @@
 			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
 				Y EDUCACIÓN</p><a/>
 				<div class="mover-carreras-uno">
-					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Ingles</p></a>
-					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p></a>
+					<a href="ingles.php" target="_blank"><p class="carreras-facultades educacion">Pedagogía en Ingles</p></a>
+					<a href="matematica.php" target="_blank"><p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p></a>
 				</div>
 			</div>
 
@@ -61,12 +61,12 @@
 				<p class="morado titulos-facultad">FACULTAD DE CIENCIAS 
 					DE LA INGENIERIA Y ADMINISTRACIÓN</p>
 					<div class="mover-carreras-uno">
-						<a href="#"><p class="carreras-facultades ingenieria">Administración Pública</p><a/>
-						<a href="#"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
-						<a href="#"><p class="carreras-facultades ingenieria">Ingeniera Comercial</p><a/>
-						<a href="#"><p class="carreras-facultades ingenieria">Ingenieria Civil Electronica</p><a/>
-						<a href="#"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución en Industria Alimentaria</p><a/>
-						<a href="#"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución Electrónica</p><a/>
+						<a href="administracion-publica.php" target="_blank"><p class="carreras-facultades ingenieria">Administración Pública</p><a/>
+						<a href="contador-auditor.php" target="_blank"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
+						<a href="ingenieria-comercial.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria Comercial</p><a/>
+						<a href="civil-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria Civil Electronica</p><a/>
+						<a href="ingenieria-alimentaria.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución en Industria Alimentaria</p><a/>
+						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución Electrónica</p><a/>
 
 					</div>
 				</div>
@@ -77,8 +77,8 @@
 					<p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
 						JURÍDICAS Y SOCIALES</p>
 						<div class="mover-carreras-uno">
-							<a href=""><p class="carreras-facultades juridica">Derecho</p><a/>
-							<a href=""><p class="carreras-facultades juridica">Trabajo Social</p><a/>
+							<a href="derecho.php" target="_blank"><p class="carreras-facultades juridica">Derecho</p><a/>
+							<a href="trabajo-social.php" target="_blank"><p class="carreras-facultades juridica">Trabajo Social</p><a/>
 						</div>
 					</div>
 
