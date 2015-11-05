@@ -39,7 +39,13 @@
     <p>&nbsp;</p>
     <p> El trabajador social que egresa de nuestra universidad, destaca por su formación en Ciencias Sociales y Jurídicas, lo que le abre las puertas para trabajar en organismos del Poder Judicial, organizaciones de Gobierno y municipios. También está capacitado para trabajar en instituciones previsionales, organizaciones de prevención social y ONGs, entre otras. </p>
   </div>
-<div class="intro"></div>
+<div class="intro">
+  <p>Empleabilidad / Campo laboral
+   </p>
+  <p>&nbsp;</p>
+  <p> De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Sociales es de un 78,5% en el primer año tras la titilación, y de un 87,7% en el segundo.
+    El trabajador social formado por la Universidad Iberoamericana, por su amplia formación en Ciencias Sociales y Jurídicas, está capacitado para desempeñarse en organismos del Poder Judicial, municipios, organizaciones de gobierno, instituciones previsionales y ONGs. </p>
+</div>
 </div>	
 	
 <!-- div para los bordes -->
