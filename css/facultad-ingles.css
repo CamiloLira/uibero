@@ -125,6 +125,7 @@ font-size: 17px;
     position: relative;
     top: 193px;
     left: 5%;
+    overflow: hidden;
 
 }
 
@@ -158,11 +159,11 @@ font-size: 17px;
 /*info general ingles*/
 
 .info-general-ingles{
-border: 2px solid rgba(215, 40, 40, 0.5);
+    border: 2px solid rgba(215, 40, 40, 0.5);
     width: 30%;
     height: 340px;
     position: relative;
-    top: -102%;
+    top: -325px;
     left: 70%;
     text-align: right;
 }
