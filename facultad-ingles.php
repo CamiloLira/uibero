@@ -6,7 +6,9 @@
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
-		
+		<a href="#"><div class="facebook-barra-admision"></div></a>
+		<a href="#"><div class="twitter-barra-admision"></div></a>
+		<a href="#"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
 	</div>
 
@@ -22,6 +24,7 @@
 		<h1 class="gris-oscuro">Pedagogía en Ingles</h1>
 		<div class="introduccion-ingles">
 			<h4 class="gris-oscuro">Introducción</h4>
+			<br>
 			<p class="ingles-introduccion gris-oscuro">
 				Contamos con un staff académico altamente especializado 
 				lo que nos permite formar docentes con un dominio competente
@@ -73,7 +76,7 @@
 					<p class="gris-oscuro">Título Profesional </p>
 					<p class="gris-oscuro">Profesor en Inglés </p>
 					<p class="gris-oscuro">para la Enseñanza Básica y Media</p>
-					<br>
+					
 					<p class="gris-oscuro">Grado Académico</p>
 					<p class="gris-oscuro">Licenciado en Educación</p>
 					<p class="gris-oscuro">Duración</p>

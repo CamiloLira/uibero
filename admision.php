@@ -7,8 +7,13 @@
    <div id="contenedor">
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
-		
+		<!-- link redes sociales -->
+		<a href="https://www.facebook.com/uiberoamericanacl"><div class="facebook-barra-admision"></div></a>
+		<a href="http://www.twitter.com/Admision_Uibero"><div class="twitter-barra-admision"></div></a>
+		<a href="http://www.instagram.com/admisionuibero"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
+		
+
 	</div>
 
 	<!-- Container Slider -->
@@ -45,7 +50,7 @@
 			<img src="images/rojo.png">
 			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
 				Y EDUCACIÓN</p><a/>
-				<div class="mover-carreras">
+				<div class="mover-carreras-uno">
 					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Ingles</p></a>
 					<a href="#"><p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p></a>
 				</div>
@@ -54,9 +59,9 @@
 			<!-- facultad ingeneria hexagono-->
 			<div class="facultad-ingeneria">
 				<img src="images/morado.png">
-				<p class="MORADO titulos-facultad">FACULTAD DE CIENCIAS 
+				<p class="morado titulos-facultad">FACULTAD DE CIENCIAS 
 					DE LA INGENIERIA Y ADMINISTRACIÓN</p>
-					<div class="mover-carreras">
+					<div class="mover-carreras-uno">
 						<a href="#"><p class="carreras-facultades ingenieria">Administración Pública</p><a/>
 						<a href="#"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
 						<a href="#"><p class="carreras-facultades ingenieria">Ingeniera Comercial</p><a/>
@@ -72,7 +77,7 @@
 					<img src="images/amarillo.png">
 					<p class="amarillooscuro titulos-facultad">FACULTAD DE CIENCIAS 
 						JURÍDICAS Y SOCIALES</p>
-						<div class="mover-carreras">
+						<div class="mover-carreras-uno">
 							<a href=""><p class="carreras-facultades juridica">Derecho</p><a/>
 							<a href=""><p class="carreras-facultades juridica">Trabajo Social</p><a/>
 						</div>
@@ -83,7 +88,7 @@
 						<img src="images/celeste.png">
 						<p class="celeste titulos-facultad">FACULTAD DE CIENCIAS 
 							DE LA SALUD</p>
-							<div class="mover-carreras">
+							<div class="mover-carreras-uno">
 								<a href="#"><p class="carreras-facultades salud">Enfermeria</p></a>
 								<a href="#"><p class="carreras-facultades salud">Fonoaudiología</p></a>
 								<a href="#"><p class="carreras-facultades salud">Kinesiología</p></a>
@@ -97,8 +102,8 @@
 						<div class="facultad-natural">
 							<img src="images/verde.png">
 							<p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
-								RECURSOS NATURALES Y CIENCIAS SILVOAGROPECUARIAS</p>
-								<div class="mover-carreras">
+								RECURSOS NATURALES </p>
+								<div class="mover-carreras-natural">
 									<a href="#"><p class="carreras-facultades natural">Biotecnología</p></a>
 									<a href="#"><p class="carreras-facultades natural">Agronomia</p></a>
 									<a href="#"><p class="carreras-facultades natural">Veterinaria</p></a>
@@ -117,10 +122,15 @@
 							<figure>
 								<img class="redes" src="images/redes.png" width="550px">
 							</figure>
+							<a href="https://www.facebook.com/uiberoamericanacl"><div class="facebook-barra-social"></div></a>
+							<a href="http://www.twitter.com/Admision_Uibero"><div class="twitter-barra-social"></div></a>
+							<a href="http://www.instagram.com/admisionuibero"><div class="instagram-barra-social"></div></a>
 
 							<div class="aqui-estamos">
 								<h2 class="blanco">Aquí estamos</h2>
 							</div>
+
+
 
 						</div>
 
