@@ -1,4 +1,4 @@
-
+ target="_blank"
 <!-- header -->
 <?php include("header.php"); ?>
 <body>
@@ -8,9 +8,9 @@
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
 		<!-- link redes sociales -->
-		<a href="https://www.facebook.com/uiberoamericanacl"><div class="facebook-barra-admision"></div></a>
-		<a href="http://www.twitter.com/Admision_Uibero"><div class="twitter-barra-admision"></div></a>
-		<a href="http://www.instagram.com/admisionuibero"><div class="instagram-barra-admision"></div></a>
+		<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-admision"></div></a>
+		<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-admision"></div></a>
+		<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
 		
 
@@ -122,9 +122,9 @@
 							<figure>
 								<img class="redes" src="images/redes.png" width="550px">
 							</figure>
-							<a href="https://www.facebook.com/uiberoamericanacl"><div class="facebook-barra-social"></div></a>
-							<a href="http://www.twitter.com/Admision_Uibero"><div class="twitter-barra-social"></div></a>
-							<a href="http://www.instagram.com/admisionuibero"><div class="instagram-barra-social"></div></a>
+							<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-social"></div></a>
+							<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-social"></div></a>
+							<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-social"></div></a>
 
 							<div class="aqui-estamos">
 								<h2 class="blanco">Aquí estamos</h2>
