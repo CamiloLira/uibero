@@ -1,0 +1,184 @@
+/* viñetas de educacion*/
+
+
+.vineta-educacion{
+	position: relative;
+    left: 5%;
+}
+
+/*FACULTAD comercial*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
+
+/*texto en las viñetas*/
+
+.titulo-facultad-educacion{
+    position: relative;
+    top: -56px;
+    left: 3%;
+    font-size: 18px;
+    /* text-align: center; */
+    letter-spacing: 4px;
+}
+
+/*texto titutlo facultades*/
+
+.seccion-uno-comercial h1{
+	font-size: 48px;
+letter-spacing: 6px;
+	
+}
+
+.seccion-uno-comercial .introduccion-comercial h4{
+    font-size: 18px;
+    position: relative;
+    top: 68px;
+    letter-spacing: 4px;
+}
+
+.seccion-uno-comercial{
+    border-style: solid;
+    border-color: red;
+    width: 90%;
+    position: relative;
+    left: 5%;
+    top: 45px;
+    height: 557px;
+}
+
+.introduccion-comercial{
+	border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 59%;
+    height: 100%;
+
+}
+
+.comercial-introduccion{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.informacion-directora-comercial{
+    position: relative;
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 33%;
+    top: -101%;
+    left: 67%;
+}
+
+.acredita-comercial{
+    position: relative;
+    left:35%;
+}
+.director-carrera-comercial{
+font-size: 17px;
+    letter-spacing: 4px;
+    line-height: 96px;
+    text-align: right;
+}
+
+.informacion-directora-comercial p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
+/*Perfil-egresado-comercial*/
+
+    .perfil-egresado-comercial{
+       border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 109px;
+    left: 5%;
+}
+
+.perfil-egresado-comercial h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-comercial p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*seccion dos comercial*/
+
+/*campo comercial*/
+
+.seccion-dos-comercial{
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 193px;
+    left: 5%;
+    overflow: hidden;
+
+}
+
+.campo-comercial{
+    width: 59%;
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    height: 100%;
+    display: inline-block;
+}
+
+.descarga-malla-comercial {
+    letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 11px;
+
+}
+.campo-comercial h4{
+  font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.campo-comercial p{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+}
+
+/*info general comercial*/
+
+.info-general-comercial{
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -325px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-comercial h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-comercial p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+
+
+/*FACULTAD comercial*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
