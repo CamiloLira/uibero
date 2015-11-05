@@ -47,8 +47,9 @@
 	</div>
 
 	<div class="perfil-egresado-ingles">
-	 <h4 class="gris-oscuro">Introducción</h4>
-
+	 <h4 class="gris-oscuro">Perfil Egresado</h4>
+	 <br>
+	 <p class="gris-oscuro">El egresado de la Universidad Iberoamericana, será un profesional con un elevado manejo comunicativo y descriptivo de la lengua inglesa. Posee una práctica flexible de marcos conceptuales, procedimientos, estrategias pedagógicas y didácticas, que junto a un compromiso personal y profesional, le permitirán crear las condiciones para que sus alumnos logren aprendizajes de calidad.</p>
 	</div>
 
 

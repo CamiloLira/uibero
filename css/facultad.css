@@ -95,12 +95,24 @@ font-size: 17px;
 
     .perfil-egresado-ingles{
        border: 2px solid rgba(215, 40, 40, 0.5);
-    width: 59%;
-    height: 320px;
+    width: 90%;
+    height: auto;
     position: relative;
     top: 109px;
     left: 5%;
+}
+
+.perfil-egresado-ingles h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-ingles p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
 
 }
+
 
 /*FACULTAD INGLES*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
