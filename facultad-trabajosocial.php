@@ -20,9 +20,9 @@
 <div id="textosts">
 
 	<h1 class="gris-oscuro"> Trabajo Social</h1>
-  <div id="intro">
+  <div class="intro">
     <p>Introducción</p><br/>
-    <p>La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sello distintivo, que es la formación personalizada de sus estudiantes: un estilo enfocado en formar profesionales críticos y responsables en el marco de la intervención social. Junto con ello, a los alumnos se les realiza una preparación teórica y práctica para una pronta vinculación con la realidad laboral.</p>
+    <p class="texto">La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sello distintivo, que es la formación personalizada de sus estudiantes: un estilo enfocado en formar profesionales críticos y responsables en el marco de la intervención social. Junto con ello, a los alumnos se les realiza una preparación teórica y práctica para una pronta vinculación con la realidad laboral.</p>
   </div>
  
  <div id="ladoderecho">
@@ -31,9 +31,17 @@
    Mg. Edmundo Mercado Cabrera<br>
    E-mail: edmundo.mercado@uibero.cl<br>
   Teléfono: +56 2 2389 9095</div></div>
-  <div id="lineahorizontal"></div>
 
-</div>		
+  <div id="texto2">
+    <p>&nbsp;</p>
+    <p>Perfil del Egresado
+    </p>
+    <p>&nbsp;</p>
+    <p> El trabajador social que egresa de nuestra universidad, destaca por su formación en Ciencias Sociales y Jurídicas, lo que le abre las puertas para trabajar en organismos del Poder Judicial, organizaciones de Gobierno y municipios. También está capacitado para trabajar en instituciones previsionales, organizaciones de prevención social y ONGs, entre otras. </p>
+  </div>
+<div class="intro"></div>
+</div>	
+	
 <!-- div para los bordes -->
 <div></div>
 	

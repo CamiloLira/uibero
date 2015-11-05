@@ -18,7 +18,9 @@
 
 }
 
-#intro{
+.intro{
+	font-size:16px;
+	
 	position: absolute;
 		font-family:'KeepCalm-Medium', Helvetica, Arial;
 	border-right: solid 6px #f2ff61;
@@ -27,7 +29,10 @@
 	width: 35%;
 	height: 447px;
 	font-size: 14px;
+	
 }
+.texto {
+	margin-top:10px;}
 
 #ladoderecho {
 	margin-right:55px;
@@ -55,9 +60,13 @@
 	
 	}
 
-#lineahorizontal {
-	position: fixed;
-	height:10px;
+
+
+#texto2{
+	font-family:'KeepCalm-Medium', Helvetica, Arial;
+	margin-top:60%;
+	border-top:solid 6px #f2ff61;
+		border-bottom:solid 6px #f2ff61;
+	height:270px;
 	width:90%;
-	background-color:#f2ff61;
 	}
