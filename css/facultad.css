@@ -1,5 +1,6 @@
 /* viñetas de educacion*/
 
+
 .vineta-educacion{
 	position: relative;
     left: 5%;
@@ -37,10 +38,10 @@ letter-spacing: 6px;
     border-style: solid;
     border-color: red;
     width: 90%;
-    height: 732px;
     position: relative;
     left: 5%;
     top: 45px;
+    height: 557px;
 }
 
 .introduccion{
@@ -55,10 +56,50 @@ letter-spacing: 6px;
     line-height: 30px;
     font-size: 12.9px;
     text-align: left;
-    width: 93%;
+    width: 90%;
     position: relative;
     top: 95px;
 
+}
+
+.informacion-directora{
+    position: relative;
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 33%;
+    height: 483px;
+    top: -101%;
+    left: 67%;
+}
+
+.acredita{
+    position: relative;
+    left:35%;
+}
+.director-carrera{
+font-size: 17px;
+    letter-spacing: 4px;
+    line-height: 96px;
+    text-align: right;
+}
+
+.informacion-directora p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
+/*Perfil-egresado-ingles*/
+
+    .perfil-egresado-ingles{
+       border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 59%;
+    height: 320px;
+    position: relative;
+    top: 109px;
+    left: 5%;
 
 }
 

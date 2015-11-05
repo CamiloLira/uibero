@@ -21,7 +21,7 @@
 	<div class="seccion-uno">
 		<h1 class="gris-oscuro">Pedagogía en Ingles</h1>
 		<div class="introduccion">
-			<h4>Introducción</h4>
+			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="ingles-introduccion gris-oscuro">
 				Contamos con un staff académico altamente especializado 
 				lo que nos permite formar docentes con un dominio competente
@@ -33,6 +33,22 @@
 				con un Centro de Experimentación, Investigación y Prácticas Pedagógicas: “Los Andes Country Day College”, ubicado en la comuna de Peñalolén y además mantiene convenios  con los Liceos Emblemáticos de la comuna de Santiago.
 			</p>
 		</div>
+		
+		<div class="informacion-directora">
+			<img class="acredita" src="images/3acredita.png">
+			<img src="http://lorempixel.com/310/190/">
+			<h4 class="director-carrera gris-oscuro">Directora de Carrera </h4>
+			<p class="gris">Laura Millán Huidobro</p>
+			<p class="gris">E-mail: laura.millan@uibero.cl</p>
+			<p class="gris">Teléfono: +56 2 2389 9107</p>
+
+		</div>
+
+	</div>
+
+	<div class="perfil-egresado-ingles">
+	 <h4 class="gris-oscuro">Introducción</h4>
+
 	</div>
 
 
@@ -40,6 +56,7 @@
 
 					
 <!-- div para los bordes -->
-</div></div>
+<div></div>
+	
 	</body>
-<?php include("footer.php"); ?>
+									

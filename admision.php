@@ -4,7 +4,7 @@
 <body>
 
 		<!-- Containenidos -->
-
+   <div id="contenedor">
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
 		
@@ -138,9 +138,9 @@
 								<h2 class="manten-contacto ">Mantente en Contacto</h2>
 								<h6>Dirección:</h6>
 								<p class="info-direccion gris">Lorem impsum 690 , Ñuñoa, Santiago de Chile </p>
-								<p class="gris numeros">+56 9 412314114</p>
-								<p class="gris numeros">+56 9 412314114</p>
-								<p class="gris numeros">+56 9 412314114</p>
+								<p class="gris numeros">+56 2 23899123</p>
+								<p class="gris numeros">+56 2 2238 99121</p>
+								<p class="gris numeros">+56 2 2389 9003</p>
 							</div>
 							<?php
 							$action=$_REQUEST['action'];
@@ -189,5 +189,6 @@
 						<!-- formulario -->
 					
 <!-- div para los bordes --></div></div>
-					</body>
-					<?php include("footer.php"); ?>
+										
+										</body>
+									<?php include("footer.php"); ?>
