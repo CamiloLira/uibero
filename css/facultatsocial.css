@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*FACULTAD trabajo social*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
+
+/* viñetas de educacion*/
+@font-face {
+	 font-family: 'KeepCalm-Medium';
+  /* Antes de descargar el archivo, le decimos al buscador
+  que intente buscar en local la fuente con nombre
+  Cabin, Cabin Regular o Cabin-Regular */
+  src: url('font/KeepCalm-Medium.ttf');
+}
+#textosts{
+	
+	margin-rigth:55px;
+	margin-left:55px;
+
+}
+
+#intro{
+	position: absolute;
+		font-family:'KeepCalm-Medium', Helvetica, Arial;
+	border-right: solid 6px #f2ff61;
+	margin-top: 100px;
+	padding: 0 20px 0 0;
+	width: 35%;
+	height: 447px;
+	font-size: 14px;
+}
+
+#ladoderecho {
+	margin-right:55px;
+	margin-top:80px;
+	float:right;
+	height: 447px;
+	
+	width:30%;}
+#foto {
+	float:right;
+
+	width:312px;
+	height:190px;
+	margin-bottom:50px;
+	}
+
+#textopie{
+		font-family:'KeepCalm-Medium', Helvetica, Arial;
+	
+	float:right;
+
+	
+	width:312px;
+	height:190px;
+	
+	}
+
+#lineahorizontal {
+	position: fixed;
+	height:10px;
+	width:90%;
+	background-color:#f2ff61;
+	}
