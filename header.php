@@ -6,7 +6,7 @@
 	<title>Admisión IberoAmericana</title>
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 
-    	<link rel="stylesheet" type="text/css" href="css/facultad.css">
+    	<link rel="stylesheet" type="text/css" href="css/facultad-ingles.css">
     	<link rel="stylesheet" type="text/css" href="css/formulario.css">
         <link rel="stylesheet" type="text/css" href="css/footer.css">
         <link rel="stylesheet" type="text/css" href="css/slide.css">

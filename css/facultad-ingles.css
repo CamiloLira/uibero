@@ -21,20 +21,20 @@
 
 /*texto titutlo facultades*/
 
-.seccion-uno h1{
+.seccion-uno-ingles h1{
 	font-size: 48px;
 letter-spacing: 6px;
 	
 }
 
-.seccion-uno .introduccion h4{
+.seccion-uno-ingles .introduccion-ingles h4{
     font-size: 18px;
     position: relative;
     top: 68px;
     letter-spacing: 4px;
 }
 
-.seccion-uno{
+.seccion-uno-ingles{
     border-style: solid;
     border-color: red;
     width: 90%;
@@ -44,7 +44,7 @@ letter-spacing: 6px;
     height: 557px;
 }
 
-.introduccion{
+.introduccion-ingles{
 	border: 2px solid rgba(215, 40, 40, 0.5);
     width: 59%;
     height: 550px;
@@ -62,7 +62,7 @@ letter-spacing: 6px;
 
 }
 
-.informacion-directora{
+.informacion-directora-ingles{
     position: relative;
     border: 2px solid rgba(215, 40, 40, 0.5);
     width: 33%;
@@ -71,18 +71,18 @@ letter-spacing: 6px;
     left: 67%;
 }
 
-.acredita{
+.acredita-ingles{
     position: relative;
     left:35%;
 }
-.director-carrera{
+.director-carrera-ingles{
 font-size: 17px;
     letter-spacing: 4px;
     line-height: 96px;
     text-align: right;
 }
 
-.informacion-directora p {
+.informacion-directora-ingles p {
     text-align: right;
     font-size: 11px;
     letter-spacing: 2px;
@@ -113,6 +113,70 @@ font-size: 17px;
     letter-spacing: 2px;
 
 }
+
+/*seccion dos ingles*/
+
+/*campo ingles*/
+
+.seccion-dos-ingles{
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 90%;
+    height: 320px;
+    position: relative;
+    top: 193px;
+    left: 5%;
+
+}
+
+.campo-ingles{
+    width: 59%;
+    border: 2px solid rgba(215, 40, 40, 0.5);
+    height: 320px;
+    display: inline-block;
+}
+
+.descarga-malla-ingles {
+      letter-spacing: 6px;
+    font-size: 31px;
+    line-height: 225px;
+
+}
+.campo-ingles h4{
+  font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.campo-ingles p{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+}
+
+/*info general ingles*/
+
+.info-general-ingles{
+border: 2px solid rgba(215, 40, 40, 0.5);
+    width: 30%;
+    height: 340px;
+    position: relative;
+    top: -102%;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-ingles h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-ingles p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
 
 
 /*FACULTAD INGLES*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/

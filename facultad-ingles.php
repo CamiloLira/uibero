@@ -18,9 +18,9 @@
 	
 <!-- caja seccion 1  -->
 
-	<div class="seccion-uno">
+	<div class="seccion-uno-ingles">
 		<h1 class="gris-oscuro">Pedagogía en Ingles</h1>
-		<div class="introduccion">
+		<div class="introduccion-ingles">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="ingles-introduccion gris-oscuro">
 				Contamos con un staff académico altamente especializado 
@@ -34,10 +34,10 @@
 			</p>
 		</div>
 		
-		<div class="informacion-directora">
-			<img class="acredita" src="images/3acredita.png">
+		<div class="informacion-directora-ingles">
+			<img class="acredita-ingles" src="images/3acredita.png">
 			<img src="http://lorempixel.com/310/190/">
-			<h4 class="director-carrera gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-ingles gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Laura Millán Huidobro</p>
 			<p class="gris">E-mail: laura.millan@uibero.cl</p>
 			<p class="gris">Teléfono: +56 2 2389 9107</p>
@@ -52,7 +52,37 @@
 	 <p class="gris-oscuro">El egresado de la Universidad Iberoamericana, será un profesional con un elevado manejo comunicativo y descriptivo de la lengua inglesa. Posee una práctica flexible de marcos conceptuales, procedimientos, estrategias pedagógicas y didácticas, que junto a un compromiso personal y profesional, le permitirán crear las condiciones para que sus alumnos logren aprendizajes de calidad.</p>
 	</div>
 
+<!-- cajaseccion 2 -->
 
+ <div class="seccion-dos-ingles">
+  	<div class="campo-ingles">
+  		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
+  		<br>
+  		<p class="gris-oscuro">El egresado de Pedagogía en
+  		 Inglés puede desempeñarse laboralmente en Establecimientos 
+  		 de Enseñanza General Básica y Media, Universidades, Institutos
+  		  Profesionales y Centros de Formación Técnica.
+		</p>
+		<h2 class="rojo descarga-malla-ingles">DESCARGA TU MALLA</h2>
+  	</div>
+
+  	<!-- info general ingles-->
+  		<div class="info-general-ingles">
+  				<h4 class="gris-oscuro">Información General</h4>
+  					<br>
+					<p class="gris-oscuro">Título Profesional </p>
+					<p class="gris-oscuro">Profesor en Inglés </p>
+					<p class="gris-oscuro">para la Enseñanza Básica y Media</p>
+					<br>
+					<p class="gris-oscuro">Grado Académico</p>
+					<p class="gris-oscuro">Licenciado en Educación</p>
+					<p class="gris-oscuro">Duración</p>
+					<p class="gris-oscuro">10 semestres</p>
+					<br>
+					<p class="gris-oscuro">Régimen: Diurno</p>
+  		</div>
+
+ </div>
 
 
 					
