@@ -153,48 +153,21 @@
 								<p class="gris numeros">+56 2 2238 99121</p>
 								<p class="gris numeros">+56 2 2389 9003</p>
 							</div>
-							<?php
-							$action=$_REQUEST['action'];
-							if ($action=="")    /* display the contact form */
-							{
-								?>
+							
                                 <div id="formulario">
                                 <h2>Contacto</h2>
-								<form  action="" method="POST" enctype="multipart/form-data">
-							<input type="hidden" name="action" value="submit">
-									<li>
-                                    
-									<input name="name" type="text" value=" Nombre" size="30"/></li>
-                                   
-                                    <li>
-                                    
-									<input name="telefono" type="text" value=" Telefono" size="30"/></li>
-									
-									<li><input name="email" type="text" value=" Email" size="30"/></li>
-									
-									<li><textarea name="message" rows="7" cols="30" ></textarea></li> <br/>
-								<input class="submit" type="submit" value="Enviar"/>
-								</form>
-								<?php
-							} 
-							else                /* send the submitted data */
-							{
-								$name=$_REQUEST['name'];
-								$email=$_REQUEST['email'];
-								$message=$_REQUEST['message'];
-								$telefono=$_REQUEST['telefono'];
-								if (($name=="")||($email=="")||($message=="")) 
-								{
-									echo "All fields are required, please fill <a href=\"\">the form</a> again.";
-								}
-								else{        
-									$from="From: $name<$email>\r\nReturn-path: $email";
-									$subject="Message sent using your contact form";
-									/*escribir email al que llegaran los formularios*/ mail("c.liramunizaga@gmail.com", $subject, $message, $from, $name, $telefono, $email);
-									echo "Email Enviado!";
-								}
-							}  
-							?>
+								<form action="contact.php" method="post">
+<label for="nombre"></label>
+ <li><input id="nombre" type="text" name="nombre" placeholder="Nombre y Apellido" required="" />
+ <label for="email"></label></li>
+ <li><input id="email" type="email" name="email" placeholder="ejemplo@correo.com" required="" />
+ <label for="mensaje"></label></li>
+  <li><input id="telefono" type="telefono" name="telefono" placeholder="+56998877653" required="" />
+ <label for="mensaje"></label></li>
+<li> <textarea id="mensaje" name="mensaje" placeholder="Mensaje" required=""></textarea></li>
+ <input id="submit" type="submit" name="submit" value="Enviar" />
+</form>
+								
 						</div>
 					</div>
 						<!-- formulario -->
