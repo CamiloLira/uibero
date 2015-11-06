@@ -42,20 +42,19 @@ position: relative;
 	float:right;
 	padding-top:50px;
 	color:#FFF;
-;}
+}
 
 #texto-footer p {
 	color:#F0F;
 	margin-top:3px;}
 .logo-footer{
-	padding-left:280px;
+	padding-left:290px;
 	padding-top:60px;}
 .acrefooter {
 	margin-left:-700px;
 	position:absolute;
 	margin-top:440px;
 	width:200px;
-
 }
 
 .footer2{
