@@ -34,9 +34,9 @@ Si te interesan campos como la comunicación y la salud ven e infórmate sobre l
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/fonoaudiologia.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
-			<p class="gris">Mg. María Soledad Chamorro</p>
-			<p class="gris">E-mail: maria.chamorro@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 2389 9008</p>
+			<p class="gris-oscuro">Mg. María Soledad Chamorro</p>
+			<p class="gris-oscuro">E-mail: maria.chamorro@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9008</p>
 
 		</div>
 

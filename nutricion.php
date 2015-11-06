@@ -40,9 +40,9 @@ La carrera de Nutrición instruye a sus estudiantes en tres áreas propias de la
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/nutricion.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
-			<p class="gris">Prof. Javiera Yáñez Ormeño</p>
-			<p class="gris">E-mail: javiera.yanez@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 2389 9190</p>
+			<p class="gris-oscuro">Prof. Javiera Yáñez Ormeño</p>
+			<p class="gris-oscuro">E-mail: javiera.yanez@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9190</p>
 
 		</div>
 

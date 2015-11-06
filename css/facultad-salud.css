@@ -10,6 +10,15 @@
     text-align: right;
 }
 
+.mover-informacion-enfermeria p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
 .salud-introduccion-enfermeria{
     
        letter-spacing: 2px;

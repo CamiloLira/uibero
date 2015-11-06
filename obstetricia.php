@@ -36,9 +36,9 @@
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/obstetricia.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
-			<p class="gris">Prof. Rosa Reneré</p>
-			<p class="gris">E-mail: rosa.renere@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 2389 9008</p>
+			<p class="gris-oscuro">Prof. Rosa Reneré</p>
+			<p class="gris-oscuro">E-mail: rosa.renere@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9008</p>
 
 		</div>
 

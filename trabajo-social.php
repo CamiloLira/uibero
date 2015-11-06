@@ -40,9 +40,9 @@ n sello distintivo, que es la formación personalizada de sus estudiantes: un es
 			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/trabajo-social.jpg">
 			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Carrera </h4>
-			<p class="gris">Mg. Edmundo Mercado Cabrera</p>
-			<p class="gris">E-mail: edmundo.mercado@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Mg. Edmundo Mercado Cabrera</p>
+			<p class="gris-oscuro">E-mail: edmundo.mercado@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
 
 		</div>
 

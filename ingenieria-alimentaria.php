@@ -38,9 +38,9 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 			<br>
 			<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Directora de Carrera </h4>
-			<p class="gris">Mg. Georg Spee Gaona</p>
-			<p class="gris">E-mail: george.spee@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Mg. Georg Spee Gaona</p>
+			<p class="gris-oscuro">E-mail: george.spee@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
 
 		</div>
 

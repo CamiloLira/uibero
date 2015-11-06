@@ -35,9 +35,9 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 			<img class="acredita-educacion" src="images/3acredita.png">
 			<img src="images/jefes-carreras/educacion.jpg">
 			<h4 class="director-carrera-educacion gris-oscuro">Directora de Carrera </h4>
-			<p class="gris">Laura Millán Huidobro</p>
-			<p class="gris">E-mail: laura.millan@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 2389 9107</p>
+			<p class="gris-oscuro">Laura Millán Huidobro</p>
+			<p class="gris-oscuro">E-mail: laura.millan@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9107</p>
 
 		</div>
 

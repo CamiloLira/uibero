@@ -41,9 +41,9 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="imageS/jefes-carreras/contador.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
-			<p class="gris">Mg. Pedro Rojas Palma</p>
-			<p class="gris">E-mail: pedro.rojas@uibero.cl</p>
-			<p class="gris">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Mg. Pedro Rojas Palma</p>
+			<p class="gris-oscuro">E-mail: pedro.rojas@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
 
 		</div>
 
