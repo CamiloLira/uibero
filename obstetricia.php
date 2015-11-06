@@ -85,7 +85,7 @@ De acuerdo a información del Mineduc, la empleabilidad de la carrera de Obstetr
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+							
 				
 
 				

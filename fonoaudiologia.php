@@ -85,7 +85,7 @@ El fonoaudiólogo se desempeña en los ámbitos de Salud, Educación, Arte e Ind
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+					
 				
 
 				

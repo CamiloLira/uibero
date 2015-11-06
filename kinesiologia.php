@@ -88,7 +88,7 @@ La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, dest
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+								
 				
 
 				

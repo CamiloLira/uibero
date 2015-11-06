@@ -46,7 +46,7 @@ letter-spacing: 6px;
 }
 
 .introduccion-fingenieria{
-		border-right: solid 6px #ff63eb;
+		border-right: solid 2px #ff63eb;
 	
 	
     width: 59%;
@@ -98,8 +98,8 @@ font-size: 17px;
 
     .perfil-egresado-fingenieria{
 		padding:30px 0 30px 0;
-		border-top:solid 6px #ff63eb;
-		border-bottom:solid 6px #ff63eb;
+		border-top:solid 2px #ff63eb;
+		border-bottom:solid 2px #ff63eb;
     
     width: 90%;
     height: 100%;
@@ -136,7 +136,7 @@ font-size: 17px;
 }
 
 .campo-fingenieria{
-	border-right: solid 6px #ff63eb;
+	border-right: solid 2px #ff63eb;
     width: 59%;
     
     height: 100%;

@@ -83,5 +83,5 @@ El egresado de Ingeniería en Ejecución Electrónica es un profesional  formado
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+						
 			

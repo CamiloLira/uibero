@@ -188,3 +188,70 @@ font-size: 17px;
 
 
 /*fin biotecnologia*/
+
+/* Veterinaria*/
+
+
+.info-general-fnaturales-veterinaria{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -286px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fnaturales-veterinaria h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fnaturales-veterinaria p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+
+/* fin Veterinaria*/
+
+.veterinaria-introduccion{
+    
+       letter-spacing: 2px;
+    line-height: 21px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.perfil-egresado-fnaturales-veterinaria{
+        padding:30px 0 30px 0;
+        border-top:solid 2px #4DFE7D;
+        border-bottom:solid 2px #4DFE7D;
+    
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 150px;
+    left: 5%;
+}
+
+.perfil-egresado-fnaturales-veterinaria h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fnaturales-veterinaria p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*fin veterinaria*/
+
+
+

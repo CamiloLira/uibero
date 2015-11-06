@@ -101,5 +101,5 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+					
 				

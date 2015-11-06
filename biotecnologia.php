@@ -89,5 +89,5 @@ Docentes en las diferentes instituciones educacionales.		</p>
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+						
 					

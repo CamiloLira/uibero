@@ -92,5 +92,5 @@ La empleabilidad de la carrera de Derecho es de un 77,8% en el primer año tras 
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+						
 					

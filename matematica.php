@@ -85,5 +85,5 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+						
 				

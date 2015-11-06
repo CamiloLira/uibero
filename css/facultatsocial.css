@@ -13,7 +13,7 @@
 }
 #textosts{
 	
-	margin-rigth:55px;
+	margin-right:55px;
 	margin-left:55px;
 
 }
@@ -23,7 +23,7 @@
 	
 	position: absolute;
 		font-family:'KeepCalm-Medium', Helvetica, Arial;
-	border-right: solid 6px #f2ff61;
+	border-right: solid 2px #f2ff61;
 	margin-top: 100px;
 	padding: 0 20px 0 0;
 	width: 550px;
@@ -66,8 +66,8 @@
 #texto2{
 	font-family:'KeepCalm-Medium', Helvetica, Arial;
 	margin-top:60%;
-	border-top:solid 6px #f2ff61;
-		border-bottom:solid 6px #f2ff61;
+	border-top:solid 2px #f2ff61;
+		border-bottom:solid 2px #f2ff61;
 	height:100%;
 	padding:30px;
 	width:90%;

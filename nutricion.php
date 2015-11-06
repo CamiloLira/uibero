@@ -89,7 +89,7 @@ El Nutricionista egresado en la Universidad Iberoamericana será un profesional 
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+								
 				
 
 				

@@ -95,4 +95,4 @@ El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de 
 <div></div>
 	
 	<?php include("footer.php"); ?>
-								</body>
+							

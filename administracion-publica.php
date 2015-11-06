@@ -94,4 +94,3 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 	
 	
 			<?php include("footer.php"); ?>						
-</body>

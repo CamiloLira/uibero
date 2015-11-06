@@ -92,6 +92,6 @@ El trabajador social formado por la Universidad Iberoamericana, por su amplia fo
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+							
 
 									

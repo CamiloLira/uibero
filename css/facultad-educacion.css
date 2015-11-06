@@ -98,8 +98,8 @@ font-size: 17px;
 
     .perfil-egresado-educacion{
 		padding:30px 0 30px 0;
-		border-top:solid 6px #ff6161;;
-		border-bottom:solid 6px #ff6161;;
+		border-top:solid 2px #ff6161;
+		border-bottom:solid 2px #ff6161;
     
     width: 90%;
     height: 100%;
@@ -136,7 +136,7 @@ font-size: 17px;
 }
 
 .campo-educacion{
-	border-right: solid 6px #ff6161;;
+	border-right: solid 2px #ff6161;;
     width: 59%;
     
     height: 100%;

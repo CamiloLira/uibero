@@ -84,5 +84,5 @@ El egresado de Agronomía es un  profesional de alta calificación, capaz de dis
 <div></div>
 	
 <?php include("footer.php"); ?>
-								</body>
+							
 					

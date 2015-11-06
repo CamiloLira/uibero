@@ -96,7 +96,7 @@ De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Tecnolog√≠a M√
 <!-- div para los bordes -->
 <div></div>
 <?php include("footer.php"); ?>
-								</body>
+								
 				
 
 				
