@@ -67,6 +67,7 @@
 						<a href="civil-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria Civil Electronica</p><a/>
 						<a href="ingenieria-alimentaria.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución en Industria Alimentaria</p><a/>
 						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución Electrónica</p><a/>
+						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria Civil Informática</p><a/>
 
 					</div>
 				</div>

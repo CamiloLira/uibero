@@ -6,9 +6,9 @@
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
-		<a href="#"><div class="facebook-barra-admision"></div></a>
-		<a href="#"><div class="twitter-barra-admision"></div></a>
-		<a href="#"><div class="instagram-barra-admision"></div></a>
+		<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-admision"></div></a>
+		<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-admision"></div></a>
+		<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
 	</div>
 
@@ -84,7 +84,7 @@ El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de 
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>
-					<p class="gris-oscuro">Régimen: Diurno</p>
+					<p class="gris-oscuro">Régimen: Diurno / Vespertino</p>
   		</div>
 
  </div>

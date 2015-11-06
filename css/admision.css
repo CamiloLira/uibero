@@ -100,10 +100,10 @@ header a:hover{
 }
 
 header nav ul {
-	position: absolute;	
-	left: 53%;
-	top: 105px;
-}
+	
+	    position: absolute;
+    left: 47%;
+    top: 105px;}
 header nav ul li  {
 	display: inline-block;
 	padding: 0 14px;
@@ -223,12 +223,12 @@ header nav ul li  {
 }
 
 .facultad-ingeneria{
-	display: inline-block;
-	margin-left: 32px;
-	width: 183px;
-	height: 387px;
-	    position: relative;
-    top: 0px;
+    display: inline-block;
+    margin-left: 32px;
+    width: 183px;
+    height: 387px;
+    position: relative;
+    top: 20px;
 
 
 }

@@ -28,7 +28,8 @@
 		</figure>
 		<nav>
 		  <ul>	
-			<li><a class="blanco" href="#facultad">Facultades</a></li>
+		  	<li><a class="blanco" href="admision.php">Inicio</a></li>
+			<li><a class="blanco" href="#facultad">Carreras</a></li>
 			<li><a class="blanco" href="requisitos.php">Requisitos</a></li>
 			<li><a class="blanco" href="#contacto">Contacto</a></li>
 		  </ul>

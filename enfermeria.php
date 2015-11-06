@@ -6,9 +6,9 @@
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
-		<a href="#"><div class="facebook-barra-admision"></div></a>
-		<a href="#"><div class="twitter-barra-admision"></div></a>
-		<a href="#"><div class="instagram-barra-admision"></div></a>
+		<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-admision"></div></a>
+		<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-admision"></div></a>
+		<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
 	</div>
 
@@ -21,7 +21,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-salud">
-		<h1 class="gris-oscuro">Enfermeria</h1>
+		<h1 class="gris-oscuro">Enfermería</h1>
 		<div class="introduccion-salud">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
