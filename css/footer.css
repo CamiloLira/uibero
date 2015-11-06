@@ -36,11 +36,12 @@ border-right: 7px double #08245a;
 position: relative;
  left: -7px;
 	width:1030px;
+font-size: 12px;
 
 }
 .texto-footer {
 	float:right;
-	padding-top:50px;
+	padding-top:36px;
 	color:#FFF;
 }
 
@@ -53,7 +54,7 @@ position: relative;
 .acrefooter {
 	margin-left:-700px;
 	position:absolute;
-	margin-top:440px;
+	margin-top:418px;
 	width:200px;
 }
 
@@ -64,12 +65,11 @@ background-image:url(../images/prefooter.png);
 
 background-position:top;
 background-repeat: no-repeat;
-padding-bottom:20px;
+padding-bottom:2px;
 background-color:#08245a;
 height:528px;
 border-left: 7px double #08245a;
 border-right: 7px double #08245a;
-
 	width:1030px;
-
+font-size: 12px;
 }
