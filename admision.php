@@ -115,6 +115,7 @@
 
 						<!-- redes sociales-->
 						<div class="social-media">
+                       
 							<figure>
 								<img class="barra-estudio" src="images/yoestudio.png">
 							</figure>
@@ -147,7 +148,7 @@
 							<div class="info-contacto">
 								<h2 class="manten-contacto ">Mantente en Contacto</h2>
 								<h6>Dirección:</h6>
-								<p class="info-direccion gris">Lorem impsum 690 , Ñuñoa, Santiago de Chile </p>
+								<p class="info-direccion gris">Padre Miguel de Olivares 1620, Santiago, Chile </p>
 								<p class="gris numeros">+56 2 23899123</p>
 								<p class="gris numeros">+56 2 2238 99121</p>
 								<p class="gris numeros">+56 2 2389 9003</p>
@@ -201,5 +202,5 @@
 <!-- div para los bordes --></div></div>
 										
 										
-									<?php include("footer.php"); ?>
+									<?php include("footer2.php"); ?>
 								</body>
