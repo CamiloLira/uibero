@@ -21,7 +21,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-educacion">
-		<h1 class="gris-oscuro">Pedagogía en Ingles</h1>
+		<h1 class="gris-oscuro">Pedagogía en Inglés</h1>
 		<div class="introduccion-educacion">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
