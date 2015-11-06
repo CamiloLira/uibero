@@ -165,7 +165,7 @@
   <li><input id="telefono" type="telefono" name="Telefono" placeholder="+56998877653" required />
  <label for="mensaje"></label></li>
 <li> <textarea id="mensaje" name="mensaje" placeholder="Mensaje" required></textarea></li>
- <input id="submit" type="submit" name="submit" value="Enviar" />
+ <input id="submit" type="submit" name="submit" value="Enviar"  class="submit"/>
 </form>
 								
 						</div>
