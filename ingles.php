@@ -39,7 +39,7 @@
 		
 		<div class="informacion-directora-educacion">
 			<img class="acredita-educacion" src="images/3acredita.png">
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/educacion.jpg">
 			<h4 class="director-carrera-educacion gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Laura Millán Huidobro</p>
 			<p class="gris">E-mail: laura.millan@uibero.cl</p>

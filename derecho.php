@@ -38,7 +38,7 @@ Nuestros egresados serán profesionales comprometidos con la sociedad, que abord
 		
 		<div class="informacion-directora-fjuridica">
 			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/derecho.jpg">
 			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Prof. Tatiana Cortés Ovando</p>
 			<p class="gris">E-mail: tatiana.cortes@uibero.cl</p>

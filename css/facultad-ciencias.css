@@ -1,0 +1,190 @@
+/* viñetas de educacion*/
+
+
+.vineta-educacion{
+	position: relative;
+    left: 5%;
+}
+
+/*bio tecnologia*/
+
+/*texto en las viñetas*/
+
+.titulo-facultad-educacion{
+    position: relative;
+    top: -56px;
+    left: 3%;
+    font-size: 18px;
+    /* text-align: center; */
+    letter-spacing: 4px;
+}
+
+/*texto titutlo facultades*/
+
+.seccion-uno-fnaturales h1{
+	font-size: 48px;
+letter-spacing: 6px;
+	
+}
+
+.seccion-uno-fnaturales .introduccion-fnaturales h4{
+    font-size: 18px;
+    position: relative;
+    top: 68px;
+    letter-spacing: 4px;
+}
+
+.seccion-uno-fnaturales{
+	
+
+   
+    width: 90%;
+    position: relative;
+    left: 5%;
+    height: 557px;
+    top:5px;
+}
+
+.introduccion-fnaturales{
+		border-right: solid 2px #4DFE7D;
+	   
+    width: 59%;
+    height: 100%;
+
+}
+
+.derecho-introduccion{
+	
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.informacion-directora-fnaturales{
+    position: relative;
+  
+    width: 33%;
+    top: -101%;
+    left: 67%;
+}
+
+.acredita-fnaturales{
+    position: relative;
+    left:35%;
+}
+.director-carrera-fnaturales{
+font-size: 17px;
+    letter-spacing: 4px;
+    line-height: 96px;
+    text-align: right;
+}
+
+.informacion-directora-fnaturales p {
+    text-align: right;
+    font-size: 11px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -23px;
+    line-height: 16px;
+}
+
+/*Perfil-egresado-fnaturales*/
+
+    .perfil-egresado-fnaturales{
+		padding:30px 0 30px 0;
+		border-top:solid 2px #4DFE7D;
+		border-bottom:solid 2px #4DFE7D;
+    
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 109px;
+    left: 5%;
+}
+
+.perfil-egresado-fnaturales h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fnaturales p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*seccion dos derecho*/
+
+/*campo derecho*/
+
+.seccion-dos-fnaturales{
+
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 193px;
+    left: 5%;
+    overflow: hidden;
+
+}
+
+.campo-fnaturales{
+	border-right: solid 2px #4DFE7D;
+    width: 59%;
+    
+    height: 100%;
+    display: inline-block;
+}
+
+.descarga-malla-fnaturales {
+   letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 71px;
+
+}
+.campo-fnaturales h4{
+  font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.campo-fnaturales p{
+       letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+}
+
+/*info general derecho*/
+
+.info-general-fnaturales{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -228px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fnaturales h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fnaturales p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+
+/*fin biotecnologia*/

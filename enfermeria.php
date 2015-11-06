@@ -34,7 +34,7 @@ La Universidad Iberoamericana posee diversos conveníos con municipalidades, cen
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/enfermeria.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Mg. María Soledad Chamorro</p>
 			<p class="gris">E-mail: maria.chamorro@uibero.cl</p>

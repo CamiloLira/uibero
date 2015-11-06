@@ -21,7 +21,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-fjuridica">
-		<h1 class="gris-oscuro">Derecho</h1>
+		<h1 class="gris-oscuro">Trabajo Social</h1>
 		<div class="introduccion-fjuridica">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">
@@ -38,7 +38,7 @@ n sello distintivo, que es la formación personalizada de sus estudiantes: un es
 		
 		<div class="informacion-directora-fjuridica">
 			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/trabajo-social.jpg">
 			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Mg. Edmundo Mercado Cabrera</p>
 			<p class="gris">E-mail: edmundo.mercado@uibero.cl</p>

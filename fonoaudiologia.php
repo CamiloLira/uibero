@@ -20,7 +20,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-salud">
-		<h1 class="gris-oscuro">Fonoaudiologia</h1>
+		<h1 class="gris-oscuro">Fonoaudiologáa</h1>
 		<div class="introduccion-salud">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
@@ -32,7 +32,7 @@ Si te interesan campos como la comunicación y la salud ven e infórmate sobre l
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/fonoaudiologia.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
 			<p class="gris">Mg. María Soledad Chamorro</p>
 			<p class="gris">E-mail: maria.chamorro@uibero.cl</p>

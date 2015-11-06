@@ -34,7 +34,7 @@ La carrera de Kinesiología en la Universidad Iberoamericana está orientada al 
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="imageS/jefes-carreras/kine.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
 			<p class="gris">Prof. Marco San Martín Avello</p>
 			<p class="gris">E-mail: marco.sanmartin@uibero.cl</p>

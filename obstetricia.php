@@ -34,7 +34,7 @@
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/obstetricia.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
 			<p class="gris">Prof. Rosa Reneré</p>
 			<p class="gris">E-mail: rosa.renere@uibero.cl</p>

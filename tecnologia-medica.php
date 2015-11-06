@@ -35,7 +35,7 @@ La carrera de Tecnología Médica en la Universidad Iberoamericana
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/fotos-jefes/tecnologia-medica.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
 			<p class="gris">Prof. Javiera Yáñez Ormeño</p>
 			<p class="gris">E-mail: javiera.yanez@uibero.cl</p>
