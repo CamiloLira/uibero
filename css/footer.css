@@ -22,14 +22,15 @@
 /* imagen acreditacion*/
 footer{
 
-background-image:url(../images/prefooter.png);
-background-size: 1100px 300px;
-background-position:bottom;
-background-repeat: no-repeat;
-	
 
-background-color:#fff;
-height:400px;
+background-image:url(../images/prefooter.png);
+
+background-position:top;
+background-repeat: no-repeat;
+
+margin-top:20px;
+background-color:#08245a;
+height:528px;
 border-left: 7px double #08245a;
 border-right: 7px double #08245a;
 position: relative;
@@ -37,6 +38,41 @@ position: relative;
 	width:1030px;
 
 }
+.texto-footer {
+	float:right;
+	padding-top:50px;
+	color:#FFF;
+;}
+
+#texto-footer p {
+	color:#F0F;
+	margin-top:3px;}
+.logo-footer{
+	padding-left:280px;
+	padding-top:60px;}
+.acrefooter {
+	margin-left:-700px;
+	position:absolute;
+	margin-top:440px;
+	width:200px;
+
+}
+
+.footer2{
 
 
+background-image:url(../images/prefooter.png);
 
+background-position:top;
+background-repeat: no-repeat;
+
+margin-top:20px;
+background-color:#08245a;
+height:528px;
+border-left: 7px double #08245a;
+border-right: 7px double #08245a;
+position: relative;
+ left: -7px;
+	width:1030px;
+
+}
