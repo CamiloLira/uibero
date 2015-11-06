@@ -39,7 +39,7 @@ ad Iberoamericana tiene casi 25 años de trayectoria? Su fundación
 		<div class="informacion-directora-fnaturales">
 			<img class="acredita-fnaturales" src="images/4acreditacion.jpg">
 			<img src="imageS/jefes-carreras/veterinaria.jpg">
-			<h4 class="director-carrera-fnaturales gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Carrera </h4>
 			<p class="gris-oscuro">Prof. Marcia Jarpa Hernández</p>
 			<p class="gris-oscuro">E-mail: marcia.jarpa@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9047</p>
