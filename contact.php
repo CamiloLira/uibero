@@ -3,8 +3,8 @@ $nombre = $_POST['nombre'];
 $email = $_POST['email'];
 $telefono = $_POST['telefono'];
 $mensaje = $_POST['mensaje'];
-$para = 'sylvia.cc7@gmail.com';
-$titulo = 'ASUNTO DEL MENSAJE';
+$para = 'Gelissader@gmail.com';
+$titulo = 'Proceso de Admisión';
 $header = 'From: ' . $email;
 $msjCorreo = "Nombre: $nombre\n Telefono: $telefono\n E-Mail: $email\n Mensaje:\n $mensaje";
   
