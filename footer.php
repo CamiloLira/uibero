@@ -1,11 +1,7 @@
 <footer>
 
-<div id="prefooter" class="bordes2">
+<div id="prefooter"></div>
 
-	<!-- img footer-->
-	
-</div>
-<div id="footersimple">
 	
 </div>
 
