@@ -46,7 +46,7 @@
 
 	</div>
 
-	<div class="perfil-egresado-fingenieria">
+	<div class="perfil-egresado-fingenieria-ingcivil-mover">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">

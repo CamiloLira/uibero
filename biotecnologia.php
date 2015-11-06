@@ -24,7 +24,7 @@
 		<h1 class="gris-oscuro">Biotecnología</h1>
 		<div class="introduccion-fnaturales">
 			<h4 class="gris-oscuro">Introducción</h4>
-			<p class="derecho-introduccion gris-oscuro">
+			<p class="ciencias-introduccion gris-oscuro">
 Si te interesa el mundo de la ciencia y la biotecnología, así como la investigación, ven e infórmate sobre la carrera de Biotecnología en la Universidad Iberoamericana, una de las más antiguas del país. ¡Está acreditada por 4 años!
 ¿Qué es Biotecnología? Biotecnología es una carrera que entrega una amplia y a la vez sólida formación científica con especial énfasis en la utilización de tecnologías para el desarrollo de las ciencias aplicadas. 
 La carrera enfatiza la metodología de “aprender haciendo”, con un alto porcentaje de actividades prácticas, para lo cual se estimula a los estudiantes a participar activamente en los procesos de investigación que desarrolla la Escuela y Facultad. Esto es, a través de asignaturas de unidades de investigación o en líneas de investigación a través de las cuales pueden acceder a desarrollar sus trabajos de titulación.

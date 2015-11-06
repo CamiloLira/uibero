@@ -10,6 +10,158 @@
 
 /*texto en las viñetas*/
 
+/*ajuste bordes*/
+
+.perfil-egresado-fingenieria-comercial-mover{
+        padding: 30px 0 30px 0;
+    border-top: solid 2px #ff63eb;
+    border-bottom: solid 2px #ff63eb;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 115px;
+    left: 5%;
+}
+
+.perfil-egresado-fingenieria-comercial-mover h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria-comercial-mover p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;}
+
+
+
+/* ajustes bordes civil electronica*/
+.perfil-egresado-fingenieria-ingcivil-mover{
+  padding: 30px 0 30px 0;
+    border-top: solid 2px #ff63eb;
+    border-bottom: solid 2px #ff63eb;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 113px;
+    left: 5%;
+
+}
+
+.perfil-egresado-fingenieria-ingcivil-mover h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria-ingcivil-mover p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+/*cierre bordes ing civil*/
+
+/*mover bordes administracion publica */
+
+.perfil-egresado-fingenieria-admpublica-mover{
+        padding: 30px 0 30px 0;
+    border-top: solid 2px #ff63eb;
+    border-bottom: solid 2px #ff63eb;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 117px;
+    left: 5%;
+}
+
+.perfil-egresado-fingenieria-admpublica-mover h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria-admpublica-mover p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+/*fin mover bordes adm publica*/
+
+/* bordes ing alimenaria*/
+
+.perfil-egresado-fingenieria-alimentaria-mover{
+        padding: 30px 0 30px 0;
+    border-top: solid 2px #ff63eb;
+    border-bottom: solid 2px #ff63eb;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 114px;
+    left: 5%;
+}
+
+.perfil-egresado-fingenieria-alimentaria-mover h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria-alimentaria-mover p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+/*fin bordes alimentaria*/
+
+/* ejecucion electronica mover*/
+
+.perfil-egresado-fingenieria-ejecucion-mover{
+        padding: 30px 0 30px 0;
+    border-top: solid 2px #ff63eb;
+    border-bottom: solid 2px #ff63eb;
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 114px;
+    left: 5%;
+}
+
+.perfil-egresado-fingenieria-ejecucion-mover h4{
+     font-size: 18px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-fingenieria-ejecucion-mover p {
+    line-height: 26px;
+    font-size: 12.5px;
+    letter-spacing: 2px;
+
+}
+
+.info-general-fingenieria-electronica {
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -258px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fingenieria-electronica p {
+    font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.info-general-fingenieria-electronica h4 {
+    font-size: 18px;
+    letter-spacing: 4px;
+}
+
+/*  */
+
+
 .titulo-facultad-educacion{
     position: relative;
     top: -56px;
@@ -43,6 +195,7 @@ letter-spacing: 6px;
     left: 5%;
     top: 45px;
     height: 557px;
+    overflow: hidden;
 }
 
 .introduccion-fingenieria{
@@ -104,7 +257,7 @@ font-size: 17px;
     width: 90%;
     height: 100%;
     position: relative;
-    top: 109px;
+    top: 139px;
     left: 5%;
 }
 
@@ -221,7 +374,7 @@ font-size: 17px;
 .fingenieria-introduccion-admpublica{
     
        letter-spacing: 2px;
-    line-height: 22px;
+    line-height: 20px;
     font-size: 12.9px;
     text-align: left;
     width: 90%;

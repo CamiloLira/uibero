@@ -52,7 +52,7 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 
 	</div>
 
-	<div class="perfil-egresado-fingenieria">
+	<div class="perfil-egresado-fingenieria-admpublica-mover">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">

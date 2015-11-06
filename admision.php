@@ -90,11 +90,11 @@
 							DE LA SALUD</p>
 							<div class="mover-carreras-uno">
 								<a href="enfermeria.php" target="_blank"><p class="carreras-facultades salud">Enfermeria</p></a>
-								<a href="#"><p class="carreras-facultades salud">Fonoaudiología</p></a>
-								<a href="#"><p class="carreras-facultades salud">Kinesiología</p></a>
-								<a href="#"><p class="carreras-facultades salud">Nutrición y Dietética</p></a>
-								<a href="#"><p class="carreras-facultades salud">Obstetricia y Puericultura</p></a>
-								<a href="#"><p class="carreras-facultades salud">Tecnología Médica</p></a>
+								<a href="fonoaudiologia.php" target="_blank"><p class="carreras-facultades salud">Fonoaudiología</p></a>
+								<a href="kinesiologia.php" target="_blank"><p class="carreras-facultades salud">Kinesiología</p></a>
+								<a href="nutricion.php" target="_blank"><p class="carreras-facultades salud">Nutrición y Dietética</p></a>
+								<a href="obstetricia.php" target="_blank"><p class="carreras-facultades salud">Obstetricia y Puericultura</p></a>
+								<a href="tecnologia-medica.php" target="_blank"><p class="carreras-facultades salud">Tecnología Médica</p></a>
 							</div>
 						</div>
 
@@ -104,10 +104,10 @@
 							<p class="verde titulos-facultad">FACULTAD DE CIENCIAS 
 								RECURSOS NATURALES </p>
 								<div class="mover-carreras-natural">
-									<a href="#"><p class="carreras-facultades natural">Biotecnología</p></a>
-									<a href="#"><p class="carreras-facultades natural">Agronomia</p></a>
-									<a href="#"><p class="carreras-facultades natural">Veterinaria</p></a>
-									<a href="#"><p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p></a>
+									<a href="biotecnologia.php" target="_blank"><p class="carreras-facultades natural">Biotecnología</p></a>
+									<a href="agronomia.php" target="_blank"><p class="carreras-facultades natural">Agronomia</p></a>
+									<a href="veterinaria.php" target="_blank"><p class="carreras-facultades natural">Veterinaria</p></a>
+									<a href="viticultura.php" target="_blank"><p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p></a>
 
 								</div>
 							</div>	

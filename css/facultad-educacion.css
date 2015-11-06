@@ -43,10 +43,11 @@ letter-spacing: 6px;
     left: 5%;
     top: 45px;
     height: 557px;
+    overflow: hidden;
 }
 
 .introduccion-educacion{
-		border-right: solid 6px #ff6161;;
+		border-right: solid 2px #ff6161;;
 	
 	
     width: 59%;

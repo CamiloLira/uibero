@@ -42,7 +42,7 @@ La Ingeniería en Ejecución Electrónica que se imparte en la Universidad Ibero
 
 	</div>
 
-	<div class="perfil-egresado-fingenieria">
+	<div class="perfil-egresado-fingenieria-ejecucion-mover">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
@@ -62,7 +62,7 @@ El egresado de Ingeniería en Ejecución Electrónica es un profesional  formado
   	</div>
 
   	<!-- info general comercial-->
-  		<div class="info-general-fingenieria-contador">
+  		<div class="info-general-fingenieria-electronica">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>

@@ -46,7 +46,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 
 	</div>
 
-	<div class="perfil-egresado-fingenieria">
+	<div class="perfil-egresado-fingenieria-alimentaria-mover">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
