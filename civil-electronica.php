@@ -15,7 +15,7 @@
 	<!-- Barra educacion -->
     <div class="vineta-educacion">
 		<img src="images/vineta-ingenieria.png">
-		<h2 class="titulo-facultad-educacion blanco">Facultad de Ciencias y Educación</h2>
+		<h2 class="titulo-facultad-educacion blanco">Facultad de Ciencias de la Ingeniería y Administración</h2>
     </div>
 	
 <!-- caja seccion 1  -->
