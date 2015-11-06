@@ -150,6 +150,10 @@ font-size: 17px;
     top: 71px;
 
 }
+.descarga-malla-fnaturales:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 .campo-fnaturales h4{
   font-size: 18px;
     letter-spacing: 4px;

@@ -403,8 +403,13 @@ h6 {
 	top: 1px;
 }
 
-
+.descarga-malla-salud:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 
 /*CSS Contacto*/
 
 /*CSS Requisitos*/
+
+

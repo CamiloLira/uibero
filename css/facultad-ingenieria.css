@@ -304,6 +304,10 @@ font-size: 17px;
     top: 67px;
 
 }
+.descarga-malla-fingenieria:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 .campo-fingenieria h4{
   font-size: 18px;
     letter-spacing: 4px;
@@ -410,6 +414,10 @@ font-size: 17px;
     top: 56px;
 
 }
+.descarga-malla-fingenieria-admpublica:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 
 /* Contador auditor*/
 
@@ -444,6 +452,10 @@ font-size: 17px;
 
 }
 
+.descarga-malla-fingenieria-contador:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 
 /* ejecucion electronica*/
 
@@ -455,6 +467,10 @@ font-size: 17px;
     position: relative;
     top: 80px;
 
+}
+.descarga-malla-fingenieria-ejecucioncivil:hover{
+ color: #00819A;
+ transition:0.7s;
 }
 
 /*industria alimentaria*/
@@ -488,7 +504,10 @@ font-size: 17px;
 
 }
 
-
+.descarga-malla-fingenieria-alimentaria:hover{
+ color: #00819A;
+ transition:0.7s;
+}
 
 
 
