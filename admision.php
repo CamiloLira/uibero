@@ -158,13 +158,13 @@
                                 <h2>Contacto</h2>
 								<form action="contact.php" method="post">
 <label for="nombre"></label>
- <li><input id="nombre" type="text" name="nombre" placeholder="Nombre y Apellido" required="" />
+ <li><input id="nombre" type="text" name="nombre" placeholder="Nombre y Apellido" required />
  <label for="email"></label></li>
- <li><input id="email" type="email" name="email" placeholder="ejemplo@correo.com" required="" />
+ <li><input id="email" type="email" name="email" placeholder="ejemplo@correo.com" required />
  <label for="mensaje"></label></li>
-  <li><input id="telefono" type="telefono" name="telefono" placeholder="+56998877653" required="" />
+  <li><input id="telefono" type="telefono" name="Telefono" placeholder="+56998877653" required />
  <label for="mensaje"></label></li>
-<li> <textarea id="mensaje" name="mensaje" placeholder="Mensaje" required=""></textarea></li>
+<li> <textarea id="mensaje" name="mensaje" placeholder="Mensaje" required></textarea></li>
  <input id="submit" type="submit" name="submit" value="Enviar" />
 </form>
 								
