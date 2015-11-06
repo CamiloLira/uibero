@@ -20,14 +20,18 @@
 	<div class="container-slider">
 		<div id="wowslider-container1">
 	<div class="ws_images"><ul>
-		<li><a href="#"><img src="data1/images/sin_ttulo1.jpg" alt="wowslider.com" title="Comunidad Universitaria" id="wows1_0"/></a></li>
-        <li><a href="#"><img src="data1/images/sin_ttulo13.jpg" alt="wowslider.com" title="Campus" id="wows1_0"/></a></li>
-		<li><img src="data1/images/sin_ttulo12.jpg" alt="Nuevos docentes" title="Nuevos docentes" id="wows1_1"/></li>
+		<li><a href="#"><img src="data1/images/carrusel1.jpg" alt="admision" title="Admisión 2016" id="wows1_0"/></a></li>
+        <li><a href="#"><img src="data1/images/carrusel2.jpg" alt="Matriculas" title="Matriculas desde $0" id="wows1_0"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel3.jpg" alt="Convalidante" title="Extrangejero/Convalidante" id="wows1_1"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel4.jpg" alt="Que venga ese X porciento" title="Que venga ese X porciento" id="wows1_2"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel5.jpg" alt="Extranjero/Educación de Calidad" title="Educación de Calidad" id="wows1_3"/></a></li>
 	</ul></div>
 	<div class="ws_bullets"><div>
-		<a href="#" title="Nuevo Laboratorio"><span><img src="data1/tooltips/sin_ttulo1.jpg" alt="Comunidad Universitaria"/>1</span></a>
-		<a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo12.jpg" alt="Nuevos docentes"/>2</span></a>
-        <a href="#" title="Nuevos docentes"><span><img src="data1/tooltips/sin_ttulo12.jpg" alt="Nuevos docentes"/>2</span></a>
+		<a href="#" title="Admisión 2016"><span><img src="data1/tooltips/carrusel1.jpg" alt="Admisión 2016"/>1</span></a>
+		<a href="#" title="Matriculas desde $0"><span><img src="data1/tooltips/carrusel2.jpg" alt="Matriculas desde $0"/>2</span></a>
+        <a href="#" title="Extrangejero/Convalidante"><span><img src="data1/tooltips/carrusel3.jpg" alt="Extranjero/Convalidante"/>3</span></a>
+        <a href="#" title="Que venga ese X porciento"><span><img src="data1/tooltips/carrusel4.jpg" alt="Que venga ese X porciento"/>4</span></a>
+        <a href="#" title="Educación de Calidad"><span><img src="data1/tooltips/carrusel5.jpg" alt="Educación de Calidad" />5</span></a>
 	</div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
 	<div class="ws_shadow"></div>
 	</div>	
