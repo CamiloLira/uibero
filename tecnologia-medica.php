@@ -20,20 +20,17 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-salud">
-		<h1 class="gris-oscuro">Nutrición y Dietética</h1>
+		<h1 class="gris-oscuro">Tecnología Médica</h1>
 		<div class="introduccion-salud">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
 			<p class="salud-introduccion-obstetricia gris-oscuro">
 
-¿Cómo influye la alimentación en nuestra salud? Desde que nacemos, 
-lo que comemos determina nuestra vida, es decir, “somos lo que comemos”.
- Diversos estudios demuestran que son los factores alimenticios y no los 
- ambientales los que marcan la diferencia en el desarrollo físico, el carácter y la 
- propensión de enfermedades en la población.
-Si te interesa el mundo de la nutrición, la alimentación y la salud, así como la gestión en 
-salud, ven e infórmate sobre la Carrera de Nutrición y Dietética en la Universidad Iberoamericana. 
-La carrera de Nutrición instruye a sus estudiantes en tres áreas propias de la disciplina: gestión, salud pública y nutrición clínica, necesarias para el desempeño profesional. Para el cumplimiento de esto se vincula la teoría con la práctica, como estrategia de apoyo a la docencia.			</p>
+La carrera de Tecnología Médica en la Universidad Iberoamericana
+ se enfoca en formar a sus alumnos en las competencias necesarias para planificar, 
+ ejecutar y evaluar exámenes, métodos, técnicas y procedimientos en los cuales se apoya el 
+ diagnóstico clínico. Además, ofrece una formación integral que permite a sus titulados participar
+  en equipos de investigación biomédica y campañas de prevención y promoción de la salud.</p>
 		</div>
 		
 		<div class="mover-informacion-enfermeria">
@@ -52,8 +49,11 @@ La carrera de Nutrición instruye a sus estudiantes en tres áreas propias de la
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-El Nutricionista egresado en la Universidad Iberoamericana será un profesional integral, crítico de su quehacer, capaz de desempeñarse en funciones como la promoción, prevención, diagnóstico, tratamiento, recuperación y/o rehabilitación, con capacidad de gestión en la identificación y resolución de problemas en los ámbitos de la salud comunitaria, clínica, alimentación colectiva e institucional. Además, los profesionales han de mostrar vocación y disposición de servicio, entendiendo y afrontando las necesidades y exigencias del país en sectores públicos y privados.  
-	</p>
+La carrera de Tecnología Médica en la Universidad Iberoamericana 
+se enfoca en formar a sus alumnos en las competencias necesarias para planificar, 
+ejecutar y evaluar exámenes, métodos, técnicas y procedimientos en los cuales se
+ apoya el diagnóstico clínico. Además, ofrece una formación integral que permite a sus titulados 
+ participar en equipos de investigación biomédica y campañas de prevención y promoción de la salud.	</p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -63,21 +63,28 @@ El Nutricionista egresado en la Universidad Iberoamericana será un profesional 
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">
-		La empleabilidad es del 80% para el primer año de titulación y de 92% para el segundo, de acuerdo a estadísticas del Mineduc.
+El tecnólogo médico de la Universidad Iberoamericana posee competencias que 
+le permiten desempeñarse en ámbitos asistenciales, de investigación, administración; 
+en docencia; y gestión en diversas instituciones públicas o privadas de la salud. 
+De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Tecnología Médica es
+ de un 95,8% en el primer año tras la titulación, y de un 96,7% en el segundo.
 		</p>
 		<a href="" class="celeste descarga-malla-salud-obstetricia">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->
-  		<div class="info-general-salud-nutricion">
+  		<div class="info-general-salud-tecnologia">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
-					<p class="gris-oscuro">Matrón(a)</p>
-					<p class="gris-oscuro">Fonoaudiologo</p>
-					<p class="gris-oscuro">Grado Academico</p>
-					<p class="gris-oscuro">Licenciado en Obstetricia</p>
+					<p class="gris-oscuro">Titulo Profesional</p>
+					<p class="gris-oscuro">Tecnólogo Médico (Mención Laboratorio </p>
+					<p class="gris-oscuro">Clínico, Inmunohematología y </p>
+					<p class="gris-oscuro">Banco de Sangre o </p>
+					<p class="gris-oscuro">Mención Imagenología y Física Médica).</p>
+					<p class="gris-oscuro">Grado Académico</p>
+					<p class="gris-oscuro">Licenciado en Tecnología Médica.</p>
 					<p class="gris-oscuro">Duración</p>
-					<p class="gris-oscuro">10 semestres</p>
+					<p class="gris-oscuro">10 semestres.</p>
 					<br>
 					<p class="gris-oscuro">Régimen: Diurno</p>
   		</div>
