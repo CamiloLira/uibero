@@ -34,9 +34,9 @@ Si te interesan campos como la comunicación y la salud ven e infórmate sobre l
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/fonoaudiologia.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
-			<p class="gris-oscuro">Mg. María Soledad Chamorro</p>
-			<p class="gris-oscuro">E-mail: maria.chamorro@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 2389 9008</p>
+			<p class="gris-oscuro">Mg. María Eliana Gallegos</p>
+			<p class="gris-oscuro">E-mail: maria.gallegos@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9178</p>
 
 		</div>
 
@@ -69,7 +69,7 @@ El fonoaudiólogo se desempeña en los ámbitos de Salud, Educación, Arte e Ind
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>
-					<p class="gris-oscuro">Fonoaudiologo</p>
+					<p class="gris-oscuro">Fonoaudiólogo.</p>
 					<p class="gris-oscuro">Grado Academico</p>
 					<p class="gris-oscuro">Licenciado(a) en Fonoaudiología</p>
 					<p class="gris-oscuro">Duración</p>

@@ -30,8 +30,11 @@
 				 formados por académicos de excelencia y calidad, quienes en las aulas utilizan una metodología 
 				 teórica-práctica orientada a preparar licenciados de pregrado con sólidos conocimientos científicos, 
 				 técnicos, valóricos y éticos.
-
-Nuestros egresados serán profesionales comprometidos con la sociedad, que aborden el fenómeno jurídico de manera correcta y enfrenten los cambios sociales que se presenten en el quehacer jurídico, siempre enmarcado en un mundo globalizado. Además serán capaces de analizar, argumentar, resolver e investigar las situaciones jurídicas identificando las fuentes y los hechos relevantes.
+Nuestros egresados serán profesionales comprometidos con la sociedad, 
+que aborden el fenómeno jurídico de manera correcta y enfrenten los 
+cambios sociales que se presenten en el quehacer jurídico, siempre 
+enmarcado en un mundo globalizado. Además serán capaces de analizar,
+ argumentar, resolver e investigar las situaciones jurídicas identificando las fuentes y los hechos relevantes.
 
 			</p>
 		</div>
@@ -74,14 +77,13 @@ La empleabilidad de la carrera de Derecho es de un 77,8% en el primer año tras 
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>
-					<p class="gris-oscuro">Ingeniero derecho  </p>
+					<p class="gris-oscuro">Abogado, otorgado por la Excelentísima Corte Suprema.</p>
 					<p class="gris-oscuro">Grado Académico</p>
-					<p class="gris-oscuro">Licenciado en Ciencias en </p>
-					<p class="gris-oscuro">la Administración de Empresas.</p>
+					<p class="gris-oscuro">Licenciado(a) en Ciencias Jurídicas y Sociales.</p>
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>
-					<p class="gris-oscuro">Régimen: Diurno</p>
+					<p class="gris-oscuro">Régimen: Vespertino</p>
   		</div>
 
  </div>

@@ -34,9 +34,9 @@ La Ingeniería en Ejecución Electrónica que se imparte en la Universidad Ibero
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
-			<p class="gris-oscuro">Mg. Pedro Rojas Palma</p>
-			<p class="gris-oscuro">E-mail: pedro.rojas@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Ing. José Miguel Santibáñez A.</p>
+			<p class="gris-oscuro">E-mail: jose.santibanez@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 223899032.</p>
 
 		</div>
 

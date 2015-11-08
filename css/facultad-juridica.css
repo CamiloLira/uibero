@@ -72,10 +72,22 @@ letter-spacing: 6px;
 
 }
 
-.derecho-introduccion{
+.trabajosocial-introduccion{
 	
        letter-spacing: 2px;
     line-height: 30px;
+    font-size: 12.9px;
+    text-align: left;
+    width: 90%;
+    position: relative;
+    top: 95px;
+
+}
+
+.derecho-introduccion{
+    
+       letter-spacing: 2px;
+    line-height: 22px;
     font-size: 12.9px;
     text-align: left;
     width: 90%;

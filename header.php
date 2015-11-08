@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 
 
+		<link rel="stylesheet" type="text/css" href="css/requisitos.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-educacion.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-salud.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-ciencias.css">

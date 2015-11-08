@@ -33,7 +33,7 @@ La carrera enfatiza la metodología de “aprender haciendo”, con un alto porc
 		
 		<div class="informacion-directora-fnaturales">
 			<img class="acredita-fnaturales" src="images/4acreditacion.jpg">
-			<img src="imageS/jefes-carreras/biotecnologia.jpg">
+			<img src="images/jefes-carreras/biotecnologia.jpg">
 			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Carrera </h4>
 			<p class="gris-oscuro">Dra. Claudia Núñez González</p>
 			<p class="gris-oscuro">E-mail: claudia.nunez@uibero.cl</p>

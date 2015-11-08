@@ -69,9 +69,9 @@
 						<a href="contador-auditor.php" target="_blank"><p class="carreras-facultades ingenieria">Contador Auditor</p><a/>
 						<a href="ingenieria-comercial.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria Comercial</p><a/>
 						<a href="civil-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria Civil Electronica</p><a/>
-						<a href="ingenieria-alimentaria.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución en Industria Alimentaria</p><a/>
-						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria de Ejecución Electrónica</p><a/>
-						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria Civil Informática</p><a/>
+						<a href="ingenieria-alimentaria.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria de Ejecución en Industria Alimentaria</p><a/>
+						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria de Ejecución Electrónica</p><a/>
+						<a href="#" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria Civil Informática</p><a/>
 
 					</div>
 				</div>
@@ -110,7 +110,7 @@
 								<div class="mover-carreras-natural">
 									<a href="biotecnologia.php" target="_blank"><p class="carreras-facultades natural">Biotecnología</p></a>
 									<a href="agronomia.php" target="_blank"><p class="carreras-facultades natural">Agronomia</p></a>
-									<a href="veterinaria.php" target="_blank"><p class="carreras-facultades natural">Veterinaria</p></a>
+									<a href="veterinaria.php" target="_blank"><p class="carreras-facultades natural">Medicina Veterinaria</p></a>
 									<a href="viticultura.php" target="_blank"><p class="carreras-facultades natural">Ingeniería de Ejecución de Viticultura y Enología</p></a>
 
 								</div>

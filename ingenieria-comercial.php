@@ -36,7 +36,7 @@
 		</div>
 		
 		<div class="informacion-directora-fingenieria">
-			<img class="acredita-fingenieria" src="images/3acredita.png">
+			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Mg. Georg Spee Gaona</p>

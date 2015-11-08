@@ -1,0 +1,54 @@
+/* viñetas de requisitos*/
+
+
+.vineta-requisitos{
+	position: relative;
+    left: 5%;
+}
+
+/* bordes trabajo social*/
+
+/*requisitos*/
+
+
+.requisitos-contenedor{
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: -26px;
+    left: 5%;
+}
+
+
+.requisitos-diurno{
+    width: 45%;
+    height: 100%;
+}
+
+.requisitos-vespertino{
+    width: 45%;
+    height: 100%;
+
+}
+
+
+.perfil-egresado-requisitos {
+    padding: 30px 0 30px 0;
+    border-top: solid 2px #61eeff;
+    /*border-bottom: solid 2px #61eeff;*/
+    width: 90%;
+    height: 100%;
+    position: relative;
+    top: 90px;
+    left: 5%;}
+
+.perfil-egresado-requisitos h4 {
+    font-size: 14px;
+    letter-spacing: 4px;
+}
+
+.perfil-egresado-requisitos p {
+    line-height: 26px;
+    font-size: 11.5px;
+    letter-spacing: 2px;
+}

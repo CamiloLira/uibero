@@ -20,7 +20,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-salud">
-		<h1 class="gris-oscuro">Fonoaudiología</h1>
+		<h1 class="gris-oscuro">Kinesiología</h1>
 		<div class="introduccion-salud">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
@@ -34,7 +34,7 @@ La carrera de Kinesiología en la Universidad Iberoamericana está orientada al 
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="imageS/jefes-carreras/kine.jpg">
+			<img src="images/jefes-carreras/kine.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Prof. Marco San Martín Avello</p>
 			<p class="gris-oscuro">E-mail: marco.sanmartin@uibero.cl</p>
@@ -72,9 +72,9 @@ La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, dest
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>
-					<p class="gris-oscuro">Fonoaudiologo</p>
+					<p class="gris-oscuro">Kinesiólogo</p>
 					<p class="gris-oscuro">Grado Academico</p>
-					<p class="gris-oscuro">Licenciado(a) en Fonoaudiología</p>
+					<p class="gris-oscuro">Licenciado en Kinesiología.</p>
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>

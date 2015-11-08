@@ -72,10 +72,10 @@ El Nutricionista egresado en la Universidad Iberoamericana será un profesional 
   		<div class="info-general-salud-nutricion">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
-					<p class="gris-oscuro">Matrón(a)</p>
-					<p class="gris-oscuro">Fonoaudiologo</p>
+					<p class="gris-oscuro">Titulo Profesional</p>
+					<p class="gris-oscuro">Nutricionista.</p>
 					<p class="gris-oscuro">Grado Academico</p>
-					<p class="gris-oscuro">Licenciado en Obstetricia</p>
+					<p class="gris-oscuro">Licenciado en Nutrición y Dietética.</p>
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>

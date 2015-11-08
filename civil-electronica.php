@@ -79,7 +79,7 @@
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>
-					<p class="gris-oscuro">Régimen: Vespertino</p>
+					<p class="gris-oscuro">Régimen: Diurno / Vespertino</p>
   		</div>
 
  </div>

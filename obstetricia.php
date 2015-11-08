@@ -68,8 +68,8 @@ De acuerdo a información del Mineduc, la empleabilidad de la carrera de Obstetr
   		<div class="info-general-salud-obstetricia">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
+					<p class="gris-oscuro">Título Profesional</p>
 					<p class="gris-oscuro">Matrón(a)</p>
-					<p class="gris-oscuro">Fonoaudiologo</p>
 					<p class="gris-oscuro">Grado Academico</p>
 					<p class="gris-oscuro">Licenciado en Obstetricia</p>
 					<p class="gris-oscuro">Duración</p>

@@ -33,8 +33,8 @@ La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido
 		</div>
 		
 		<div class="informacion-directora-fnaturales">
-			<img class="acredita-fnaturales" src="images/4acreditacion.jpg">
-			<img src="imageS/jefes-carreras/ing-viticultura.jpg">
+			<!--<img class="acredita-fnaturales" src="images/4acreditacion.jpg">-->
+			<img src="images/jefes-carreras/ing-viticultura.jpg">
 			<h4 class="director-carrera-fnaturales gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Ing. Marcial Mena Lobos</p>
 			<p class="gris-oscuro">E-mail: marcial.mena@uibero.cl</p>

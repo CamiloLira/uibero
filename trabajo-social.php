@@ -24,7 +24,7 @@
 		<h1 class="gris-oscuro">Trabajo Social</h1>
 		<div class="introduccion-fjuridica">
 			<h4 class="gris-oscuro">Introducción</h4>
-			<p class="derecho-introduccion gris-oscuro">
+			<p class="trabajosocial-introduccion gris-oscuro">
 		
 La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con u
 n sello distintivo, que es la formación personalizada de sus estudiantes: un estilo

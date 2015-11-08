@@ -36,9 +36,9 @@ Ciencias y Tecnología. Aquí podrás adquirir sólidos conocimientos en suelo; 
 			<!--<img class="acredita-fnaturales" src="images/4acreditacion.jpg">-->
 			<img src="images/jefes-carreras/agronomia.jpg">
 			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Carrera </h4>
-			<p class="gris-oscuro">Dra. Claudia Núñez González</p>
-			<p class="gris-oscuro">E-mail: claudia.nunez@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899188</p>
+			<p class="gris-oscuro">Gladys Arismendi Oelckers</p>
+			<p class="gris-oscuro">E-mail: gladys.arismendi@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9186.</p>
 
 		</div>
 
@@ -69,7 +69,7 @@ El egresado de Agronomía es un  profesional de alta calificación, capaz de dis
 					<p class="gris-oscuro">Título Profesional </p>
 					<p class="gris-oscuro">Ingeniero Agrónomo.</p>
 					<p class="gris-oscuro">Grado Académico</p>
-					<p class="gris-oscuro">Licenciado en Agronomía. </p>
+					<p class="gris-oscuro">Licenciado(a) en Agronomía. </p>
 					<p class="gris-oscuro">Duración</p>
 					<p class="gris-oscuro">10 semestres</p>
 					<br>
