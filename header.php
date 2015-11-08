@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<title>Admisión IberoAmericana</title>
+	<title>Admisión Iberoamericana</title>
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
 		<!--<link rel="stylesheet" type="text/css" href="css/requisitos.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-educacion.css">
