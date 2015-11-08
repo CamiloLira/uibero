@@ -44,9 +44,12 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 			<img class="acredita-fingenieria" >
 			<img src="images/jefes-carreras/administracion.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
-			<p class="gris-oscuro">Mg. Georg Spee Gaona</p>
-			<p class="gris-oscuro">E-mail: george.spee@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p>Mg. Yamil Musa Iratzagorria, Director de Escuela.</p>
+<p class="gris-oscuro">a</p>
+			<p>E-mail: <a href="mailto:Yamil.musa@uibero.cl">Yamil.musa@uibero.cl</a></p>
+<p class="gris-oscuro">&nbsp;</p>
+			<p>Teléfono: +56 2 2389 9071.</p>
+<p class="gris-oscuro">&nbsp;</p>
 
 		</div>
 
