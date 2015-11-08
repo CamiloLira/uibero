@@ -15,7 +15,7 @@
 	<!-- Barra requisitos -->
     <div class="vineta-requisitos">
 		<img src="images/vineta-salud.png">
-		<h2 class="titulo-facultad-requisitos blanco">REQUISITOS DE ADMISIÓN</h2>
+		<h2 class="titulo-requisitos blanco">REQUISITOS DE ADMISIÓN</h2>
     </div>
 	
 <!-- caja seccion 1  -->
@@ -23,11 +23,55 @@
 	<div class="requisitos-contenedor">
 		
 		<div class="requisitos-diurno">
-			<h3>Requisitos de Admisión Diurno</h3>
+			<h3 class="gris-oscuro">Requisitos de Admisión Diurno</h3>
+			<p class="gris-oscuro">
+				<br>
+				<br>
+				<br>
+				Concentración de notas de Enseñanza Media (Fotocopia legalizada ante notario).
+				<br>
+				<br>
+				<br>
+				Puntaje PSU: Puntaje mínimo para postular 450 puntos (Promedio PSU Matemática – Lenguaje y Comunicación).
+				<br>
+				<br>
+				<br>
+				Antigüedad PSU hasta 2010.
+				<br>
+				<br>
+				<br>
+				Licencia Enseñanza Media (Fotocopia legalizada ante notario).
+				<br>
+				<br>
+				<br>
+				Certificado de Nacimiento vigente.
+				<br>
+				<br>
+				<br>
+				Entrevista personal.
+			</p>
 		</div>
 
 		<div class="requisitos-vespertino">
-		<h3>Requisitos de Admisión Vespertino</h3>	
+		<h3 class="gris-oscuro">Requisitos de Admisión Vespertino</h3>	
+		<p class="gris-oscuro">
+			<br>
+				<br>
+				<br>
+			Concentración de notas de Enseñanza Media (Fotocopia legalizada ante notario).
+				<br>
+				<br>
+				<br>
+			Licencia Enseñanza Media (Fotocopia legalizada ante notario).
+				<br>
+				<br>
+				<br>
+			Certificado de Nacimiento vigente.
+				<br>
+				<br>
+				<br>
+			Entrevista personal.
+		</p>
 		</div>
 	</div>
 
