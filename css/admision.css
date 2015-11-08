@@ -1,8 +1,18 @@
 /*Etiquetas por defecto*/
+@import url("requisitos.css");
+@import url("facultad-educacion.css");
+@import url("facultad-salud.css");
+@import url("facultad-ciencias.css");
+@import url("facultad-juridica.css");
+@import url("facultad-ingenieria.css");
+@import url("facultad-formulario.css");
+@import url("facultad-footer.css");
 * {
 	margin: 0;
 	padding: 0;
 }
+
+
 
 @font-face {
 	 font-family: 'KeepCalm-Medium';
@@ -11,6 +21,7 @@
   Cabin, Cabin Regular o Cabin-Regular */
   src: url('font/KeepCalm-Medium.ttf');
 }
+
 /*TEXTOS*/
 /*colores*/
 

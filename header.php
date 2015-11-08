@@ -5,19 +5,14 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>Admisión IberoAmericana</title>
 	<link rel="stylesheet" type="text/css" href="css/admision.css">
-
-
-		<link rel="stylesheet" type="text/css" href="css/requisitos.css">
+		<!--<link rel="stylesheet" type="text/css" href="css/requisitos.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-educacion.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-salud.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-ciencias.css">
-
-    	<link rel="stylesheet" type="text/css" href="css/facultad.css">
     	<link rel="stylesheet" type="text/css" href="css/facultad-juridica.css">
     	 <link rel="stylesheet" type="text/css" href="css/facultad-ingenieria.css">
-        <link rel="stylesheet" type="text/css" href="css/facultatsocial.css">
     	<link rel="stylesheet" type="text/css" href="css/formulario.css">
-        <link rel="stylesheet" type="text/css" href="css/footer.css">
+        <link rel="stylesheet" type="text/css" href="css/footer.css">-->
         <link rel="stylesheet" type="text/css" href="css/slide.css">
         <link rel="stylesheet" type="text/css" href="engine1/style.css" />
 	<script type="text/javascript" src="engine1/jquery.js"></script>
