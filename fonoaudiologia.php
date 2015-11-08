@@ -20,9 +20,9 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-salud">
-		<h1 class="gris-oscuro">Fonoaudiologáa</h1>
+		<h1 class="gris-oscuro">Fonoaudiología</h1>
 		<div class="introduccion-salud">
-			<h4 class="gris-oscuro">Introducción</h4>
+		  <h4 class="gris-oscuro">Introducción</h4>
 			<br>
 			<p class="salud-introduccion-fonoaudiologia gris-oscuro">
 ¿Qué hace un fonoaudiólogo? Es un profesional de la salud que realiza diversas acciones en el campo de la comunicación humana, entre ellas: prevención, detección, evaluación y diagnóstico de las funciones simbólico-lingüísticas y de comunicación en individuos o grupos. Además, estos profesionales se encargan de la habilitación y rehabilitación de todo tipo de alteraciones funcionales y estructurales, las cuales puedan afectar las capacidades comunicativas y de expresión de los pacientes. 
