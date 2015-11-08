@@ -40,8 +40,9 @@ font-size: 12px;
 
 }
 .texto-footer {
+	margin-right:30px;
 	float:right;
-	padding-top:36px;
+	padding-top:180px;
 	color:#FFF;
 }
 
@@ -49,25 +50,76 @@ font-size: 12px;
 	color:#F0F;
 	margin-top:3px;}
 .logo-footer{
-	padding-left:290px;
-	padding-top:60px;}
+	margin-left:-230px;
+	padding-top:10px;}
 .acrefooter {
-	margin-left:-700px;
+	margin-left:0px;
 	position:absolute;
-	margin-top:418px;
+	margin-top:158px;
 	width:200px;
+}
+
+.triangulo_inf { width: 0;
+z-index:40;
+position: relative;
+
+margin-left:-6px;
+     height: 0;
+     border-right: 540px solid transparent;
+     border-top: 100px solid transparent;
+     border-left: 500px solid transparent;
+     border-bottom: 200px solid #08245a;
+}
+
+.triangulo_blanco { width: 0;
+z-index:10;
+position: relative;
+margin-left:-6px;
+     height: 0;
+	 margin-top:-304px;
+     border-right: 540px solid transparent;
+     border-top: 100px solid transparent;
+     border-left: 500px  solid transparent;
+     border-bottom: 200px solid #fff;
+}
+.triangulo_azul{ width: 0;
+position: relative;
+z-index:0;
+margin-left:-6px;
+
+     height: 0;
+	 margin-top:-303px;
+     border-right: 538px solid transparent;
+     border-top: 100px solid transparent;
+     border-left: 500px  solid transparent;
+     border-bottom: 200px solid #08245a;
 }
 
 .footer2{
 
 
-background-image:url(../images/prefooter.png);
 
-background-position:top;
-background-repeat: no-repeat;
 padding-bottom:2px;
 background-color:#08245a;
-height:528px;
+height:258px;
+
+padding-left:30px;
+margin-left:-17px;
+	width:1035px;
+font-size: 12px;
+}
+
+#footer{
+	margin-top:-80px;
+
+position: relative;
+
+
+
+z-index:90;
+padding-top:40px;
+height:308px;
+background-color:#fff;
 border-left: 7px double #08245a;
 border-right: 7px double #08245a;
 	width:1030px;
