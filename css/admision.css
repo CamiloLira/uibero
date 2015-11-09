@@ -94,7 +94,7 @@ a {
 
 /*CSS HEADER*/
 
-header {
+#header-admision {
        background-color: #104395;
     border-bottom: 9px solid #8af2ff;
     color: white;
@@ -106,16 +106,16 @@ header {
 
 }
 
-header a:hover{
+#header-admision a:hover{
 	color: #8af2ff;
 }
 
-header nav ul {
+#header-admision  #menu-admision ul {
 	
 	    position: absolute;
     left: 47%;
     top: 105px;}
-header nav ul li  {
+#header-admision  #menu-admision ul li  {
 	display: inline-block;
 	padding: 0 14px;
 

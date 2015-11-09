@@ -19,11 +19,11 @@
 </head>
 <!-- div para los bordes --><div class="bordes"><div id="content">
 
-<header>
+<header id="header-admision">
 		<figure>
 			<a href="http://www.uiberoamericana.cl/"><img class="logo" src="images/logo.png"></a>
 		</figure>
-		<nav>
+		<nav id="menu-admision">
 		  <ul>	
 		  	<li><a class="blanco" href="admision.php">Inicio</a></li>
 			<li><a class="blanco" href="admision.php#facultad">Carreras</a></li>
