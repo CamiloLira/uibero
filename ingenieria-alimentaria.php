@@ -38,7 +38,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 			<br>
 			<img src="http://lorempixel.com/310/190/">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
-			<p class="gris-oscuro">Ing. Hugo Torti Ivanovich, Director de Escuela.</p>
+			<p class="gris-oscuro">Ing. Hugo Torti Ivanovich</p>
 			<p class="gris-oscuro">E-mail: hugo.torti@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono:+56 2 2389 9031..</p>
 
