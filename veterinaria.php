@@ -21,7 +21,7 @@
 <!-- caja seccion 1  -->
 
 	<div class="seccion-uno-fnaturales">
-		<h1 class="gris-oscuro">Biotecnología</h1>
+		<h1 class="gris-oscuro">Medicina Veterinaria</h1>
 		<div class="introduccion-fnaturales">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">

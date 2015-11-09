@@ -61,7 +61,7 @@ alidad, y en la enología para producir y elaborar vinos.</p>
   		<p class="gris-oscuro">
 Atendiendo al amplio campo laboral que presenta el mundo vitivinícola, es que la Universidad Iberoamericana de Ciencias y Tecnología, decidió impartir la carrera de Ingeniería de Ejecución en Viticultura y Enología, convirtiéndose en la primera institución de educación superior  en impartirla de manera profesional.
 </p>
-		<a href="mallas/viticultura.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-viticultura.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->
