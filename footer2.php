@@ -1,4 +1,4 @@
-<div id="footer">
+<div id="footer-admision”>
 <div class="triangulo_inf"><img class="logo-footer" src="images/logofooter.png" /></div>
 <div class="triangulo_blanco"></div>
 <div class="triangulo_azul"></div>
