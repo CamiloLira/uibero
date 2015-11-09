@@ -65,9 +65,9 @@ position: relative;
 
 margin-left:-6px;
      height: 0;
-     border-right: 540px solid transparent;
+     border-right: 518px solid transparent;
      border-top: 100px solid transparent;
-     border-left: 500px solid transparent;
+     border-left: 518px solid transparent;
      border-bottom: 200px solid #08245a;
 }
 
@@ -77,9 +77,9 @@ position: relative;
 margin-left:-6px;
      height: 0;
 	 margin-top:-304px;
-     border-right: 540px solid transparent;
+     border-right: 518px solid transparent;
      border-top: 100px solid transparent;
-     border-left: 500px  solid transparent;
+     border-left: 518px  solid transparent;
      border-bottom: 200px solid #fff;
 }
 .triangulo_azul{ width: 0;
@@ -89,9 +89,9 @@ margin-left:-6px;
 
      height: 0;
 	 margin-top:-303px;
-     border-right: 538px solid transparent;
+     border-right: 518px solid transparent;
      border-top: 100px solid transparent;
-     border-left: 500px  solid transparent;
+     border-left: 518px  solid transparent;
      border-bottom: 200px solid #08245a;
 }
 
