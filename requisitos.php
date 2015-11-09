@@ -1,7 +1,7 @@
 
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">

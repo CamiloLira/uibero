@@ -1,7 +1,6 @@
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
-
+<body id="body-admision">
 
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>

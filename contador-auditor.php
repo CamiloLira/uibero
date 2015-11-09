@@ -1,7 +1,7 @@
 
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">
@@ -76,7 +76,7 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
   			 control y fiscalización. Este profesional se desempeñará preferentemente 
   			 en empresas y servicios públicos, dándole un amplio margen de acción.
 		</p>
-		<a href="" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
+		<a href="mallas/contador-auditor.pdf" target="_blank" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

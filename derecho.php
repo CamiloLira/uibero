@@ -1,7 +1,7 @@
 
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">
@@ -69,7 +69,7 @@ Será además, un profesional comprometido con los valores humanistas cristianos
   		<p class="gris-oscuro">El licenciado en Ciencias Jurídicas y Sociales se podrá desempeñar tanto en el ámbito público como privado, Tribunales de Justicia, Ministerio Público, Defensoría Laboral y Penal. También podrá incursionar en la Investigación Jurídica, Docencia y en el Ámbito Internacional.
 La empleabilidad de la carrera de Derecho es de un 77,8% en el primer año tras la titulación y de un 86,9% en el segundo, de acuerdo a datos del Mineduc.
 		</p>
-		<a href="" class="amarillooscuro descarga-malla-fjuridica">DESCARGA TU MALLA<a/>
+		<a href="mallas/derecho.pdf" target="_blank" class="amarillooscuro descarga-malla-fjuridica">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

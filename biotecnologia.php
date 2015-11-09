@@ -1,7 +1,7 @@
 
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">
@@ -64,7 +64,7 @@ empresas privadas.
 Centros de investigación de universidades.
 Centros de investigación aplicada de empresas privadas.
 Docentes en las diferentes instituciones educacionales.		</p>
-		<a href="" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/biotecnologia.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

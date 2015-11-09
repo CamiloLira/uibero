@@ -1,7 +1,7 @@
 
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">
@@ -63,7 +63,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
   		<p class="gris-oscuro">
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Ingeniería de Ejecución en Industria Alimentaria, tras el primer año de titulación es de un 87,8%, y de un 88,6% en el segundo.
 Los egresados de nuestra universidad pueden desempeñarse en la generación de nuevos productos alimenticios, cooperando en los Departamentos de Desarrollo de las empresas. Un campo muy importante es el Control de Calidad y de Inocuidad de los Alimentos. Además, está capacitado para dirigir y desarrollar proyectos tecnológicos de mediana envergadura.		</p>
-		<a href="" class="morado descarga-malla-fingenieria-admpublica">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-alimentaria.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

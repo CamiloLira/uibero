@@ -1,4 +1,6 @@
 /*Etiquetas por defecto*/
+
+
 @import url("requisitos.css");
 @import url("facultad-educacion.css");
 @import url("facultad-salud.css");
@@ -20,6 +22,15 @@
   que intente buscar en local la fuente con nombre
   Cabin, Cabin Regular o Cabin-Regular */
   src: url('font/KeepCalm-Medium.ttf');
+}
+#body-admision {
+	background-color:;
+
+	margin: 0 auto;
+	max-width: 1036px;
+	height: auto;
+	font-family:'KeepCalm-Medium', Helvetica, Arial;
+	font-size: 16px;
 }
 
 /*TEXTOS*/
@@ -78,15 +89,6 @@ color:#ff6161;
 .centrar {text-align:center;}
 
 
-#body-admision {
-	background-color:;
-
-	margin: 0 auto;
-	max-width: 1036px;
-	height: auto;
-	font-family:'KeepCalm-Medium', Helvetica, Arial;
-	font-size: 16px;
-}
 
 a {
 	text-decoration: none;

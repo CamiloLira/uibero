@@ -1,6 +1,6 @@
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 
 	<div class="bienvenidos">
@@ -61,7 +61,7 @@ El egresado puede desarrollar intervenciones terapéuticas, educativas y de ases
   			La empleabilidad de la carrera, según los datos del Ministerio de Educación, es de 86,6% para el primer año luego de la titulación, y de 94,1% para el segundo año.
 El fonoaudiólogo se desempeña en los ámbitos de Salud, Educación, Arte e Industria, contribuyendo así a mejorar la calidad de vida de las personas y de la sociedad en su conjunto. 
 		</p>
-		<a href="" class="celeste descarga-malla-salud">DESCARGA TU MALLA<a/>
+		<a href="mallas/fonoaudiologia.pdf" target="_blank" class="celeste descarga-malla-salud">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->
