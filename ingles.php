@@ -66,7 +66,7 @@
   		 de Enseñanza General Básica y Media, Universidades, Institutos
   		  Profesionales y Centros de Formación Técnica.
 		</p>
-		<a href="" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
+		<a href="mallas/ingles.pdf" target="_blank" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

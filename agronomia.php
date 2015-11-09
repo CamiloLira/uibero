@@ -59,7 +59,7 @@ El egresado de Agronomía es un  profesional de alta calificación, capaz de dis
   		<br>
   		<p class="gris-oscuro">
 El egresado de Agronomía es un  profesional de alta calificación, capaz de diseñar y optimizar los sistemas de producción agropecuarios, manteniendo un equilibrio ecológico y un compromiso social. Está preparado para rentabilizar económicamente bienes y servicios del rubro. </p>
-		<a href="" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/agronomia.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

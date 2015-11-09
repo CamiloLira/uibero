@@ -155,7 +155,8 @@
     font-size: 31px;
     /* line-height: 5px; */
     position: relative;
-    top: 160px;
+    top: 122px;
+    z-index: 50;
 }
 
 
@@ -187,6 +188,7 @@
     /* line-height: 5px; */
     position: relative;
     top: 160px;
+    z-index: 50;
 }
 
 /*TEcnologia medica*/
@@ -215,7 +217,7 @@
     font-size: 31px;
     /* line-height: 5px; */
     position: relative;
-    top: 160px;
+    top: 182px;
 }
 
 

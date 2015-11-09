@@ -35,7 +35,7 @@ La carrera de Tecnología Médica en la Universidad Iberoamericana
 		
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
-			<img src="images/fotos-jefes/tecnologia-medica.jpg">
+			<img src="images/jefes-carreras/tecnologia-medica.jpg">
 			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
 			<p class="gris-oscuro">Mg. Waleska De la Guarda Torrijos</p>
 			<p class="gris-oscuro">E-mail: waleska.delaguarda@uibero.cl</p>
@@ -69,7 +69,7 @@ en docencia; y gestión en diversas instituciones públicas o privadas de la sal
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Tecnología Médica es
  de un 95,8% en el primer año tras la titulación, y de un 96,7% en el segundo.
 		</p>
-		<a href="" class="celeste descarga-malla-salud-obstetricia">DESCARGA TU MALLA<a/>
+		<a href="mallas/tecnologia-medica.pdf" target="_blank" class="celeste descarga-malla-salud-tecnologia">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

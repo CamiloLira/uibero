@@ -58,7 +58,7 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
   		<br>
   		<p class="gris-oscuro">La empleabilidad de la carrera de Pedagogía en Matemática y Física (Pedagogía en Matemáticas y Computación) es de un 94% en el primer año tras la titulación y de un 93,7% en el segundo, según datos del Ministerio de Educación. 
 		</p>
-		<a href="" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
+		<a href="mallas/matematica.pdf" target="_blank" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general matematica-->

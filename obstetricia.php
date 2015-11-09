@@ -61,7 +61,7 @@
   		<br>
   		<p class="gris-oscuro">
 De acuerdo a información del Mineduc, la empleabilidad de la carrera de Obstetricia y Puericultura es de un 100% tras la titulación, y se ubica en el cuarto lugar de empleabilidad en Chile.		</p>
-		<a href="" class="celeste descarga-malla-salud-obstetricia">DESCARGA TU MALLA<a/>
+		<a href="mallas/obstetricia.pdf" target="_blank" class="celeste descarga-malla-salud-obstetricia">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

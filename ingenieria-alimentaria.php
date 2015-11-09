@@ -36,7 +36,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<br>
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/alimentaria.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Ing. Hugo Torti Ivanovich</p>
 			<p class="gris-oscuro">E-mail: hugo.torti@uibero.cl</p>

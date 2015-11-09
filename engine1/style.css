@@ -251,6 +251,7 @@
     margin-top: -1.6em;
     z-index: 59;
 	background-size:100%;
+	display: none;
 }
 
 #wowslider-container1 .ws_pause {

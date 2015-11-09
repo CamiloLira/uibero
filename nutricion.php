@@ -64,7 +64,7 @@ El Nutricionista egresado en la Universidad Iberoamericana será un profesional 
   		<p class="gris-oscuro">
 		La empleabilidad es del 80% para el primer año de titulación y de 92% para el segundo, de acuerdo a estadísticas del Mineduc.
 		</p>
-		<a href="" class="celeste descarga-malla-salud-obstetricia">DESCARGA TU MALLA<a/>
+		<a href="mallas/nutricion.pdf" target="_blank" class="celeste descarga-malla-salud-nutricion">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

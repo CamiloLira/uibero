@@ -73,7 +73,7 @@
 						<a/>
 						<a href="ingenieria-alimentaria.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria de Ejecución en Industria Alimentaria</p><a/>
 						<a href="ejecucion-electronica.php" target="_blank"><p class="carreras-facultades ingenieria">Ingenieria de Ejecución Electrónica</p><a/>
-						<a href="#" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria Civil Informática</p><a/>
+						<a href="admision.php#contacto" target="_blank"><p class="carreras-facultades ingenieria">Ingeneria Civil Informática</p><a/>
 
 					</div>
 				</div>

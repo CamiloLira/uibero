@@ -37,7 +37,7 @@
 		
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/ingenieria-comercial.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Mg. Georg Spee Gaona</p>
 			<p class="gris-oscuro">E-mail: george.spee@uibero.cl</p>
@@ -69,7 +69,7 @@
 El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de emprendimiento y competencias
  para desempeñarse en marketing, finanzas, recursos humanos, economía y tecnologías de la información.
 		</p>
-		<a href="" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-comercial.pdf" target="_blank" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

@@ -32,7 +32,7 @@ La Ingeniería en Ejecución Electrónica que se imparte en la Universidad Ibero
 		
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/ejec-civil-electronica.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Ing. José Miguel Santibáñez A.</p>
 			<p class="gris-oscuro">E-mail: jose.santibanez@uibero.cl</p>
@@ -58,7 +58,7 @@ El egresado de Ingeniería en Ejecución Electrónica es un profesional  formado
   		<br>
   		<p class="gris-oscuro">Los ingenieros de Ejecución Electrónica pueden trabajar administrando sistemas electrónicos en áreas de Telecomunicaciones o de Automatización y Robótica, en empresas de consultoría, servicios y ventas. También pueden desarrollar sus propios emprendimientos de éxito en el área de servicios electrónicos.
 		</p>
-		<a href="" class="morado descarga-malla-fingenieria-ejecucioncivil">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-ejec-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieria-ejecucioncivil">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

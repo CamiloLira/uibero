@@ -28,7 +28,7 @@
 				La Ingeniería Civil Electrónica que imparte la Universidad 
 				Iberoamericana de Ciencias y Tecnología, es una carrera que está pensada 
 				para aquellos trabajadores que quieran perfeccionar sus conocimientos, después 
-				de sus jornadas laborales. Para ello, se imparte en horario vespertino y tiene 
+				de sus jornadas laborales. y tiene 
 				un fuerte componente práctico que se desarrolla en tres ciclos: Ciencias Básicas 
 				(matemática y física), Ciencias de Especialidad y Menciones en Telecomunicaciones e Informática o Automatización y Robótica. Además, cuenta con docentes con una amplia y destacada experiencia laboral y académica.
 			</p>
@@ -36,7 +36,7 @@
 		
 		<div class="informacion-directora-fingenieria">
 			<img class="acredita-fingenieria" src="images/3acredita.png">
-			<img src="http://lorempixel.com/310/190/">
+			<img src="images/jefes-carreras/ejec-civil-electronica.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Ing. José Miguel Santibáñez A.</p>
 			<p class="gris-oscuro">E-mail: jose.santibanez@uibero.cl</p>
@@ -64,7 +64,7 @@
   			Civil Electrónica se caracterizan por tener una empleabilidad de 93% tras el primer
   			 año de titulación, y de 96% en el segundo.
 		</p>
-		<a href="" class="morado descarga-malla-fingenieriacivil">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-civil-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieriacivil">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

@@ -67,7 +67,7 @@ El trabajador social que egresa de nuestra universidad, destaca por su formació
   			De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Sociales es de un 78,5% en el primer año tras la titilación, y de un 87,7% en el segundo.
 El trabajador social formado por la Universidad Iberoamericana, por su amplia formación en Ciencias Sociales y Jurídicas, está capacitado para desempeñarse en organismos del Poder Judicial, municipios, organizaciones de gobierno, instituciones previsionales y ONGs.
 		</p>
-		<a href="" class="amarillooscuro descarga-malla-fjuridica">DESCARGA TU MALLA<a/>
+		<a href="mallas/trabajo-social.pdf" target="_blank" class="amarillooscuro descarga-malla-fjuridica">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

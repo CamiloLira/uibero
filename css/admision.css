@@ -377,7 +377,7 @@ width:1035px;
 	color:#555a78;
 }
 .info-contacto p {
-    font-size: 0.5em;
+    font-size: 0.7em;
 }
 .manten-contacto{
 	 position: relative;
@@ -417,6 +417,19 @@ h6 {
 }
 
 .descarga-malla-salud:hover{
+ color: #00819A;
+ transition:0.7s;
+}
+
+.descarga-malla-salud-tecnologia:hover{
+ color: #00819A;
+ transition:0.7s;
+}
+.descarga-malla-salud-obstetricia:hover{
+ color: #00819A;
+ transition:0.7s;
+}
+.descarga-malla-salud-nutricion:hover{
  color: #00819A;
  transition:0.7s;
 }

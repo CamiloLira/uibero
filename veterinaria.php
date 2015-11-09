@@ -64,7 +64,7 @@ Por la calidad de sus docentes, el espíritu colaborativo de su escuela y las ac
   		<br>
   		<p class="gris-oscuro">
 El Médico Veterinario que egresa de nuestra universidad, posee las competencias necesarias para desempeñarse en la salud pública o privada haciendo controles médicos y sanitarios, asesorías en reproducción; además de la distribución, venta y desarrollo de productos relacionados con esta profesión. </p>
-		<a href="" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/veterinaria.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->
