@@ -1,6 +1,6 @@
 <!-- header -->
 <?php include("header.php"); ?>
-<body>
+<body id="body-admision">
 
 		<!-- Containenidos -->
    <div id="contenedor">
