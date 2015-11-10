@@ -277,13 +277,15 @@
 	position:absolute;
 	display:block;
 	font-family:'KeepCalm-Medium';
-	font: 2.0em KeepCalm-Medium;
+	font: 3.0em KeepCalm-Medium;
 	bottom: 0.7em;
 	left: 0;
 	margin-right: 0.4em; 
 	color:#fff;
 	z-index: 50;
-	line-height: 0.5em;
+	
+
+	line-height: 0.9em;
 	text-shadow: none;
 	font-weight: normal;
 }
