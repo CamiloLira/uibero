@@ -26,9 +26,15 @@ Viticultura y Enología</h1>
 		<div class="introduccion-fnaturales">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="veterinaria-introduccion  gris-oscuro">
-¿Sabías que Chile es el cuarto exportador a nivel mundial de vino? En 2014 exportó a más de 150 mercados alrededor de 1,287 millones de litros. Si eres un apasionado por esta bebida y estás interesado en tener una formación profesional en esta disciplina, entonces la carrera de Ingeniería de Ejecución en Viticultura y Enología, que imparte la Universidad Iberoamericana, es la adecuada para ti.
-La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido en cada ramo a través de laboratorios y talleres que se desarrollan desde el primer semestre. La formación hará a los egresados capaces de intervenir en la producción, manejo y gestión de los recursos agronómicos de la viticultura y la enología, además de la formación práctica en el área administrativa predial; operar con éxito un viñedo y el proceso de elaboración en bodega; desenvolverse en empresas productoras de uvas vinífera y en bodegas elaboradoras de vino; ejercer docencia, investigación o consultoría; y manejar empresas propias del rubro.
- 
+¿Sabías que Chile es el cuarto exportador a nivel mundial de vino? En 2014 exportó a más de 150
+
+mercados alrededor de 1,287 millones de litros. Si estás 
+
+interesado en tener una formación profesional en esta disciplina, entonces la carrera de Ingeniería 
+
+de Ejecución en Viticultura y Enología, que imparte la Universidad Iberoamericana, es la adecuada 
+
+para ti. 
 			</p>
 		</div>
 		
@@ -61,7 +67,7 @@ alidad, y en la enología para producir y elaborar vinos.</p>
   		<p class="gris-oscuro">
 Atendiendo al amplio campo laboral que presenta el mundo vitivinícola, es que la Universidad Iberoamericana de Ciencias y Tecnología, decidió impartir la carrera de Ingeniería de Ejecución en Viticultura y Enología, convirtiéndose en la primera institución de educación superior  en impartirla de manera profesional.
 </p>
-		<a href="mallas/ing-viticultura.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-viticultura.pdf" target="_blank" class="verde descarga-malla-fnaturales">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

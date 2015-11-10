@@ -69,7 +69,7 @@ en docencia; y gestión en diversas instituciones públicas o privadas de la sal
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Tecnología Médica es
  de un 95,8% en el primer año tras la titulación, y de un 96,7% en el segundo.
 		</p>
-		<a href="mallas/tecnologia-medica.pdf" target="_blank" class="celeste descarga-malla-salud-tecnologia">DESCARGA TU MALLA<a/>
+		<a href="mallas/tecnologia-medica.pdf" target="_blank" class="celeste descarga-malla-salud-tecnologia">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

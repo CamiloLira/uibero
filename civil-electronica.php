@@ -25,13 +25,17 @@
 		<div class="introduccion-fingenieria">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="fingenieria-introduccion gris-oscuro">
-				La Ingeniería Civil Electrónica que imparte la Universidad 
-				Iberoamericana de Ciencias y Tecnología, es una carrera que está pensada 
-				para aquellos trabajadores que quieran perfeccionar sus conocimientos, después 
-				de sus jornadas laborales. y tiene 
-				un fuerte componente práctico que se desarrolla en tres ciclos: Ciencias Básicas 
-				(matemática y física), Ciencias de Especialidad y Menciones en Telecomunicaciones e Informática o Automatización y Robótica. Además, cuenta con docentes con una amplia y destacada experiencia laboral y académica.
-			</p>
+La Ingeniería Civil Electrónica que imparte la Universidad Iberoamericana de Ciencias y Tecnología, 
+
+es una carrera que está pensada para aquellos trabajadores que quieran perfeccionar sus 
+
+conocimientos, después de sus jornadas laborales. y tiene un fuerte componente práctico que se 
+
+desarrolla en tres ciclos: Ciencias Básicas (matemática y física), Ciencias de Especialidad, y 
+
+Menciones en Telecomunicaciones e Informática o Automatización y Robótica. Además, cuenta 
+
+con docentes con una amplia y destacada experiencia laboral y académica.			</p>
 		</div>
 		
 		<div class="informacion-directora-fingenieria">
@@ -64,7 +68,7 @@
   			Civil Electrónica se caracterizan por tener una empleabilidad de 93% tras el primer
   			 año de titulación, y de 96% en el segundo.
 		</p>
-		<a href="mallas/ing-civil-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieriacivil">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-civil-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieriacivil">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

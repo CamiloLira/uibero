@@ -220,6 +220,7 @@
 }
 #wowslider-container1 .ws_bullets a:hover, #wowslider-container1 .ws_bullets a.ws_selbull{
 	background-position: 0 100%;
+	margin-left: 4px;
 }
 #wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
 	position:absolute;

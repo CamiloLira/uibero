@@ -52,7 +52,16 @@
 	<div class="perfil-egresado-educacion">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
-	 <p class="gris-oscuro">El egresado de la Universidad Iberoamericana, será un profesional con un elevado manejo comunicativo y descriptivo de la lengua inglesa. Posee una práctica flexible de marcos conceptuales, procedimientos, estrategias pedagógicas y didácticas, que junto a un compromiso personal y profesional, le permitirán crear las condiciones para que sus alumnos logren aprendizajes de calidad.</p>
+	 <p class="gris-oscuro">
+	 	El egresado de la Universidad Iberoamericana, será un profesional con un elevado manejo 
+
+comunicativo y descriptivo de la lengua inglesa. Posee una práctica flexible de marcos 
+
+conceptuales, procedimientos, estrategias pedagógicas y didácticas que, junto a un compromiso 
+
+personal y profesional, le permitirán crear las condiciones para que sus alumnos logren 
+
+aprendizajes de calidad.</p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -61,12 +70,9 @@
   	<div class="campo-educacion">
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
-  		<p class="gris-oscuro">El egresado de Pedagogía en
-  		 Inglés puede desempeñarse laboralmente en Establecimientos 
-  		 de Enseñanza General Básica y Media, Universidades, Institutos
-  		  Profesionales y Centros de Formación Técnica.
+  		<p class="gris-oscuro">El egresado de Pedagogía en Inglés puede desempeñarse laboralmente en Establecimientos de Enseñanza General Básica y Media, Universidades, Institutos Profesionales y Centros de Formación Técnica.
 		</p>
-		<a href="mallas/ingles.pdf" target="_blank" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
+		<a href="mallas/ingles.pdf" target="_blank" class="rojo descarga-malla-educacion">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

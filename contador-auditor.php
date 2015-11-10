@@ -39,7 +39,7 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
 		
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
-			<img src="imageS/jefes-carreras/contador.jpg">
+			<img src="images/jefes-carreras/contador.jpg">
 			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
 			<p class="gris-oscuro">Mg. Pedro Rojas Palma</p>
 			<p class="gris-oscuro">E-mail: pedro.rojas@uibero.cl</p>
@@ -76,7 +76,7 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
   			 control y fiscalización. Este profesional se desempeñará preferentemente 
   			 en empresas y servicios públicos, dándole un amplio margen de acción.
 		</p>
-		<a href="mallas/contador-auditor.pdf" target="_blank" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
+		<a href="mallas/contador-auditor.pdf" target="_blank" class="morado descarga-malla-fingenieria">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

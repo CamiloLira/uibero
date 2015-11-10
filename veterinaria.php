@@ -25,14 +25,10 @@
 		<div class="introduccion-fnaturales">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">
-¿Sabías que la carrera de Medicina Veterinaria en la Universid
-ad Iberoamericana tiene casi 25 años de trayectoria? Su fundación
+¿Sabías que la carrera de Medicina Veterinaria en la Universidad Iberoamericana tiene casi 25 años de trayectoria? Su fundación
  en 1991 la  posiciona como una de las primeras cinco instituciones
-  de todo Chile en impartirla. Además, la carrera está acreditada  y se distin
-  gue por un fuerte espíritu colaborativo y de compañerismo entre sus profesore
-  s y alumnos, quienes en conjunto organizan eventos y ferias con el objet
-  ivo de intercambiar conocimientos y experiencias.  Si te interesan estas 
-  çmaterias y quieres estudiarlas en una institución con experiencia en ellas, esta es tu universidad.  
+  de todo Chile en impartirla. Además, la carrera está acreditada  y se distingue por un fuerte espíritu colaborativo y de compañerismo entre sus profesores y alumnos, quienes en conjunto organizan eventos y ferias con el objetivo de intercambiar conocimientos y experiencias.  Si te interesan estas 
+  materias y quieres estudiarlas en una institución con experiencia en ellas, esta es tu universidad.  
 			</p>
 		</div>
 		
@@ -64,7 +60,7 @@ Por la calidad de sus docentes, el espíritu colaborativo de su escuela y las ac
   		<br>
   		<p class="gris-oscuro">
 El Médico Veterinario que egresa de nuestra universidad, posee las competencias necesarias para desempeñarse en la salud pública o privada haciendo controles médicos y sanitarios, asesorías en reproducción; además de la distribución, venta y desarrollo de productos relacionados con esta profesión. </p>
-		<a href="mallas/veterinaria.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/veterinaria.pdf" target="_blank" class="verde descarga-malla-fnaturales">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

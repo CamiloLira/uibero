@@ -131,7 +131,7 @@ a {
     height: 43px;
     position: absolute;
     top: 277px;
-    left: 65%;
+    left:  65%;
     z-index: 2321312;
 }
 
@@ -212,6 +212,7 @@ a {
     margin: 0 auto;
     width: 90%;
     height: 448px;
+  pointer-events: none;
 
 }
 
@@ -377,7 +378,7 @@ width:1035px;
 	color:#555a78;
 }
 .info-contacto p {
-    font-size: 0.7em;
+    font-size: 0.8em;
 }
 .manten-contacto{
 	 position: relative;

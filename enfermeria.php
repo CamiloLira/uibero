@@ -26,10 +26,11 @@
 			<h4 class="gris-oscuro">Introducción</h4>
 			<br>
 			<p class="salud-introduccion-enfermeria gris-oscuro">
-¿Sabías que el 99,1% de los enfermeras(os) de la Universidad Iberoamericana encuentra trabajo al egresar? Si tienes vocación de servicio y deseas cursar una carrera con alta empleabilidad, entonces enfermería es tu opción. Gracias a su amplia formación, nuestros profesionales pueden desempeñarse en laboratorios, centros médicos, hospitales y centros de atención primaria de salud. A su vez, están preparados para manejar necesidades individuales y epidemiológicas.
-Las autoridades de la carrera de enfermería se han preocupado especialmente de fomentar la participación de los alumnos en congresos y encuentros médicos con el fin de hacer contactos y adquirir nuevas herramientas profesionales.
-La Universidad Iberoamericana posee diversos conveníos con municipalidades, centros médicos, hospitales y laboratorios de las regiones Metropolitana y de Valparaíso. Esta situación permite que el estudiante se enfrente a diversos escenarios que incrementan su versatilidad y experiencia. 
-			</p>
+¿Sabías que el 99,1% de las enfermeras(os) de la Universidad Iberoamericana encuentra trabajo al 
+
+egresar? Si tienes vocación de servicio y deseas cursar una carrera con alta empleabilidad, 
+
+entonces enfermería es tu opción.			</p>
 		</div>
 		
 		<div class="mover-informacion-enfermeria">
@@ -48,8 +49,11 @@ La Universidad Iberoamericana posee diversos conveníos con municipalidades, cen
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-Es un profesional comprometido, versátil y con alto sentido social. Capaz de participar en instancias interdisciplinarias y solucionar demandas de salud en cualquier nivel. De hecho, la valoración de sus pares en los diferentes campos clínicos posiciona a los enfermeras(os) de nuestra universidad en los más altos estándares. Las posibilidades de intercambio, prácticas en diferentes campos clínicos y la preponderancia que se le otorga a la experiencia docente de los estudiantes a través de las ayudantías, permiten que los profesionales puedan adaptarse a diversos escenarios. 
-	</p>
+Es un profesional comprometido, versátil y con alto sentido social. Capaz de participar en 
+
+instancias interdisciplinarias y solucionar demandas de salud en cualquier nivel. De hecho, la 
+
+valoración de sus pares en los diferentes campos clínicos posiciona a las enfermeras(os)	</p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -62,7 +66,7 @@ Es un profesional comprometido, versátil y con alto sentido social. Capaz de pa
 
 Los egresados de enfermería de la Universidad Iberoamericana, están preparados para trabajar en laboratorios, centros médicos, hospitales, CESFAM y centros de atención primaria de salud.
 		</p>
-		<a href="mallas/enfermeria.pdf" target="_blank" class="celeste descarga-malla-salud">DESCARGA TU MALLA<a/>
+		<a href="mallas/enfermeria.pdf" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

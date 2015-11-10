@@ -25,11 +25,9 @@
 		<div class="introduccion-fnaturales">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">
-¿Te gustaría especializarte en producción de alimentos? Ven e infórmat
-e sobre la carrera de Agronomía que imparte la Universidad Iberoamericana de 
+¿Te gustaría especializarte en producción de alimentos? Ven e infórmate sobre la carrera de Agronomía que imparte la Universidad Iberoamericana de 
 Ciencias y Tecnología. Aquí podrás adquirir sólidos conocimientos en suelo; riego y
- drenaje; fertilización; producción de cultivo y hortalizas y frutales; control de pl
- agas y enfermedades; y uso y conservación de recursos naturales.			</p>
+ drenaje; fertilización; producción de cultivo y hortalizas y frutales; control de plagas y enfermedades; y uso y conservación de recursos naturales.</p>
 		</div>
 		
 		<div class="informacion-directora-fnaturales">
@@ -59,7 +57,7 @@ El egresado de Agronomía es un  profesional de alta calificación, capaz de dis
   		<br>
   		<p class="gris-oscuro">
 El egresado de Agronomía es un  profesional de alta calificación, capaz de diseñar y optimizar los sistemas de producción agropecuarios, manteniendo un equilibrio ecológico y un compromiso social. Está preparado para rentabilizar económicamente bienes y servicios del rubro. </p>
-		<a href="mallas/agronomia.pdf" target="_blank" class="verde descarga-malla-fnaturales">DESCARGA TU MALLA<a/>
+		<a href="mallas/agronomia.pdf" target="_blank" class="verde descarga-malla-fnaturales">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

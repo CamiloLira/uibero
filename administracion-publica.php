@@ -25,18 +25,27 @@
 		<div class="introduccion-fingenieria">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="fingenieria-introduccion-admpublica gris-oscuro">
-		Los cambios que atraviesa Chile hacen urgente reformas profundas 
-		que se construyen con instituciones sólidas. Una administración pública moderna
-		 y eficiente es uno de los pilares fundamentales con que el país debe contar 
-		 para lograr este cometido.
-Actualmente, se exige que el Estado y su institucionalidad posean una alta capacidad 
-de gestión, basada en la modernización de sus procesos y la mejora constante de sus 
-acciones, para responder a la demanda de los ciudadanos, a través de servicios públicos eficientes,
- eficaces y transparentes. En este contexto, la carrera de Administración Pública en la Universidad 
-Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada gestión,
- a la altura de una administración pública moderna; modelos de trabajo de excelencia y calidad, 
- aportando valor y maximizando la eficiencia; y eficacia de los recursos públicos, con el fin de 
- mejorar la calidad del servicio y de los productos que pone a disposición de la sociedad. 
+		Los cambios que atraviesa Chile hacen urgente reformas profundas que se construyen con
+
+instituciones sólidas. Una administración pública moderna y eficiente son unos de los pilares 
+
+fundamentales con que el país debe contar para lograr este cometido. Actualmente, se exige que 
+
+el Estado y su institucionalidad posean una alta capacidad de gestión –basada en la modernización 
+
+de sus procesos y la mejora constante de sus acciones– para responder a la demanda de los 
+
+ciudadanos, a través de servicios públicos eficientes, eficaces y transparentes. En este contexto, la 
+
+carrera de Administración Pública en la Universidad Iberoamericana, busca el desarrollo de 
+
+personas que sean capaces de realizar una adecuada gestión, a la altura de una administración 
+
+pública moderna; modelos de trabajo de excelencia y calidad, aportando valor y maximizando la 
+
+eficiencia; y eficacia de los recursos públicos, con el fin de mejorar la calidad del servicio y de los 
+
+productos que pone a disposición de la sociedad.
 			</p>
 		</div>
 		
@@ -57,7 +66,23 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	El egresado de Administración Pública de la Universidad Iberoamericana de Ciencias y Tecnología será un profesional probo, que en su desempeño laboral buscará continuamente la excelencia, entendiendo que la ética y transparencia pública son los pilares fundamentales para lograr esta máxima. La integridad del mismo, traspasa la rectitud en su actuar, su sólida formación le permitirá desenvolverse de manera destacada en los distintos desafíos laborales que se le presenten, como también desarrollar y profundizar su vocación de servicio público. Además, este profesional adquirirá diversas herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos con eficiencia y efectividad. Entendemos que, principalmente, los administradores públicos, se desarrollarán laboralmente en el marco del Estado, no obstante, este profesional podrá desempeñarse de manera competente en el sector privado.
+	 El egresado de Administración Pública de la Universidad Iberoamericana de Ciencias y Tecnología 
+
+será un profesional probo, que en su desempeño laboral buscará continuamente la excelencia, 
+
+entendiendo que la ética y transparencia pública son pilares fundamentales para lograr esta 
+
+máxima. (Lo que estaba antes lo saqué) Su sólida formación le permitirá desenvolverse de manera 
+
+destacada en los distintos desafíos laborales que se le presenten, como también desarrollar y 
+
+profundizar su vocación de servicio público. Además, este profesional adquirirá (saqué “diversas”) 
+
+herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos 
+
+con eficiencia y efectividad. Por lo general los administradores públicos se desempeñan 
+
+laboralmente en el marco del Estado, pero también se pueden desarrollar en el sector privado.
 	 </p>
 	</div>
 
@@ -69,7 +94,7 @@ Iberoamericana, busca el desarrollo de personas capaces de realizar una adecuada
   		<br>
   		<p class="gris-oscuro">La Universidad Iberoamericana forma Administradores Públicos de alta calificación profesional, capaces de satisfacer los requerimientos de instituciones públicas modernas y de la empresa privada; especialmente en las áreas de administración, gestión de personas, habilidades directivas, ciencias políticas y políticas públicas. La empleabilidad de la carrera es sobre el 90% en el primer año de egreso y cercano al 95% en el segundo.
 		</p>
-		<a href="mallas/administracion-publica.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">DESCARGA TU MALLA<a/>
+		<a href="mallas/administracion-publica.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

@@ -7,7 +7,7 @@
 	<div class="bienvenidos">
 		<p class="azul">Bienvenido a ser lo que quieres</p>
 		<!-- link redes sociales -->
-		<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-admision"></div></a>
+		<a href="https://www.facebook.com/profile.php?id=100009985187718&fref=ts" target="_blank"><div class="facebook-barra-admision"></div></a>
 		<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-admision"></div></a>
 		<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-admision"></div></a>
 		<img class="admicionbarra" src="images/admicionbarra.png">
@@ -20,18 +20,18 @@
 	<div class="container-slider">
 		<div id="wowslider-container1">
 	<div class="ws_images"><ul>
-		<li><a href="#"><img src="data1/images/carrusel1.jpg" alt="admision" title="Admisión 2016" id="wows1_0"/></a></li>
-        <li><a href="#"><img src="data1/images/carrusel2.jpg" alt="Matriculas" title="Matriculas desde $0" id="wows1_0"/></a></li>
-		<li><a href="#"><img src="data1/images/carrusel3.jpg" alt="Convalidante" title="Extrangejero/Convalidante" id="wows1_1"/></a></li>
-		<li><a href="#"><img src="data1/images/carrusel4.jpg" alt="Que venga ese X porciento" title="Que venga ese X porciento" id="wows1_2"/></a></li>
-		<li><a href="#"><img src="data1/images/carrusel5.jpg" alt="Extranjero/Educación de Calidad" title="Educación de Calidad" id="wows1_3"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel1.jpg" alt="admision" title="El comienzo de lo que quieres ser, de aquí para adelante." id="wows1_0"/></a></li>
+        <li><a href="#"><img src="data1/images/carrusel2.jpg" alt="Matriculas" title="Un beneficio para ti, un alivio para tu bolsillo." id="wows1_0"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel3.jpg" alt="Convalidante" title="Vemos la educación como una oportunidad, no como una barrera." id="wows1_1"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel4.jpg" alt="Que venga ese X porciento" title=" Se trata de tu futuro, por eso creemos en ti." id="wows1_2"/></a></li>
+		<li><a href="#"><img src="data1/images/carrusel5.jpg" alt="26 anos" title="Nuestra trayectoria. Nuestro fundamento. Nuestra visión." id="wows1_3"/></a></li>
 	</ul></div>
 	<div class="ws_bullets"><div>
-		<a href="#" title="Admisión 2016"><span><img src="data1/tooltips/carrusel1.jpg" alt="Admisión 2016"/>1</span></a>
-		<a href="#" title="Matriculas desde $0"><span><img src="data1/tooltips/carrusel2.jpg" alt="Matriculas desde $0"/>2</span></a>
-        <a href="#" title="Extrangejero/Convalidante"><span><img src="data1/tooltips/carrusel3.jpg" alt="Extranjero/Convalidante"/>3</span></a>
-        <a href="#" title="Que venga ese X porciento"><span><img src="data1/tooltips/carrusel4.jpg" alt="Que venga ese X porciento"/>4</span></a>
-        <a href="#" title="Educación de Calidad"><span><img src="data1/tooltips/carrusel5.jpg" alt="Educación de Calidad" />5</span></a>
+		<a href="#" title="Admisión 2016"><span><img src="data1/tooltips/carrusel1.jpg" alt="El comienzo de lo que quieres ser, de aquí para adelante."/>1</span></a>
+		<a href="#" title="Matriculas desde $0"><span><img src="data1/tooltips/carrusel2.jpg" alt="Un beneficio para ti, un alivio para tu bolsillo."/>2</span></a>
+        <a href="#" title="Extrangejero/Convalidante"><span><img src="data1/tooltips/carrusel3.jpg" alt="Vemos la educación como una oportunidad, no como una barrera."/>3</span></a>
+        <a href="#" title="Que venga ese X porciento"><span><img src="data1/tooltips/carrusel4.jpg" alt=" Se trata de tu futuro, por eso creemos en ti."/>4</span></a>
+        <a href="#" title="Educación de Calidad"><span><img src="data1/tooltips/carrusel5.jpg" alt="Nuestra trayectoria. Nuestro fundamento. Nuestra visión." />5</span></a>
 	</div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
 	<div class="ws_shadow"></div>
 	</div>	
@@ -42,7 +42,7 @@
 	<!-- cierre Container Slider -->
 	<!-- barra facultadades -->
 	<figure>
-		<img class="barrafacultades" src="images/nuestras.png">
+		<img id="Nuestras" class="barrafacultades" src="images/nuestras.png">
 	</figure>
 	<!-- facultades -->
 	<div id="facultad" class="facultades">
@@ -129,11 +129,11 @@
 							<figure>
 								<img class="redes" src="images/redes.png" width="550px">
 							</figure>
-							<a href="https://www.facebook.com/uiberoamericanacl" target="_blank"><div class="facebook-barra-social"></div></a>
+							<a href="https://www.facebook.com/profile.php?id=100009985187718&fref=ts" target="_blank"><div class="facebook-barra-social"></div></a>
 							<a href="http://www.twitter.com/Admision_Uibero" target="_blank"><div class="twitter-barra-social"></div></a>
 							<a href="http://www.instagram.com/admisionuibero" target="_blank"><div class="instagram-barra-social"></div></a>
 
-							<div class="aqui-estamos">
+							<div id="Aqui" class="aqui-estamos">
 								<h2 class="blanco">Aquí estamos</h2>
 							</div>
 
@@ -153,11 +153,11 @@
 
 							<div class="info-contacto">
 								<h2 class="manten-contacto ">Mantente en Contacto</h2>
-								<h6>Dirección:</h6>
-								<p class="info-direccion gris">Padre Miguel de Olivares 1620, Santiago, Chile </p>
-								<p class="gris numeros">+56 2 23899123</p>
-								<p class="gris numeros">+56 2 2238 99121</p>
-								<p class="gris numeros">+56 2 2389 9003</p>
+								<h6 class="azul">Dirección:</h6>
+								<p class="info-direccion azul">Padre Miguel de Olivares 1620, Santiago, Chile </p>
+								<p class="azul numeros">+56 2 23899123</p>
+								<p class="azul numeros">+56 2 2238 99121</p>
+								<p class="azul numeros">+56 2 2389 9003</p>
 							</div>
 							
                                 <div id="formulario">

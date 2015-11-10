@@ -50,8 +50,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	El egresado de Administración Pública de la Universidad Iberoamericana de Ciencias y Tecnología será un profesional probo, que en su desempeño laboral buscará continuamente la excelencia, entendiendo que la ética y transparencia pública son los pilares fundamentales para lograr esta máxima. La integridad del mismo, traspasa la rectitud en su actuar, su sólida formación le permitirá desenvolverse de manera destacada en los distintos desafíos laborales que se le presenten, como también desarrollar y profundizar su vocación de servicio público. Además, este profesional adquirirá diversas herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos con eficiencia y efectividad. Entendemos que, principalmente, los administradores públicos, se desarrollarán laboralmente en el marco del Estado, no obstante, este profesional podrá desempeñarse de manera competente en el sector privado.
-	 </p>
+Es un profesional capacitado para desarrollar y ejecutar proyectos en el campo de la generación de nuevos productos alimentarios, y en el control y el aseguramiento de la calidad e inocuidad de los productos alimenticios. Junto con ello, está capacitado para dirigir y desarrollar proyectos tecnológicos.	 </p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -63,7 +62,7 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
   		<p class="gris-oscuro">
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Ingeniería de Ejecución en Industria Alimentaria, tras el primer año de titulación es de un 87,8%, y de un 88,6% en el segundo.
 Los egresados de nuestra universidad pueden desempeñarse en la generación de nuevos productos alimenticios, cooperando en los Departamentos de Desarrollo de las empresas. Un campo muy importante es el Control de Calidad y de Inocuidad de los Alimentos. Además, está capacitado para dirigir y desarrollar proyectos tecnológicos de mediana envergadura.		</p>
-		<a href="mallas/ing-alimentaria.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-alimentaria.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

@@ -26,10 +26,8 @@
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="fingenieria-introduccion gris-oscuro">
 				¿Te gusta innovar, emprender y 
-				liderar equipos de trabajo? Entonces ven e infó
-				rmate de la carrera de Ingeniería Comercial que imparte la Univ
-				ersidad Iberoamericana. Aquí podrás acceder a una carrera con orientación p
-				ráctica en negocios, donde aprenderás sobre finanzas, marketing y recursos humanos. 
+				liderar equipos de trabajo? Entonces ven e infórmate de la carrera de Ingeniería Comercial que imparte la Universidad Iberoamericana.
+				 Aquí podrás acceder a una carrera con orientación práctica en negocios, donde aprenderás sobre finanzas, marketing y recursos humanos. 
 				 Country Day College”, ubicado en la comuna de Peñalolén y 
 				 además mantiene convenios  con los Liceos Emblemáticos de la comuna de Santiago.
 			</p>
@@ -69,7 +67,7 @@
 El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de emprendimiento y competencias
  para desempeñarse en marketing, finanzas, recursos humanos, economía y tecnologías de la información.
 		</p>
-		<a href="mallas/ing-comercial.pdf" target="_blank" class="morado descarga-malla-fingenieria">DESCARGA TU MALLA<a/>
+		<a href="mallas/ing-comercial.pdf" target="_blank" class="morado descarga-malla-fingenieria">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

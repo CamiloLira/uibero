@@ -27,7 +27,7 @@
 			<br>
 			<p class="educacion-introduccion gris-oscuro">
 				La carrera de Pedagogía en Matemática y Física en la Universidad Iberoamericana de Ciencias y Tecnología está orientada a formar educadores con sólidos conocimientos conceptuales, disciplinares, didácticos y pedagógicos, que procuran el desarrollo integral de sus alumnos. 
-La formación ofrecida por la universidad tiene un fuerte componente práctico gracias a contar con un Centro de Experimentación, Investigación y Prácticas Pedagógicas propio.
+La formación ofrecida por la universidad tiene un fuerte componente práctico gracias a que cuenta con un Centro de Experimentación, Investigación y Prácticas Pedagógicas propio.
 			</p>
 		</div>
 		
@@ -46,8 +46,15 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 	<div class="perfil-egresado-educacion">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
-	 <p class="gris-oscuro">Profesional capacitado en la didáctica de las ciencias experimentales, así como en sus fundamentos teóricos orientando a lograr un aprendizaje de calidad en sus alumnos. Pueden desempeñarse en el ámbito educacional y con un alto nivel de empleabilidad en establecimientos de enseñanza Gral. Básica y Media, Universidades, Institutos Profesionales y Centros de Formación Técnica.
-.</p>
+	 <p class="gris-oscuro">Profesional capacitado en la didáctica de las ciencias experimentales, así como en sus 
+
+fundamentos teóricos orientando a lograr un aprendizaje de calidad en sus alumnos. Pueden 
+
+desempeñarse en el ámbito educacional y tiene un alto nivel de empleabilidad en 
+
+establecimientos de enseñanza Gral. Básica y Media, Universidades, Institutos Profesionales y 
+
+Centros de Formación Técnica.</p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -56,9 +63,12 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
   	<div class="campo-educacion">
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
-  		<p class="gris-oscuro">La empleabilidad de la carrera de Pedagogía en Matemática y Física (Pedagogía en Matemáticas y Computación) es de un 94% en el primer año tras la titulación y de un 93,7% en el segundo, según datos del Ministerio de Educación. 
+  		<p class="gris-oscuro">
+  		La empleabilidad de la carrera de Pedagogía en Matemática y Física es de un 94% en el primer año 
+
+tras la titulación y de un 93,7% en el segundo, según datos del Ministerio de Educación.
 		</p>
-		<a href="mallas/matematica.pdf" target="_blank" class="rojo descarga-malla-educacion">DESCARGA TU MALLA<a/>
+		<a href="mallas/matematica.pdf" target="_blank" class="rojo descarga-malla-educacion">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general matematica-->
