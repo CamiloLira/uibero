@@ -68,7 +68,7 @@ con docentes con una amplia y destacada experiencia laboral y académica.			</p>
   			Civil Electrónica se caracterizan por tener una empleabilidad de 93% tras el primer
   			 año de titulación, y de 96% en el segundo.
 		</p>
-		<a href="mallas/ing-civil-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieriacivil">CONOCE TU MALLA<a/>
+		<a href="mallas/ing-civil-electronica.pdf" download="Ingeniería-civil-electronica2016" target="_blank" class="morado descarga-malla-fingenieriacivil">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

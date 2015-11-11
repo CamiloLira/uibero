@@ -62,7 +62,7 @@ Es un profesional capacitado para desarrollar y ejecutar proyectos en el campo d
   		<p class="gris-oscuro">
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Ingeniería de Ejecución en Industria Alimentaria, tras el primer año de titulación es de un 87,8%, y de un 88,6% en el segundo.
 Los egresados de nuestra universidad pueden desempeñarse en la generación de nuevos productos alimenticios, cooperando en los Departamentos de Desarrollo de las empresas. Un campo muy importante es el Control de Calidad y de Inocuidad de los Alimentos. Además, está capacitado para dirigir y desarrollar proyectos tecnológicos de mediana envergadura.		</p>
-		<a href="mallas/ing-alimentaria.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
+		<a href="mallas/ing-alimentaria.pdf" download="Ing-Alimentaria2016" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

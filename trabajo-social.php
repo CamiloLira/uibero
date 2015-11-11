@@ -67,7 +67,7 @@ El trabajador social que egresa de nuestra universidad, destaca por su formació
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Sociales es de un 78,5% 
 
 en el primer año tras la titulación, y de un 87,7% en el segundo.		</p>
-		<a href="mallas/trabajo-social.pdf" target="_blank" class="amarillooscuro descarga-malla-fjuridica">CONOCE TU MALLA<a/>
+		<a href="mallas/trabajo-social.pdf"download="Trabajo-social2016" target="_blank" class="amarillooscuro descarga-malla-fjuridica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

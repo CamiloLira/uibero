@@ -72,7 +72,7 @@ aprendizajes de calidad.</p>
   		<br>
   		<p class="gris-oscuro">El egresado de Pedagogía en Inglés puede desempeñarse laboralmente en Establecimientos de Enseñanza General Básica y Media, Universidades, Institutos Profesionales y Centros de Formación Técnica.
 		</p>
-		<a href="mallas/ingles.pdf" target="_blank" class="rojo descarga-malla-educacion">CONOCE TU MALLA<a/>
+		<a href="mallas/ingles.pdf" download="Ingles2016" target="_blank" class="rojo descarga-malla-educacion">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

@@ -67,7 +67,7 @@
 El Ingeniero Comercial de la Universidad Iberoamericana posee alta capacidad de emprendimiento y competencias
  para desempeñarse en marketing, finanzas, recursos humanos, economía y tecnologías de la información.
 		</p>
-		<a href="mallas/ing-comercial.pdf" target="_blank" class="morado descarga-malla-fingenieria">CONOCE TU MALLA<a/>
+		<a href="mallas/ing-comercial.pdf" target="_blank" download="ingenieria-comerial2016" class="morado descarga-malla-fingenieria">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

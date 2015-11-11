@@ -58,7 +58,7 @@ El egresado de Ingeniería en Ejecución Electrónica es un profesional  formado
   		<br>
   		<p class="gris-oscuro">Los ingenieros de Ejecución Electrónica pueden trabajar administrando sistemas electrónicos en áreas de Telecomunicaciones o de Automatización y Robótica, en empresas de consultoría, servicios y ventas. También pueden desarrollar sus propios emprendimientos de éxito en el área de servicios electrónicos.
 		</p>
-		<a href="mallas/ing-ejec-electronica.pdf" target="_blank" class="morado descarga-malla-fingenieria-ejecucioncivil">CONOCE TU MALLA<a/>
+		<a href="mallas/ing-ejec-electronica.pdf" download="IngeneriaCivilElectronica2016" target="_blank" class="morado descarga-malla-fingenieria-ejecucioncivil">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

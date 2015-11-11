@@ -66,7 +66,7 @@ valoración de sus pares en los diferentes campos clínicos posiciona a las enfe
 
 Los egresados de enfermería de la Universidad Iberoamericana, están preparados para trabajar en laboratorios, centros médicos, hospitales, CESFAM y centros de atención primaria de salud.
 		</p>
-		<a href="mallas/enfermeria.pdf" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
+		<a href="mallas/enfermeria.pdf" download="Enfermeria2016" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

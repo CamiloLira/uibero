@@ -64,7 +64,7 @@ empresas privadas.
 Centros de investigación de universidades.
 Centros de investigación aplicada de empresas privadas.
 Docentes en las diferentes instituciones educacionales.		</p>
-		<a href="mallas/biotecnologia.pdf" target="_blank" class="verde descarga-malla-fnaturales">CONOCE TU MALLA<a/>
+		<a href="mallas/biotecnologia.pdf" target="_blank" download="Biotecnologia2016" class="verde descarga-malla-fnaturales">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general derecho-->

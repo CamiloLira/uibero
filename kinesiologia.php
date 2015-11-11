@@ -64,7 +64,7 @@ La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, dest
   			La empleabilidad según los registro del Mineduc son de 73% para el primer año y 87.8% para el segundo. 
 La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, destacando las especialidades de musculoesquelética y cardiorespiratoria de la atención primaria
 		</p>
-		<a href="mallas/kinesiologia.pdf" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
+		<a href="mallas/kinesiologia.pdf" download="Kinesiologia2016" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general ingles-->

@@ -51,8 +51,8 @@
 
 		<div class="facultad-educacion">
 			<img src="images/rojo.png">
-			<a href=""><p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
-				Y EDUCACIÓN</p><a/>
+			<p class="rojo titulos-facultad">FACULTAD DE CIENCIAS 
+				Y EDUCACIÓN</p>
 				<div class="mover-carreras-uno">
 					<a href="ingles.php" target="_blank"><p class="carreras-facultades educacion">Pedagogía en Inglés</p></a>
 					<a href="matematica.php" target="_blank"><p class="carreras-facultades educacion">Pedagogía en Matemáticas y Fisica</p></a>

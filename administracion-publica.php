@@ -94,7 +94,7 @@ laboralmente en el marco del Estado, pero también se pueden desarrollar en el s
   		<br>
   		<p class="gris-oscuro">La Universidad Iberoamericana forma Administradores Públicos de alta calificación profesional, capaces de satisfacer los requerimientos de instituciones públicas modernas y de la empresa privada; especialmente en las áreas de administración, gestión de personas, habilidades directivas, ciencias políticas y políticas públicas. La empleabilidad de la carrera es sobre el 90% en el primer año de egreso y cercano al 95% en el segundo.
 		</p>
-		<a href="mallas/administracion-publica.pdf" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
+		<a href="mallas/administracion-publica.pdf" download="Administracion-publica2016" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->
