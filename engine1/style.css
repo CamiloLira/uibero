@@ -277,10 +277,10 @@
 	position:absolute;
 	display:block;
 	font-family:'KeepCalm-Medium';
-	font: 3.3em KeepCalm-Medium;
+	font: 3.0em KeepCalm-Medium;
 	bottom: 0.7em;
 	left: 0;
-	margin-right: 0.4em; 
+	margin-right: 0.3em; 
 	color:#fff;
 	z-index: 50;
 	
@@ -291,10 +291,10 @@
 }
 #wowslider-container1 .ws-title div,#wowslider-container1 .ws-title span{
 	display:inline-block;
-	padding:3em 1em 0em 9em;
+	padding:1.5em 1em 1.5em 0.7em;
 	width:100%;
-	margin-bottom:-30px;
-	height:100px;
+	margin-bottom:-19px;
+	height:10%;
 	background:rgba(0, 0, 0, 0.5);
 }
 #wowslider-container1 .ws-title div{
