@@ -212,8 +212,10 @@ a {
     margin: 0 auto;
     width: 90%;
     height: 448px;
-  pointer-events: none;
+}
 
+.container-slider a {
+	cursor:default;
 }
 
 .facultades{
