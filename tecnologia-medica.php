@@ -65,7 +65,7 @@ ejecutar y evaluar exámenes, métodos, técnicas y procedimientos en los cuales
   		<p class="gris-oscuro">
 El tecnólogo médico de la Universidad Iberoamericana posee competencias que 
 le permiten desempeñarse en ámbitos asistenciales, de investigación, administración; 
-en docencia; y gestión en diversas instituciones públicas o privadas de la salud. 
+como también en docencia y gestión en diversas instituciones públicas o privadas de la salud. 
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Tecnología Médica es
  de un 95,8% en el primer año tras la titulación, y de un 96,7% en el segundo.
 		</p>

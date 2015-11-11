@@ -28,8 +28,7 @@
 				¿Te gusta innovar, emprender y 
 				liderar equipos de trabajo? Entonces ven e infórmate de la carrera de Ingeniería Comercial que imparte la Universidad Iberoamericana.
 				 Aquí podrás acceder a una carrera con orientación práctica en negocios, donde aprenderás sobre finanzas, marketing y recursos humanos. 
-				 Country Day College”, ubicado en la comuna de Peñalolén y 
-				 además mantiene convenios  con los Liceos Emblemáticos de la comuna de Santiago.
+				 
 			</p>
 		</div>
 		

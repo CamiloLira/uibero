@@ -26,8 +26,7 @@
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="trabajosocial-introduccion gris-oscuro">
 		
-La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con u
-n sello distintivo, que es la formación personalizada de sus estudiantes: un estilo
+La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sello distintivo, que es la formación personalizada de sus estudiantes: un estilo
  enfocado en formar profesionales críticos y responsables en el marco de la intervención social.
   Junto con ello, a los alumnos se les realiza una preparación teórica y práctica para una pronta vinculación 
   con la realidad laboral.
@@ -64,7 +63,7 @@ El trabajador social que egresa de nuestra universidad, destaca por su formació
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">
-De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Sociales es de un 78,5% 
+De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Trabajo Social es de un 78,5% 
 
 en el primer año tras la titulación, y de un 87,7% en el segundo.
 El trabajador social formado por la Universidad Iberoamericana, por su amplia formación en Ciencias Sociales y Jurídicas, está capacitado para desempeñarse en organismos del Poder Judicial, municipios, organizaciones de gobierno, instituciones previsionales y ONGs.		</p>

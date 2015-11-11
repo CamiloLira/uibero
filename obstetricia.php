@@ -27,7 +27,7 @@
 			<p class="salud-introduccion-obstetricia gris-oscuro">
 
 ¿Sabías que la Matronería lleva 181 años en Chile? Nuestro país fue el tercero en implementar esta carrera, después de Japón e Inglaterra. Obstetricia y Puericultura en la Universidad Iberoamericana de Ciencias y Tecnología es una carrera que ofrece una formación integral, preparando a los alumnos tanto en cuestiones clínicas como de gestión. 
-
+<br>
 ¿Qué hace actualmente un matrón o una matrona? Es, entre otras cosas, el o la encargada de entregar la atención integral a la mujer durante toda su vida en materias de sexualidad en temas como la planificación familiar, la prevención de enfermedades sexuales y la detección de movilidad benigna o maligna ginecológica. Asimismo, está a cargo de la atención a la madre en el momento del parto y postparto y del cuidado general del recién nacido. 
 			</p>
 		</div>

@@ -34,7 +34,7 @@ interesado en tener una formación profesional en esta disciplina, entonces la c
 
 de Ejecución en Viticultura y Enología, que imparte la Universidad Iberoamericana, es la adecuada 
 
-para ti. 
+para ti. <br><br>
 La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido en cada ramo a través de laboratorios y talleres que se desarrollan desde el primer semestre. La formación hará a los egresados capaces de intervenir en la producción, manejo y gestión de los recursos agronómicos de la viticultura y la enología, además de la formación práctica en el área administrativa predial; operar con éxito un viñedo y el proceso de elaboración en bodega; desenvolverse en empresas productoras de uvas vinífera y en bodegas elaboradoras de vino; ejercer docencia, investigación o consultoría; y manejar empresas propias del rubro.
 			</p>
 		</div>
@@ -55,8 +55,7 @@ La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-Es un profesional capacitado en las áreas científico tecnológicas y de gestión productiva, que puede diseñar estrategias y tecnologías en la industria vitivinícola, con énfasis en el cultivo de la uva vinífera de c
-alidad, y en la enología para producir y elaborar vinos.</p>
+Es un profesional capacitado en las áreas científico tecnológicas y de gestión productiva, que puede diseñar estrategias y tecnologías en la industria vitivinícola, con énfasis en el cultivo de la uva vinífera de calidad, y en la enología para producir y elaborar vinos.</p>
 	</div>
 
 <!-- cajaseccion 2 -->

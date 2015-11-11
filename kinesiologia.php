@@ -26,8 +26,18 @@
 			<br>
 			<p class="salud-introduccion-kinesiologia gris-oscuro">
 
-¿Sabes qué es el CAR? Es el Centro de Alto Rendimiento, encargado, entre otras cosas, de consolidar las estructuras para que el deporte de alto rendimiento chileno se transforme en una potencia deportiva regional y continental. ¿Sabías que el Director de Área Kinesiología del CAR es docente de la Universidad Iberoamericana? Darío Correa, Director de Área Kinesiología del Centro de Alto Rendimiento, es profesor de planta de la carrera de Kinesiología de nuestra casa de estudios.
-La carrera de Kinesiología en la Universidad Iberoamericana está orientada al análisis y el estudio del movimiento humano como expresión de la vida, con un fuerte enfoque práctico. La formación está centrada en el área cardiorrespiratoria, traumatológica y neurológica, además de incorporar la legislación que regula a la profesión y al sector salud, lo que permite el libre ejercicio de la profesión y el desempeño en los diferentes niveles de prevención y atención en el área pública y privada, dando respuestas a las políticas ministeriales del Estado de Chile.
+¿Sabes qué es el CAR? Es el Centro de Alto Rendimiento, encargado, entre otras cosas, de consolidar 
+las estructuras para que el deporte de alto rendimiento chileno se transforme en una potencia deportiva 
+regional y continental. ¿Sabías que el Director de Área Kinesiología del CAR es docente de la Universidad 
+Iberoamericana? Darío Correa, Director de Área Kinesiología del Centro de Alto Rendimiento, es profesor de 
+planta de la carrera de Kinesiología de nuestra casa de estudios.
+<br>
+La carrera de Kinesiología en la Universidad Iberoamericana está orientada al análisis 
+y el estudio del movimiento humano como expresión de la vida, con un fuerte enfoque práctico. 
+La formación está centrada en el área cardiorrespiratoria, traumatológica y neurológica. Además 
+de incorporar la legislación que regula a la profesión y al sector salud, lo que permite el libre 
+ejercicio de la profesión y el desempeño en los diferentes niveles de prevención y atención en el
+ área pública y privada, dando respuestas a las políticas ministeriales del Estado de Chile.
 
 			</p>
 		</div>
@@ -48,7 +58,6 @@ La carrera de Kinesiología en la Universidad Iberoamericana está orientada al 
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-La empleabilidad según los registro del Mineduc son de 73% para el primer año y 87.8% para el segundo. 
 La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, destacando las especialidades de musculoesquelética y cardiorespiratoria de la atención primaria.
 
 	</p>
@@ -62,7 +71,7 @@ La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, dest
   		<br>
   		<p class="gris-oscuro">
   			La empleabilidad según los registro del Mineduc son de 73% para el primer año y 87.8% para el segundo. 
-La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, destacando las especialidades de musculoesquelética y cardiorespiratoria de la atención primaria
+
 		</p>
 		<a href="mallas/kinesiologia.pdf" download="Kinesiologia2016" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
   	</div>

@@ -25,7 +25,7 @@
 		  <h4 class="gris-oscuro">Introducción</h4>
 			<br>
 			<p class="salud-introduccion-fonoaudiologia gris-oscuro">
-¿Qué hace un fonoaudiólogo? Es un profesional de la salud que realiza diversas acciones en el campo de la comunicación humana, entre ellas: prevención, detección, evaluación y diagnóstico de las funciones simbólico-lingüísticas y de comunicación en individuos o grupos. Además, estos profesionales se encargan de la habilitación y rehabilitación de todo tipo de alteraciones funcionales y estructurales, las cuales puedan afectar las capacidades comunicativas y de expresión de los pacientes. 
+¿Qué hace un fonoaudiólogo? Es un profesional de la salud que realiza diversas acciones en el campo de la comunicación humana, entre ellas: prevención, detección, evaluación y diagnóstico de las funciones simbólico-lingüísticas y de comunicación en individuos o grupos. Además, se encargan de la habilitación y rehabilitación de todo tipo de alteraciones funcionales y estructurales, las cuales puedan afectar las capacidades comunicativas y de expresión de los pacientes. 
 Si te interesan campos como la comunicación y la salud ven e infórmate sobre la carrera de Fonoaudiología en la Universidad Iberoamericana.  
 			</p>
 		</div>
@@ -58,7 +58,7 @@ El egresado puede desarrollar intervenciones terapéuticas, educativas y de ases
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">
-  			La empleabilidad de la carrera, según los datos del Ministerio de Educación, es de 86,6% para el primer año luego de la titulación, y de 94,1% para el segundo año.
+  			La empleabilidad de la carrera, según los datos del Ministerio de Educación, es de 86,6% para el primer año luego de la titulación, y de 94,1% para el segundo.
 El fonoaudiólogo se desempeña en los ámbitos de Salud, Educación, Arte e Industria, contribuyendo así a mejorar la calidad de vida de las personas y de la sociedad en su conjunto. 
 		</p>
 		<a href="mallas/fonoaudiologia.pdf" download="Fonoaudiología2016" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>

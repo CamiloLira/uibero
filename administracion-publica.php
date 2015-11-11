@@ -72,13 +72,7 @@ será un profesional probo, que en su desempeño laboral buscará continuamente 
 
 entendiendo que la ética y transparencia pública son pilares fundamentales para lograr esta 
 
-máxima. (Lo que estaba antes lo saqué) Su sólida formación le permitirá desenvolverse de manera 
-
-destacada en los distintos desafíos laborales que se le presenten, como también desarrollar y 
-
-profundizar su vocación de servicio público. Además, este profesional adquirirá (saqué “diversas”) 
-
-herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos 
+máxima. Herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos 
 
 con eficiencia y efectividad. Por lo general los administradores públicos se desempeñan 
 
