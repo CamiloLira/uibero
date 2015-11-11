@@ -194,6 +194,36 @@ font-size: 17px;
     letter-spacing: 2px;
 }
 
+/*mate*/
 
+.info-general-educacion-matematica{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -194px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-educacion-matematica h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-educacion-matematica p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
+.descarga-malla-educacion-matematica {
+    
+   letter-spacing: 6px;
+    font-size: 31px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 142px;
+
+}
 
 /*FACULTAD ingles*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/

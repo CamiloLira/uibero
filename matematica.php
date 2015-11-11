@@ -68,11 +68,11 @@ Centros de Formación Técnica.</p>
 
 tras la titulación y de un 93,7% en el segundo, según datos del Ministerio de Educación.
 		</p>
-		<a href="mallas/matematica.pdf" download="Matematica2016" target="_blank" class="rojo descarga-malla-educacion">CONOCE TU MALLA<a/>
+		<a href="mallas/matematica.pdf" download="Matematica2016" target="_blank" class="rojo descarga-malla-educacion-matematica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general matematica-->
-  		<div class="info-general-educacion">
+  		<div class="info-general-educacion-matematica">
   				<h4 class="gris-oscuro">Información General</h4>
   					<br>
 					<p class="gris-oscuro">Título Profesional </p>
