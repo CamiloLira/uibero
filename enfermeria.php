@@ -30,7 +30,10 @@
 
 egresar? Si tienes vocación de servicio y deseas cursar una carrera con alta empleabilidad, 
 
-entonces enfermería es tu opción.			</p>
+entonces enfermería es tu opción.
+Las autoridades de la carrera de enfermería se han preocupado especialmente de fomentar la participación de los alumnos en congresos y encuentros médicos con el fin de hacer contactos y adquirir nuevas herramientas profesionales.
+La Universidad Iberoamericana posee diversos conveníos con municipalidades, centros médicos, hospitales y laboratorios de las regiones Metropolitana y de Valparaíso. Esta situación permite que el estudiante se enfrente a diversos escenarios que incrementan su versatilidad y experiencia. 
+			</p>
 		</div>
 		
 		<div class="mover-informacion-enfermeria">
@@ -53,7 +56,9 @@ Es un profesional comprometido, versátil y con alto sentido social. Capaz de pa
 
 instancias interdisciplinarias y solucionar demandas de salud en cualquier nivel. De hecho, la 
 
-valoración de sus pares en los diferentes campos clínicos posiciona a las enfermeras(os)	</p>
+valoración de sus pares en los diferentes campos clínicos posiciona a las enfermeras(os)
+de nuestra universidad en los más altos estándares. Las posibilidades de intercambio, prácticas en diferentes campos clínicos y la preponderancia que se le otorga a la experiencia docente de los estudiantes a través de las ayudantías, permiten que los profesionales puedan adaptarse a diversos escenarios. 
+	</p>
 	</div>
 
 <!-- cajaseccion 2 -->

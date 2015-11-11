@@ -222,5 +222,36 @@ font-size: 17px;
 }
 
 
+/*trabajos socia*/
+
+.info-general-fjuridica-trabajosocial {
+    width: 30%;
+    height: 100%;
+    position: relative;
+    top: -164px;
+    left: 70%;
+    text-align: right;}
+
+
+.info-general-fjuridica-trabajosocial{
+   
+    width: 30%;
+        height: 100%;
+    position: relative;
+    top: -346px;
+    left: 70%;
+    text-align: right;
+}
+
+.info-general-fjuridica-trabajosocial h4{
+      font-size: 18px;
+    letter-spacing: 4px;
+}
+.info-general-fjuridica-trabajosocial p {
+ font-size: 12.9px;
+    line-height: 27px;
+    letter-spacing: 2px;
+}
+
 
 /*FACULTAD derecho*/ /*CADA FACULTAD TIENE DISTINTOS TAMAÑOS SU INFORMACION*/
