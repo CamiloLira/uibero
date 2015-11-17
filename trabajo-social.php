@@ -38,10 +38,10 @@ La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sell
 		<div class="informacion-directora-fjuridica">
 			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/trabajo-social.jpg">
-			<h4 class="director-carrera-fjuridica gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fjuridica gris-oscuro">Director de Escuela </h4>
 			<p class="gris-oscuro">Mg. Edmundo Mercado Cabrera</p>
 			<p class="gris-oscuro">E-mail: edmundo.mercado@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899095</p>
 
 		</div>
 
@@ -52,8 +52,15 @@ La carrera de Trabajo Social en la Universidad Iberoamericana cuenta con un sell
 	 <br>
 	 <p class="gris-oscuro">
 
-El trabajador social que egresa de nuestra universidad, destaca por su formación en Ciencias Sociales y Jurídicas, lo que le abre las puertas para trabajar en organismos del Poder Judicial, organizaciones de Gobierno y municipios. También está capacitado para trabajar en instituciones previsionales, organizaciones de prevención social y ONGs, entre otras.
-	 </p>
+El egresado de Trabajo Social de la Universidad Iberoamericana de Ciencias y Tecnología será un 
+
+profesional capaz de trabajar en equipo, solidario, proactivo y con un afán  permanente de 
+
+alcanzar la excelencia académica en un ambiente estimulante y cordial,   adaptándose  a las 
+
+cambiantes condiciones de su campo laboral: familia,  organismos del gobierno central y local, 
+
+interculturalidad, grupos vulnerables, seguridad social, políticas y/o proyectos sociales.	 </p>
 	</div>
 
 <!-- cajaseccion 2 -->

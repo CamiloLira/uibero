@@ -34,8 +34,8 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 		<div class="informacion-directora-educacion">
 			<img class="acredita-educacion" src="images/3acredita.png">
 			<img src="images/jefes-carreras/educacion.jpg">
-			<h4 class="director-carrera-educacion gris-oscuro">Directora de Carrera </h4>
-			<p class="gris-oscuro">Laura Millán Huidobro</p>
+			<h4 class="director-carrera-educacion gris-oscuro">Jefa de Carrera</h4>
+			<p class="gris-oscuro">Prof.Laura Millán Huidobro</p>
 			<p class="gris-oscuro">E-mail: laura.millan@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9107</p>
 
@@ -46,15 +46,19 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 	<div class="perfil-egresado-educacion">
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
-	 <p class="gris-oscuro">Profesional capacitado en la didáctica de las ciencias experimentales, así como en sus 
+	 <p class="gris-oscuro">El egresado de Pedagogía en Matemática y Física de la Universidad Iberoamericana de Ciencias y 
 
-fundamentos teóricos orientando a lograr un aprendizaje de calidad en sus alumnos. Pueden 
+Tecnología será un profesional con una sólida formación valórica, demostrando competencias 
 
-desempeñarse en el ámbito educacional y tiene un alto nivel de empleabilidad en 
+profesionales tanto en el área de la pedagogía como de su especialidad, que le permitan 
 
-establecimientos de enseñanza Gral. Básica y Media, Universidades, Institutos Profesionales y 
+desarrollarse en el ámbito laboral nacional, con conocimientos siempre actualizados para una 
 
-Centros de Formación Técnica.</p>
+sólida formación de sus estudiantes. Además, debe poseer competencias comunicacionales, 
+
+metodológicas, evaluativas y culturales que le permitan crear ambientes educativos para facilitar 
+
+el aprendizaje de sus estudiantes.</p>
 	</div>
 
 <!-- cajaseccion 2 -->

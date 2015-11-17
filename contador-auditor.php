@@ -40,10 +40,10 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/contador.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela</h4>
 			<p class="gris-oscuro">Mg. Pedro Rojas Palma</p>
 			<p class="gris-oscuro">E-mail: pedro.rojas@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899064</p>
 
 		</div>
 
@@ -53,14 +53,19 @@ Además de 22 años de experiencia, ¿sabías que la carrera de Contador Auditor
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	El egresado formado en nuestra casa de estudios, está 
-	 	capacitado para desempeñarse eficientemente en empresas e 
-	 	instituciones insertas en un mundo globalizado y competitivo. Además,
-	 	 cuenta con los conocimientos, habilidades y competencias necesarias para 
-	 	 desempeñarse en el sector privado y público, ya sea en el área contable nacional 
-	 	 e internacional; en la de auditoría, tanto financiera como de gestión de empresas; 
-	 	 y en la tributaria, satisfaciendo los requerimientos de información de las organizaciones 
-	 	 y las personas en el cumplimiento de la legislación tributaria y el control operativo de las mismas.
+El egresado de Contador Auditor de la Universidad Iberoamericana de Ciencias y Tecnología 
+
+estará capacitado para diseñar, preparar y analizar sistemas de información financiera, contable y 
+
+tributaria, utilizando normas vigentes que permitan a los usuarios la obtención de información 
+
+objetiva y oportuna para la administración, control y toma de decisiones. El Contador Auditor 
+
+cuenta en su formación con el desarrollo de competencias genéricas que apoyan a su desempeño, 
+
+identificándose las de liderazgo y trabajo en equipo, habilidades gerenciales, emprendimiento, 
+
+comportamiento social y habilidades comunicacionales.
 
 	 </p>
 	</div>

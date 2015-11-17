@@ -42,7 +42,7 @@ La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido
 		<div class="informacion-directora-fnaturales">
 			<!--<img class="acredita-fnaturales" src="images/4acreditacion.jpg">-->
 			<img src="images/jefes-carreras/ing-viticultura.jpg">
-			<h4 class="director-carrera-fnaturales gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fnaturales gris-oscuro">Jefa de Carrera</h4>
 			<p class="gris-oscuro">Ing. Marcial Mena Lobos</p>
 			<p class="gris-oscuro">E-mail: marcial.mena@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9088</p>
@@ -55,7 +55,15 @@ La carrera tiene un fuerte componente práctico que permite aplicar lo aprendido
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-Es un profesional capacitado en las áreas científico tecnológicas y de gestión productiva, que puede diseñar estrategias y tecnologías en la industria vitivinícola, con énfasis en el cultivo de la uva vinífera de calidad, y en la enología para producir y elaborar vinos.</p>
+El egresado de Ingeniería de Ejecución en Viticultura y Enología de la Universidad Iberoamericana 
+
+de Ciencias y Tecnología será un profesional idóneo formado en las áreas científico-tecnológicas y 
+
+de gestión productiva, relacionadas con los sectores vitivinícolas, con énfasis en el cultivo de la uva 
+
+vinífera; competente para el manejo y producción de uva de calidad, y la enología, de manera que 
+
+sea capaz de producir y elaborar vinos acorde a las exigencias de los mercados internacionales.</p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -79,7 +87,7 @@ Atendiendo al amplio campo laboral que presenta el mundo vitivinícola, es que l
 					<p class="gris-oscuro">Grado Académico</p>
 					<p class="gris-oscuro">Licenciado en Viticultura y Enología</p>
 					<p class="gris-oscuro">Duración</p>
-					<p class="gris-oscuro">10 semestres</p>
+					<p class="gris-oscuro">8 semestres</p>
 					<br>
 					<p class="gris-oscuro">Régimen: Vespertino</p>
   		</div>

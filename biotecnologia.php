@@ -27,14 +27,14 @@
 			<p class="ciencias-introduccion gris-oscuro">
 Si te interesa el mundo de la ciencia y la biotecnología, así como la investigación, ven e infórmate sobre la carrera de Biotecnología en la Universidad Iberoamericana, una de las más antiguas del país. ¡Está acreditada por 4 años!<br>
 ¿Qué es Biotecnología? Biotecnología es una carrera que entrega una amplia y a la vez sólida formación científica con especial énfasis en la utilización de tecnologías para el desarrollo de las ciencias aplicadas. 
-La carrera enfatiza la metodología de “aprender haciendo”, con un alto porcentaje de actividades prácticas, para lo cual se estimula a los estudiantes a participar activamente en los procesos de investigación que desarrolla la Escuela y Facultad. Esto es, a través de asignaturas de unidades de investigación o en líneas de investigación a través de las cuales pueden acceder a desarrollar sus trabajos de titulación.
+La carrera enfatiza la metodología de “aprender haciendo”, a través de actividades prácticas que se realizan en la Escuela y Facultad, como también por medio de asignaturas de unidades de investigación o lineas de investigación con las que pueden acceder a sus trabajos de titulación.   
 			</p>
 		</div>
 		
 		<div class="informacion-directora-fnaturales">
 			<img class="acredita-fnaturales" src="images/4acreditacion.jpg">
 			<img src="images/jefes-carreras/biotecnologia.jpg">
-			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Dra. Claudia Núñez González</p>
 			<p class="gris-oscuro">E-mail: claudia.nunez@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 23899188</p>
@@ -47,7 +47,21 @@ La carrera enfatiza la metodología de “aprender haciendo”, con un alto porc
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-		Profesional capacitado para aplicar las ciencias, la informática, la economía y otras disciplinas en la investigación y gestión tecnológica, tanto en la empresa pública como privada. La formación de nuestros egresados es rigurosa, lo que los ha llevado a posicionarse en los principales laboratorios e industrias nacionales e internacionales.
+	El egresado de Biotecnología de la Universidad Iberoamericana de Ciencias y Tecnología será un 
+
+profesional que posee competencias profundas en Biotecnología con conocimientos generales en 
+
+un amplio espectro más allá de su especialización, con una sólida base científica, tecnológica y 
+
+ética; con capacidades de conocimiento, comprensión e integración de los hechos esenciales, 
+
+conceptos, principios y teorías relacionadas con las áreas de las ciencias básicas y aplicadas, la 
+
+informática, la economía y otras ciencias afines a la biotecnología, así como de las otras disciplinas 
+
+derivadas de éstas, que son fundamentales para este profesional, en su desempeño en las áreas 
+
+de gestión tecnológica y la investigación tanto en la empresa pública como privada.
 	 </p>
 	</div>
 

@@ -40,8 +40,8 @@
 		<div class="informacion-directora-educacion">
 			<img class="acredita-educacion" src="images/3acredita.png">
 			<img src="images/jefes-carreras/educacion.jpg">
-			<h4 class="director-carrera-educacion gris-oscuro">Directora de Carrera </h4>
-			<p class="gris-oscuro">Laura Millán Huidobro</p>
+			<h4 class="director-carrera-educacion gris-oscuro">Jefa de Carrera</h4>
+			<p class="gris-oscuro">Prof.Laura Millán Huidobro</p>
 			<p class="gris-oscuro">E-mail: laura.millan@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9107</p>
 
@@ -53,15 +53,17 @@
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	El egresado de la Universidad Iberoamericana, será un profesional con un elevado manejo 
+	 El egresado de Pedagogía en Inglés de la Universidad Iberoamericana de Ciencias y Tecnología se 
 
-comunicativo y descriptivo de la lengua inglesa. Posee una práctica flexible de marcos 
+forma de acuerdo con los lineamientos holísticos y valores que ésta promueve, al conocimiento y 
 
-conceptuales, procedimientos, estrategias pedagógicas y didácticas que, junto a un compromiso 
+dominio del saber de su especialidad y a las competencias pedagógicas, lingüísticas y tecnológicas 
 
-personal y profesional, le permitirán crear las condiciones para que sus alumnos logren 
+propias de su área, con una sólida formación íntegral, capaz de dar respuesta a las exigencias 
 
-aprendizajes de calidad.</p>
+educativas del país y al constante cambio en la sociedad del conocimiento propia de un mundo 
+
+globalizado.</p>
 	</div>
 
 <!-- cajaseccion 2 -->

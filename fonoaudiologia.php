@@ -33,7 +33,7 @@ Si te interesan campos como la comunicación y la salud ven e infórmate sobre l
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/fonoaudiologia.jpg">
-			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-salud gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Mg. María Eliana Gallegos</p>
 			<p class="gris-oscuro">E-mail: maria.gallegos@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9178</p>
@@ -47,8 +47,21 @@ Si te interesan campos como la comunicación y la salud ven e infórmate sobre l
 	 <br>
 	 <p class="gris-oscuro">
  
-El fonoaudiólogo de la Universidad Iberoamericana es un profesional con gran sensibilidad social y un marcado perfil teórico práctico centrado en la comunicación humana y en el desarrollo de las habilidades necesarias para prevenir, diagnosticar y rehabilitar cualquier dificultad que impida una óptima comunicación, desde un enfoque con base en la neurobiología, la psicología y la lingüistica.  
-El egresado puede desarrollar intervenciones terapéuticas, educativas y de asesoría en centros de salud, educativos y culturales. 	</p>
+El egresado de Fonoaudiología de la Universidad Iberoamericana de Ciencias y Tecnología como 
+
+profesional de la Salud y Educación para la diversidad, realiza diversas acciones en el campo de la 
+
+comunicación humana normal y patológica; como son: promoción; prevención; evaluación y 
+
+diagnóstico del estado de las funciones simbólico-lingüísticas y de la competencia  comunicativa 
+
+en individuos o grupos. Asimismo; planifica; coordina y realiza la intervención terapéutica con 
+
+fines de recuperación y/o de rehabilitación en aquellas personas, de diferentes grupos etarios, 
+
+cuyo bienestar se ve quebrantado como consecuencia de factores que comprometen su salud 
+
+comunicativa.	</p>
 	</div>
 
 <!-- cajaseccion 2 -->

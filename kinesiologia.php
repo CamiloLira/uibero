@@ -32,12 +32,7 @@ regional y continental. ¿Sabías que el Director de Área Kinesiología del CAR
 Iberoamericana? Darío Correa, Director de Área Kinesiología del Centro de Alto Rendimiento, es profesor de 
 planta de la carrera de Kinesiología de nuestra casa de estudios.
 <br>
-La carrera de Kinesiología en la Universidad Iberoamericana está orientada al análisis 
-y el estudio del movimiento humano como expresión de la vida, con un fuerte enfoque práctico. 
-La formación está centrada en el área cardiorrespiratoria, traumatológica y neurológica. Además 
-de incorporar la legislación que regula a la profesión y al sector salud, lo que permite el libre 
-ejercicio de la profesión y el desempeño en los diferentes niveles de prevención y atención en el
- área pública y privada, dando respuestas a las políticas ministeriales del Estado de Chile.
+
 
 			</p>
 		</div>
@@ -45,10 +40,10 @@ ejercicio de la profesión y el desempeño en los diferentes niveles de prevenci
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/kine.jpg">
-			<h4 class="director-carrera-salud gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-salud gris-oscuro">Director de Escuela </h4>
 			<p class="gris-oscuro">Prof. Marco San Martín Avello</p>
 			<p class="gris-oscuro">E-mail: marco.sanmartin@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 2389 9008</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9143</p>
 
 		</div>
 
@@ -58,8 +53,25 @@ ejercicio de la profesión y el desempeño en los diferentes niveles de prevenci
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, destacando las especialidades de musculoesquelética y cardiorespiratoria de la atención primaria.
+El egresado de Kinesiología de la Universidad Iberoamericana de Ciencias y Tecnología será un 
 
+profesional con una mirada reflexiva del entorno social, adoptando conductas de respeto por el 
+
+ser humano como individuo, quien estudiará y aplicará el movimiento humano con fines 
+
+terapéuticos. Desde esa perspectiva participará en salud en Promoción y prevención, utilizando 
+
+herramientas de gestión con las que contribuirá a la solución de problemas sanitarios relevantes a 
+
+través de estrategias de educación comunitaria; Recuperación y Rehabilitación, emitiendo un 
+
+Diagnóstico Kinesiológico basado en el razonamiento clínico, aplicará métodos y procedimientos 
+
+Kinésico Terapéuticos  como herramientas de tratamiento mediante los cuales logrará la mejoría 
+
+del individuo; Investigación, desarrollando nuevo conocimiento en la profesión mediante la 
+
+aplicación de la metodología científica.
 	</p>
 	</div>
 
@@ -70,8 +82,7 @@ La tendencia de nuestros ex alumnos es la de trabajar en el sector privado, dest
   		<h4 class="gris-oscuro">Empleabilidad / Campo Laboral</h4>
   		<br>
   		<p class="gris-oscuro">
-  			La empleabilidad según los registro del Mineduc son de 73% para el primer año y 87.8% para el segundo. 
-
+       La tendencia muestra que nuestros ex alumnos se desempeñan en el sector privado, destacando la especialidad musculoesquelética y cardiorespiratoria y la atención primaria. La empleabilidad según los registros del Mineduc son de 73% para el primer año y 87.8% para el segundo
 		</p>
 		<a href="mallas/kinesiologia.pdf" download="Kinesiologia2016" target="_blank" class="celeste descarga-malla-salud">CONOCE TU MALLA<a/>
   	</div>

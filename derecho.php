@@ -25,16 +25,21 @@
 		<div class="introduccion-fjuridica">
 			<h4 class="gris-oscuro">Introducción</h4>
 			<p class="derecho-introduccion gris-oscuro">
-				La carrera de Derecho en la Universidad Iberoamericana 
-				tiene por finalidad contribuir al desarrollo del país con profesionales del Derecho,
-				 formados por académicos de excelencia y calidad, quienes en las aulas utilizan una metodología 
-				 teórica-práctica orientada a preparar licenciados de pregrado con sólidos conocimientos científicos, 
-				 técnicos, valóricos y éticos.
-Nuestros egresados serán profesionales comprometidos con la sociedad, 
-que aborden el fenómeno jurídico de manera correcta y enfrenten los 
-cambios sociales que se presenten en el quehacer jurídico, siempre 
-enmarcado en un mundo globalizado. Además serán capaces de analizar,
- argumentar, resolver e investigar las situaciones jurídicas identificando las fuentes y los hechos relevantes.
+“El egresado de Derecho de la Universidad Iberoamericana de Ciencias y Tecnología será un 
+
+profesional abordará el fenómeno jurídico de manera concreta y enfrentar los cambios que se 
+
+presenten en el quehacer jurídico, siempre enmarcado en un mundo globalizado. Capaz de 
+
+analizar, argumentar y resolver situaciones jurídicas, con un adecuado manejo de las fuentes, 
+
+identificando los hechos relevantes, las normas y principios aplicables y dando una solución al 
+
+problema planteado. Profesional comprometido (a) con el quehacer jurídico nacional, capaces de 
+
+ajustarse a los cambios sociales; y  en el ámbito profesional orientado a la equidad, a la justicia y a 
+
+la ética”.
 
 			</p>
 		</div>
@@ -42,10 +47,10 @@ enmarcado en un mundo globalizado. Además serán capaces de analizar,
 		<div class="informacion-directora-fjuridica">
 			<!--<img class="acredita-fjuridica" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/derecho.jpg">
-			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-fjuridica gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Prof. Tatiana Cortés Ovando</p>
 			<p class="gris-oscuro">E-mail: tatiana.cortes@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899048</p>
 
 		</div>
 

@@ -41,7 +41,7 @@ con docentes con una amplia y destacada experiencia laboral y académica.			</p>
 		<div class="informacion-directora-fingenieria">
 			<img class="acredita-fingenieria" src="images/3acredita.png">
 			<img src="images/jefes-carreras/ejec-civil-electronica.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela </h4>
 			<p class="gris-oscuro">Ing. José Miguel Santibáñez A.</p>
 			<p class="gris-oscuro">E-mail: jose.santibanez@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9032</p>
@@ -54,8 +54,21 @@ con docentes con una amplia y destacada experiencia laboral y académica.			</p>
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	El egresado de esta carrera es un profesional analítico, innovador y con sólidos conocimientos en las Ciencias Básicas, por lo que puede desarrollarse en docencia, investigación y desarrollo de proyectos. Asimismo está capacitado para generar, supervisar y ejecutar proyectos en Telecomunicaciones e Informática o Automatización y Robótica.
-	 </p>
+El egresado de Ingeniería Civil Electrónico de la Universidad Iberoamericana de Ciencias y 
+
+Tecnología es un profesional formado en la búsqueda de la excelencia académica y profesional, 
+
+con respeto a los valores humanos y ambientales y con énfasis en la experiencia práctica. Este 
+
+profesional posee las competencias para desempeñarse en la Formulación, Evaluación, Operación 
+
+y Mantención de sistemas electrónicos, planificar, dirigir, supervisar y ejecutar proyectos de 
+
+Ingeniería Electrónica en las áreas de Telecomunicaciones e Informática o de Automatización y 
+
+Robótica, e interrelacionarse con otras especialidades de la ingeniería, con la capacidad de 
+
+incorporar cambios tecnológicos.	 </p>
 	</div>
 
 <!-- cajaseccion 2 -->

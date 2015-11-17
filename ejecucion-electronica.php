@@ -33,10 +33,10 @@ La Ingeniería en Ejecución Electrónica que se imparte en la Universidad Ibero
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/ejec-civil-electronica.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela </h4>
 			<p class="gris-oscuro">Ing. José Miguel Santibáñez A.</p>
 			<p class="gris-oscuro">E-mail: jose.santibanez@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 223899032.</p>
+			<p class="gris-oscuro">Teléfono: +56 223899032</p>
 
 		</div>
 
@@ -46,8 +46,21 @@ La Ingeniería en Ejecución Electrónica que se imparte en la Universidad Ibero
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-El egresado de Ingeniería en Ejecución Electrónica es un profesional  formado en la búsqueda de la excelencia y con alto sentido social, gracias al énfasis de prácticas profesionales en el ámbito de una cultura universidad-empresa. Junto con ello, posee las competencias para desempeñarse en la operación y mantención de los sistemas de su especialidad, como también en la supervisión y ejecución de proyectos en las áreas de Telecomunicaciones e Informática o de Automatización y Robótica.
-	 </p>
+El egresado de Ingeniería Ejecución Electrónica de la Universidad Iberoamericana de Ciencias y 
+
+Tecnología es un profesional posee las competencias para desempeñarse en la operación y 
+
+mantención de los sistemas de su especialidad, supervisar y ejecutar proyectos de Ingeniería 
+
+Electrónica en las áreas de las Telecomunicaciones e Informática y de Automatización y Robótica, 
+
+e interrelacionarse con otras especialidades de la ingeniería, con la capacidad de incorporar 
+
+cambios tecnológicos. La formación dada a través de las asignaturas de Administración de 
+
+Empresas y Economía, Evaluación de Proyectos y Control de Calidad lo habilita para ser una 
+
+instancia de apoyo al desarrollo en el sector empresarial.	 </p>
 	</div>
 
 <!-- cajaseccion 2 -->

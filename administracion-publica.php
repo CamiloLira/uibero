@@ -52,11 +52,11 @@ productos que pone a disposición de la sociedad.
 		<div class="informacion-directora-fingenieria">
 			<img class="acredita-fingenieria" >
 			<img src="images/jefes-carreras/administracion.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela</h4>
 			<p class="gris-oscuro">Mg. Yamil Musa Iratzagorria</p>
 			
 			<p class="gris-oscuro">E-mail: Yamil.musa@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 2389 9071.</p>
+			<p class="gris-oscuro">Teléfono: +56 2 2389 9071</p>
 
 		</div>
 
@@ -66,15 +66,15 @@ productos que pone a disposición de la sociedad.
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 El egresado de Administración Pública de la Universidad Iberoamericana de Ciencias y Tecnología 
+El egresado de Administración Pública de la Universidad Iberoamericana de Ciencias y Tecnología 
 
 será un profesional probo, que en su desempeño laboral buscará continuamente la excelencia, 
 
 entendiendo que la ética y transparencia pública son pilares fundamentales para lograr esta 
 
-máxima. Herramientas académicas que le permitirán insertarse de manera dinámica en diversos ámbitos 
+máxima. Herramientas académicas que le permitirán insertarse de manera dinámica en diversos 
 
-con eficiencia y efectividad. Por lo general los administradores públicos se desempeñan 
+ámbitos con eficiencia y efectividad. Por lo general los administradores públicos se desempeñan 
 
 laboralmente en el marco del Estado, pero también se pueden desarrollar en el sector privado.
 	 </p>

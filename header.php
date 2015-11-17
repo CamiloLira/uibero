@@ -22,7 +22,10 @@
 
 <header id="header-admision">
 		<figure>
-			<a href="http://www.uiberoamericana.cl/"><img class="logo" src="images/logo.png"></a>
+			<a href="http://www.uiberoamericana.cl/" ><img class="logo"  src="images/logo.png" title="Pagina Principal Uibero"></a>
+		</figure>
+		<figure>
+			<a href="http://www.uiberoamericana.cl/" ><img class="volver"  src="images/volver.png" width="170px" title="Pagina Principal Uibero"></a>
 		</figure>
 		<nav id="menu-admision">
 		  <ul>	

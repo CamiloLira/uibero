@@ -35,10 +35,10 @@
 		<div class="informacion-directora-fingenieria">
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/ingenieria-comercial.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela</h4>
 			<p class="gris-oscuro">Mg. Georg Spee Gaona</p>
 			<p class="gris-oscuro">E-mail: george.spee@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 23899082.</p>
+			<p class="gris-oscuro">Teléfono: +56 2 23899082</p>
 
 		</div>
 
@@ -48,10 +48,23 @@
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-	 	Es un profesional que está capacitado para liderar empresas y 
-	 	organizaciones, ya que su formación está orientada a la administración y 
-	 	gestión de empresas. Posee conocimientos en marketing, finanzas, recursos humanos, 
-	 	economía y tecnologías de la información.
+El egresado de Ingeniería Comercial de la Universidad Iberoamericana de Ciencias y Tecnología 
+
+estará capacitado para desempeñarse  en empresas e instituciones modernas insertas en un 
+
+entorno cambiante, competitivo y global, aplicando conocimientos propios de las Ciencias de la 
+
+Administración, economía y otras ciencias sociales y tecnologías de la información;desarrollar las  
+
+funciones propias de la Administración  General y de sus áreas funcionales; administrar los 
+
+recursos financieros disponibles, analizando y controlando la información financiera, identificando, 
+
+definiendo, investigando, interpretando y entendiendo los fenómenos económicos y/o 
+
+administrativos, proponiendo acciones y políticas que los orienten y conduzcan positivamente y 
+
+manifestar creatividad e innovación, desarrollando e implementando estrategias de Marketing.
 	 </p>
 	</div>
 

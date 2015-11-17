@@ -127,29 +127,30 @@ a {
 
 .facebook-barra-admision{
 	
-    width: 32px;
+     width: 45px;
     height: 43px;
     position: absolute;
-    top: 277px;
-    left:  65%;
+    top: 270px;
+    left: 63%;
     z-index: 2321312;
+
 }
 
 .twitter-barra-admision{
      width: 38px;
     height: 43px;
     position: absolute;
-    top: 277px;
+    top: 269px;
     left: 72%;
     z-index: 2321312;
 }
 
 .instagram-barra-admision{
-	    width: 38px;
+    width: 38px;
     height: 43px;
     position: absolute;
-    top: 277px;
-    left: 79%;
+    top: 268px;
+    left: 81%;
     z-index: 2321312;
 }
 
@@ -188,6 +189,13 @@ a {
 	left: 3%;
 }
 
+
+.volver{
+	position: relative;	
+	top: -111px;
+	left: 75%;
+
+}
 
 /*CSS HOME*/
 

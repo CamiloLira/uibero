@@ -39,7 +39,7 @@ La Universidad Iberoamericana posee diversos conveníos con municipalidades, cen
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/enfermeria.jpg">
-			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-salud gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Mg. María Soledad Chamorro</p>
 			<p class="gris-oscuro">E-mail: maria.chamorro@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9008</p>
@@ -52,12 +52,23 @@ La Universidad Iberoamericana posee diversos conveníos con municipalidades, cen
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-Es un profesional comprometido, versátil y con alto sentido social. Capaz de participar en 
+El egresado de Enfermería  de la Universidad Iberoamericana de Ciencias y Tecnología en 
 
-instancias interdisciplinarias y solucionar demandas de salud en cualquier nivel. De hecho, la 
+concordancia con nuestra misión institucional será un profesional    con  una mirada  holística del 
 
-valoración de sus pares en los diferentes campos clínicos posiciona a las enfermeras(os)
-de nuestra universidad en los más altos estándares. Las posibilidades de intercambio, prácticas en diferentes campos clínicos y la preponderancia que se le otorga a la experiencia docente de los estudiantes a través de las ayudantías, permiten que los profesionales puedan adaptarse a diversos escenarios. 
+ser humano en todas sus dimensiones, visión amplia de la sociedad,  respeto y tolerancia a la 
+
+persona, sentido  de solidaridad y búsqueda del  bien común;  sentido de    justicia, confianza y 
+
+competente en el área cognitiva, procedimental, con una vocación  y disposición de servicio en un 
+
+enfoque centrado en la familia y la comunidad que valora la educación para la salud como un 
+
+proceso que favorece estilos de vida saludable y como un medio para que las personas y grupos  
+
+logren autonomía en el cuidado de su salud, basado en  principios éticos de respeto por la vida, la 
+
+diversidad,  con actitud analítica, pensamiento crítico y reflexivo.
 	</p>
 	</div>
 

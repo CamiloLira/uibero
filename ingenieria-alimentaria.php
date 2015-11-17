@@ -37,10 +37,10 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 			<!--<img class="acredita-fingenieria" src="images/3acredita.png">-->
 			<br>
 			<img src="images/jefes-carreras/alimentaria.jpg">
-			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Carrera </h4>
+			<h4 class="director-carrera-fingenieria gris-oscuro">Director de Escuela </h4>
 			<p class="gris-oscuro">Ing. Hugo Torti Ivanovich</p>
 			<p class="gris-oscuro">E-mail: hugo.torti@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono:+56 2 2389 9031.</p>
+			<p class="gris-oscuro">Teléfono:+56 2 2389 9031</p>
 
 		</div>
 
@@ -50,7 +50,19 @@ Nuestra  Casa de Estudios prepara profesionales altamente capacitados en innovac
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-Es un profesional capacitado para desarrollar y ejecutar proyectos en el campo de la generación de nuevos productos alimentarios, y en el control y el aseguramiento de la calidad e inocuidad de los productos alimenticios. Junto con ello, está capacitado para dirigir y desarrollar proyectos tecnológicos.	 </p>
+El egresado de Ingeniería de Ejecución en Industria Alimentaria de la Universidad Iberoamericana 
+
+de Ciencias y Tecnología será un profesional capacitado para planear, desarrollar, ejecutar 
+
+proyectos de ingeniería en el campo de la creación de nuevas líneas de producción, la generación 
+
+de nuevos productos alimentarios, el control y el aseguramiento de la calidad e inocuidad de los 
+
+productos alimenticios,  capaz de resolver problemas de la realidad tecnológica, empresarial y de 
+
+servicios, fundamentando sus análisis y soluciones con el conocimiento científico y tecnológico de 
+
+diversas disciplinas. </p>
 	</div>
 
 <!-- cajaseccion 2 -->
@@ -62,7 +74,7 @@ Es un profesional capacitado para desarrollar y ejecutar proyectos en el campo d
   		<p class="gris-oscuro">
 De acuerdo a datos del Mineduc, la empleabilidad de la carrera de Ingeniería de Ejecución en Industria Alimentaria, tras el primer año de titulación es de un 87,8%, y de un 88,6% en el segundo.
 Los egresados de nuestra universidad pueden desempeñarse en la generación de nuevos productos alimenticios, cooperando en los Departamentos de Desarrollo de las empresas. Un campo muy importante es el Control de Calidad y de Inocuidad de los Alimentos. Además, está capacitado para dirigir y desarrollar proyectos tecnológicos de mediana envergadura.		</p>
-		<a href="mallas/ing-alimentaria.pdf" download="Ing-Alimentaria2016" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
+		<a href="mallas/ing-ejec-alimentaria.pdf" download="Ing-Alimentaria2016" target="_blank" class="morado descarga-malla-fingenieria-admpublica">CONOCE TU MALLA<a/>
   	</div>
 
   	<!-- info general comercial-->

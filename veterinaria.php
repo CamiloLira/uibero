@@ -35,7 +35,7 @@
 		<div class="informacion-directora-fnaturales">
 			<img class="acredita-fnaturales" src="images/4acreditacion.jpg">
 			<img src="images/jefes-carreras/veterinaria.jpg">
-			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-fnaturales gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Prof. Marcia Jarpa Hernández</p>
 			<p class="gris-oscuro">E-mail: marcia.jarpa@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9047</p>
@@ -48,8 +48,15 @@
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-El Médico Veterinario de la Universidad Iberoamericana es un profesional con alta vocación de servicio y se distingue por su espíritu práctico y formación generalista.  
-Por la calidad de sus docentes, el espíritu colaborativo de su escuela y las actividades realizadas entre la institución y municipalidades, es que el estudiante tiene la posibilidad de participar en varias instancias de formación práctica a lo largo de su carrera. Además, el  prestigio y la trayectoria de la carrera de Medicina Veterinaria se reflejan en la posición de muchos de sus ex alumnos, quienes ejercen puestos de autoridad en diversos organismos.  	 </p>
+El egresado de Medicina Veterinaria de la Universidad Iberoamericana de Ciencias y Tecnología 
+
+será un profesional para desempeñarse en los cuatro ámbitos de la profesión: Salud Animal, Salud 
+
+Pública, Producción Pecuaria y Protección del Medio Ambiente, egresando preparados para 
+
+identificar, plantear y resolver problemas, tanto en forma individual como integrando equipos 
+
+multidisciplinarios.	 </p>
 	</div>
 
 <!-- cajaseccion 2 -->

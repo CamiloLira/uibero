@@ -36,7 +36,7 @@ La carrera de Tecnología Médica en la Universidad Iberoamericana
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/tecnologia-medica.jpg">
-			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-salud gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Mg. Waleska De la Guarda Torrijos</p>
 			<p class="gris-oscuro">E-mail: waleska.delaguarda@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9117</p>
@@ -49,11 +49,21 @@ La carrera de Tecnología Médica en la Universidad Iberoamericana
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-La carrera de Tecnología Médica en la Universidad Iberoamericana 
-se enfoca en formar a sus alumnos en las competencias necesarias para planificar, 
-ejecutar y evaluar exámenes, métodos, técnicas y procedimientos en los cuales se
- apoya el diagnóstico clínico. Además, ofrece una formación integral que permite a sus titulados 
- participar en equipos de investigación biomédica y campañas de prevención y promoción de la salud.	</p>
+El egresado de Tecnología Médica de la Universidad Iberoamericana de Ciencias y Tecnología será 
+
+un profesional con visión integral, autónomo, con pensamiento crítico y reflexivo, y conocimientos 
+
+en ciencias básicas, con fundamentos biológicos, físicos y bioquímicos y especializados, que lo 
+
+facultan para entregar una atención profesional de calidad, apoyando el  diagnostico y tratamiento 
+
+médico en forma resolutiva, confiable y oportuna, como también la prevención, fomento y 
+
+recuperación de la salud. Capacitado para actualizarse y adaptarse a la realidad laboral, cambios 
+
+tecnológicos y científicos, lo que le permite desempeñarse en el ámbito asistencial, en equipos de 
+
+investigación biomédica, como también gestión y administración en salud.</p>
 	</div>
 
 <!-- cajaseccion 2 -->

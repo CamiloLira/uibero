@@ -38,7 +38,7 @@ La carrera de Nutrición instruye a sus estudiantes en tres áreas propias de la
 		<div class="mover-informacion-enfermeria">
 			<!--<img class="acredita-salud" src="images/3acredita.png">-->
 			<img src="images/jefes-carreras/nutricion.jpg">
-			<h4 class="director-carrera-salud gris-oscuro">Directora de Carrera </h4>
+			<h4 class="director-carrera-salud gris-oscuro">Directora de Escuela </h4>
 			<p class="gris-oscuro">Prof. Javiera Yáñez Ormeño</p>
 			<p class="gris-oscuro">E-mail: javiera.yanez@uibero.cl</p>
 			<p class="gris-oscuro">Teléfono: +56 2 2389 9190</p>
@@ -51,7 +51,23 @@ La carrera de Nutrición instruye a sus estudiantes en tres áreas propias de la
 	 <h4 class="gris-oscuro">Perfil Egresado</h4>
 	 <br>
 	 <p class="gris-oscuro">
-El Nutricionista egresado en la Universidad Iberoamericana será un profesional integral, crítico de su quehacer, capaz de desempeñarse en funciones como la promoción, prevención, diagnóstico, tratamiento, recuperación y/o rehabilitación, con capacidad de gestión en la identificación y resolución de problemas en los ámbitos de la salud comunitaria, clínica, alimentación colectiva e institucional. Además, los profesionales han de mostrar vocación y disposición de servicio, entendiendo y afrontando las necesidades y exigencias del país en sectores públicos y privados.  
+El egresado de Nutrición y Dietética de la Universidad Iberoamericana de Ciencias y Tecnología es 
+
+un profesional integral y ético en la aplicación de las ciencias básicas y de las tres áreas propias de 
+
+la disciplina, calificado en lo cognitivo, procedimental y actitudinal en las áreas científicas 
+
+tecnológicas y comunicativas propias de la disciplina, demostrando desempeños competentes en 
+
+el quehacer profesional, cumpliendo funciones de promoción, prevención, diagnóstico, 
+
+tratamiento, recuperación y/o rehabilitación, de gestión y de investigación, con capacidad de 
+
+gestión en la identificación y resolución de problemas en los ámbitos de la salud comunitaria, 
+
+clínica y alimentación institucional; con vocación y disposición de servicio que lo lleve a actuar como integrante de un equipo interdisciplinario en los diversos niveles de acuerdo a las 
+
+necesidades, prioridades y exigencias del país.
 	</p>
 	</div>
 
