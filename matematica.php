@@ -33,11 +33,11 @@ La formación ofrecida por la universidad tiene un fuerte componente práctico g
 		
 		<div class="informacion-directora-educacion">
 			<img class="acredita-educacion" src="images/3acredita.png">
-			<img src="images/jefes-carreras/educacion.jpg">
-			<h4 class="director-carrera-educacion gris-oscuro">Jefa de Carrera</h4>
-			<p class="gris-oscuro">Prof.Laura Millán Huidobro</p>
-			<p class="gris-oscuro">E-mail: laura.millan@uibero.cl</p>
-			<p class="gris-oscuro">Teléfono: +56 2 2389 9107</p>
+			<!--<img src="images/ibero1.png>-->
+			<h4 class="director-carrera-educacion gris-oscuro"><br></h4>
+			<p class="gris-oscuro"></p>
+			<p class="gris-oscuro">E-mail: admision@uibero.cl</p>
+			<p class="gris-oscuro">Teléfono: (02) 23899000 </p>
 
 		</div>
 
